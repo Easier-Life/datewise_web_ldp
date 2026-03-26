@@ -1,6 +1,7 @@
 'use client'
 
 import Link from 'next/link'
+import Image from 'next/image'
 import { usePathname } from 'next/navigation'
 import { useState } from 'react'
 import { useLang } from '@/lib/i18n'
@@ -47,20 +48,14 @@ export default function Navbar() {
               flexShrink: 0,
             }}
           >
-            <div
-              style={{
-                width: '32px',
-                height: '32px',
-                borderRadius: '8px',
-                background: 'linear-gradient(135deg, #2DD4BF, #0EA5E9)',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                fontSize: '16px',
-              }}
-            >
-              ✦
-            </div>
+            <Image
+              src="/logo-32.png"
+              alt="DateWise"
+              width={32}
+              height={32}
+              style={{ borderRadius: '8px' }}
+              priority
+            />
             <span
               style={{
                 fontSize: '18px',
