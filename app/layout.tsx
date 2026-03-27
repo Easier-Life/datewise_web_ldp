@@ -22,11 +22,11 @@ export const metadata: Metadata = {
   keywords: ['dating app', 'dating coach', 'AI dating', 'profile optimizer', 'relationship advice'],
   authors: [{ name: 'DateWise' }],
   creator: 'DateWise',
-  metadataBase: new URL('https://datewise.app'),
+  metadataBase: new URL('https://datewise.easier.today'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://datewise.app',
+    url: 'https://datewise.easier.today',
     siteName: 'DateWise',
     title: 'DateWise — AI Dating Companion',
     description:
