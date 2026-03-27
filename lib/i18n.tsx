@@ -251,7 +251,7 @@ California residents have additional rights under the California Consumer Privac
 - Right to Correct: Request correction of inaccurate personal information.
 - Right to Limit Use of Sensitive Personal Information: Where applicable.
 
-To exercise California rights, contact us at support@datewise.easier.today with the subject line "CCPA Request."
+To exercise California rights, contact us at support.datewise@easier.today with the subject line "CCPA Request."
 
 **7.3 EU/EEA Residents (GDPR)**
 EU/EEA residents have rights under the General Data Protection Regulation:
@@ -260,12 +260,12 @@ EU/EEA residents have rights under the General Data Protection Regulation:
 - Supervisory Authority: You have the right to lodge a complaint with your local data protection authority.
 - International Transfers: Data may be transferred to the United States. We rely on Standard Contractual Clauses (SCCs) or other approved mechanisms for such transfers.
 
-To exercise any privacy right, email us at support@datewise.easier.today. We will respond within 30 days (or 45 days for complex requests).`,
+To exercise any privacy right, email us at support.datewise@easier.today. We will respond within 30 days (or 45 days for complex requests).`,
 
     'privacy.s8.title': '8. Children\'s Privacy',
     'privacy.s8.content': `DateWise is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. Users between ages 13 and 17 may use the Service only with verifiable parental or guardian consent.
 
-If you are a parent or guardian and believe your child under 13 has provided us with personal information, please contact us immediately at support@datewise.easier.today. We will promptly delete such information from our systems.
+If you are a parent or guardian and believe your child under 13 has provided us with personal information, please contact us immediately at support.datewise@easier.today. We will promptly delete such information from our systems.
 
 We comply with the Children's Online Privacy Protection Act (COPPA) and similar laws in other jurisdictions.`,
 
@@ -318,12 +318,12 @@ Your continued use of the Service after changes become effective constitutes you
     'privacy.s12.content': `If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
 **DateWise Support**
-Email: support@datewise.easier.today
+Email: support.datewise@easier.today
 Subject: Privacy Inquiry
 
 We are committed to resolving privacy concerns promptly and will respond to all inquiries within 30 business days.
 
-For urgent data security concerns or potential breaches, please email support@datewise.easier.today with the subject line "URGENT: Security Concern."`,
+For urgent data security concerns or potential breaches, please email support.datewise@easier.today with the subject line "URGENT: Security Concern."`,
 
     // Terms
     'terms.title': 'Terms of Service',
@@ -543,7 +543,7 @@ We recommend reviewing these Terms periodically. Material changes will not apply
 For questions about these Terms of Service, please contact:
 
 DateWise Support
-Email: support@datewise.easier.today
+Email: support.datewise@easier.today
 Subject: Terms of Service Inquiry
 
 **15.2 Entire Agreement**
@@ -579,9 +579,9 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'support.faq.q6': 'Does DateWise work for all sexual orientations and relationship types?',
     'support.faq.a6': 'Yes! DateWise is fully inclusive and designed to help all users regardless of sexual orientation, gender identity, or relationship style (monogamous, polyamorous, casual, serious, etc.). During onboarding, you specify your preferences, and all AI coaching is tailored accordingly.',
     'support.faq.q7': 'How do I clear my data or reset the app?',
-    'support.faq.a7': 'DateWise stores all your data locally on your device — there is no account or server-side profile. To clear your data, go to Settings (bottom tab) > Clear Data > Confirm. This permanently removes all local data including your onboarding profile and analysis history. You can also simply uninstall the app to remove all data. If you need further help, email us at support@datewise.easier.today.',
+    'support.faq.a7': 'DateWise stores all your data locally on your device — there is no account or server-side profile. To clear your data, go to Settings (bottom tab) > Clear Data > Confirm. This permanently removes all local data including your onboarding profile and analysis history. You can also simply uninstall the app to remove all data. If you need further help, email us at support.datewise@easier.today.',
     'support.faq.q8': 'The app is not working correctly. What should I do?',
-    'support.faq.a8': 'First, try closing and reopening the app. If issues persist, try: (1) Check your internet connection; (2) Update to the latest version of DateWise from the App Store or Google Play; (3) Restart your device; (4) Uninstall and reinstall the app (your local data will be cleared on reinstall). If none of these steps help, please contact us at support@datewise.easier.today with a description of the issue and your device model and OS version.',
+    'support.faq.a8': 'First, try closing and reopening the app. If issues persist, try: (1) Check your internet connection; (2) Update to the latest version of DateWise from the App Store or Google Play; (3) Restart your device; (4) Uninstall and reinstall the app (your local data will be cleared on reinstall). If none of these steps help, please contact us at support.datewise@easier.today with a description of the issue and your device model and OS version.',
     'support.contact.badge': 'Get in Touch',
     'support.contact.title': 'Contact Support',
     'support.contact.subtitle': 'Can\'t find what you need? Send us a message and we\'ll respond within 24 hours.',
@@ -608,7 +608,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'delete.method1.step5': 'Read the confirmation dialog carefully and tap "Confirm Delete" to permanently delete your account.',
     'delete.method2.title': 'Method 2: Email Request',
     'delete.method2.text': 'If you cannot access the app, you can request account deletion by email:',
-    'delete.method2.step1': 'Send an email to support@datewise.easier.today',
+    'delete.method2.step1': 'Send an email to support.datewise@easier.today',
     'delete.method2.step2': 'Use the subject line: "Account Deletion Request"',
     'delete.method2.step3': 'Include the email address associated with your DateWise account',
     'delete.method2.step4': 'We will process your request within 5 business days and send you a confirmation',
@@ -618,7 +618,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'delete.dataInfo.2': 'All personal data will be permanently deleted within 30 days.',
     'delete.dataInfo.3': 'Purchase records may be retained for up to 7 years for accounting and legal compliance purposes.',
     'delete.dataInfo.4': 'Anonymized, aggregated usage data that cannot be linked to you may be retained for service improvement.',
-    'delete.contact': 'Questions? Contact us at support@datewise.easier.today',
+    'delete.contact': 'Questions? Contact us at support.datewise@easier.today',
   },
 
   vi: {
@@ -846,7 +846,7 @@ Cư dân California có các quyền bổ sung theo Đạo luật Quyền riêng
 **7.3 Cư dân EU/EEA (GDPR)**
 Cư dân EU/EEA có các quyền theo Quy định Bảo vệ Dữ liệu Chung.
 
-Để thực hiện bất kỳ quyền bảo mật nào, hãy gửi email cho chúng tôi tại support@datewise.easier.today.`,
+Để thực hiện bất kỳ quyền bảo mật nào, hãy gửi email cho chúng tôi tại support.datewise@easier.today.`,
 
     'privacy.s8.title': '8. Quyền Riêng Tư Của Trẻ Em',
     'privacy.s8.content': `DateWise không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố tình thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi. Người dùng từ 13 đến 17 tuổi chỉ có thể sử dụng Dịch vụ với sự đồng ý của cha mẹ hoặc người giám hộ.`,
@@ -892,7 +892,7 @@ Việc tiếp tục sử dụng Dịch vụ sau khi các thay đổi có hiệu 
     'privacy.s12.title': '12. Liên Hệ Chúng Tôi',
     'privacy.s12.content': `Nếu bạn có câu hỏi về Chính Sách Bảo Mật này, vui lòng liên hệ:
 
-Email: support@datewise.easier.today
+Email: support.datewise@easier.today
 Chủ đề: Yêu cầu Quyền riêng tư`,
 
     // Terms - Vietnamese
@@ -1059,7 +1059,7 @@ Chúng tôi khuyên bạn nên xem lại các Điều Khoản này định kỳ.
     'terms.s15.content': `**15.1 Liên hệ**
 Đối với câu hỏi về Điều Khoản Dịch Vụ này, vui lòng liên hệ:
 
-Email: support@datewise.easier.today
+Email: support.datewise@easier.today
 Chủ đề: Yêu cầu Điều Khoản Dịch Vụ
 
 **15.2 Toàn bộ thỏa thuận**
@@ -1086,9 +1086,9 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
     'support.faq.q6': 'DateWise có hoạt động cho mọi xu hướng tình dục và loại mối quan hệ không?',
     'support.faq.a6': 'Có! DateWise được thiết kế hoàn toàn để giúp tất cả người dùng bất kể xu hướng tình dục, giới tính hoặc phong cách mối quan hệ.',
     'support.faq.q7': 'Làm thế nào để xóa dữ liệu hoặc đặt lại ứng dụng?',
-    'support.faq.a7': 'DateWise lưu trữ toàn bộ dữ liệu của bạn ngay trên thiết bị — không có tài khoản hay dữ liệu trên máy chủ. Để xóa dữ liệu, vào Cài đặt > Xóa dữ liệu > Xác nhận. Thao tác này xóa vĩnh viễn tất cả dữ liệu local bao gồm hồ sơ onboarding và lịch sử phân tích. Bạn cũng có thể gỡ cài đặt ứng dụng để xóa toàn bộ dữ liệu. Nếu cần thêm hỗ trợ, hãy email chúng tôi tại support@datewise.easier.today.',
+    'support.faq.a7': 'DateWise lưu trữ toàn bộ dữ liệu của bạn ngay trên thiết bị — không có tài khoản hay dữ liệu trên máy chủ. Để xóa dữ liệu, vào Cài đặt > Xóa dữ liệu > Xác nhận. Thao tác này xóa vĩnh viễn tất cả dữ liệu local bao gồm hồ sơ onboarding và lịch sử phân tích. Bạn cũng có thể gỡ cài đặt ứng dụng để xóa toàn bộ dữ liệu. Nếu cần thêm hỗ trợ, hãy email chúng tôi tại support.datewise@easier.today.',
     'support.faq.q8': 'Ứng dụng không hoạt động đúng. Tôi phải làm gì?',
-    'support.faq.a8': 'Trước tiên, hãy thử đóng và mở lại ứng dụng. Nếu vấn đề vẫn còn, hãy thử: (1) Kiểm tra kết nối internet; (2) Cập nhật lên phiên bản mới nhất của DateWise; (3) Khởi động lại thiết bị; (4) Gỡ cài đặt và cài đặt lại ứng dụng (dữ liệu local sẽ bị xóa khi cài lại). Nếu không có bước nào giúp ích, vui lòng liên hệ chúng tôi tại support@datewise.easier.today.',
+    'support.faq.a8': 'Trước tiên, hãy thử đóng và mở lại ứng dụng. Nếu vấn đề vẫn còn, hãy thử: (1) Kiểm tra kết nối internet; (2) Cập nhật lên phiên bản mới nhất của DateWise; (3) Khởi động lại thiết bị; (4) Gỡ cài đặt và cài đặt lại ứng dụng (dữ liệu local sẽ bị xóa khi cài lại). Nếu không có bước nào giúp ích, vui lòng liên hệ chúng tôi tại support.datewise@easier.today.',
     'support.contact.badge': 'Liên hệ',
     'support.contact.title': 'Liên Hệ Hỗ Trợ',
     'support.contact.subtitle': 'Không tìm thấy những gì bạn cần? Gửi tin nhắn cho chúng tôi và chúng tôi sẽ phản hồi trong vòng 24 giờ.',
@@ -1115,7 +1115,7 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
     'delete.method1.step5': 'Đọc kỹ hộp thoại xác nhận và nhấn "Xác nhận xóa" để xóa tài khoản vĩnh viễn.',
     'delete.method2.title': 'Phương thức 2: Yêu cầu qua email',
     'delete.method2.text': 'Nếu bạn không thể truy cập ứng dụng, bạn có thể yêu cầu xóa tài khoản qua email:',
-    'delete.method2.step1': 'Gửi email đến support@datewise.easier.today',
+    'delete.method2.step1': 'Gửi email đến support.datewise@easier.today',
     'delete.method2.step2': 'Sử dụng tiêu đề: "Yêu cầu Xóa Tài Khoản"',
     'delete.method2.step3': 'Bao gồm địa chỉ email liên kết với tài khoản DateWise của bạn',
     'delete.method2.step4': 'Chúng tôi sẽ xử lý yêu cầu của bạn trong vòng 5 ngày làm việc',
@@ -1125,7 +1125,7 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
     'delete.dataInfo.2': 'Tất cả dữ liệu cá nhân sẽ được xóa vĩnh viễn trong vòng 30 ngày.',
     'delete.dataInfo.3': 'Hồ sơ mua hàng có thể được lưu giữ tối đa 7 năm.',
     'delete.dataInfo.4': 'Dữ liệu sử dụng tổng hợp ẩn danh không thể liên kết với bạn có thể được giữ lại.',
-    'delete.contact': 'Câu hỏi? Liên hệ chúng tôi tại support@datewise.easier.today',
+    'delete.contact': 'Câu hỏi? Liên hệ chúng tôi tại support.datewise@easier.today',
   }
 }
 

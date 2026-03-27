@@ -146,7 +146,7 @@ export default function SupportPage() {
               const email = (form.elements.namedItem('email') as HTMLInputElement).value
               const subject = (form.elements.namedItem('subject') as HTMLInputElement).value
               const message = (form.elements.namedItem('message') as HTMLTextAreaElement).value
-              window.location.href = `mailto:support@datewise.easier.today?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`)}`
+              window.location.href = `mailto:support.datewise@easier.today?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`)}`
             }}
             style={{ display: 'flex', flexDirection: 'column', gap: '16px', textAlign: 'left' }}
           >
@@ -222,8 +222,8 @@ export default function SupportPage() {
           <div style={{ marginTop: '32px', paddingTop: '32px', borderTop: '1px solid rgba(255,255,255,0.06)' }}>
             <p style={{ fontSize: '14px', color: '#94A3B8' }}>
               {t('support.contact.emailDirect')}{' '}
-              <a href="mailto:support@datewise.easier.today" style={{ color: '#2DD4BF', textDecoration: 'none', fontWeight: 600 }}>
-                support@datewise.easier.today
+              <a href="mailto:support.datewise@easier.today" style={{ color: '#2DD4BF', textDecoration: 'none', fontWeight: 600 }}>
+                support.datewise@easier.today
               </a>
             </p>
             <p style={{ fontSize: '13px', color: '#475569', marginTop: '8px' }}>
