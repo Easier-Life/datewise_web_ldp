@@ -16,6 +16,7 @@ export default function Navbar() {
     { href: '/about', label: t('nav.about') },
     { href: '/privacy', label: t('nav.privacy') },
     { href: '/terms', label: t('nav.terms') },
+    { href: '/support', label: t('nav.support') },
   ]
 
   const isActive = (href: string) => {

@@ -19,6 +19,7 @@ const translations = {
     'nav.about': 'About',
     'nav.privacy': 'Privacy',
     'nav.terms': 'Terms',
+    'nav.support': 'Support',
     'nav.download': 'Download App',
 
     // Footer
@@ -31,6 +32,7 @@ const translations = {
     'footer.howItWorks': 'How It Works',
     'footer.pricing': 'Pricing',
     'footer.about': 'About Us',
+    'footer.support': 'Support',
     'footer.privacy': 'Privacy Policy',
     'footer.terms': 'Terms of Service',
 
@@ -576,10 +578,10 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'support.faq.a5': 'Sparks are consumable credits and are non-refundable once purchased, consistent with standard app store policies. For subscription refund requests, please contact Apple (App Store) or Google (Google Play) directly, as all payments are processed through those platforms. We do not process refunds directly. Refund decisions are at the discretion of Apple or Google per their respective policies.',
     'support.faq.q6': 'Does DateWise work for all sexual orientations and relationship types?',
     'support.faq.a6': 'Yes! DateWise is fully inclusive and designed to help all users regardless of sexual orientation, gender identity, or relationship style (monogamous, polyamorous, casual, serious, etc.). During onboarding, you specify your preferences, and all AI coaching is tailored accordingly.',
-    'support.faq.q7': 'How do I delete my account and all my data?',
-    'support.faq.a7': 'You can delete your account directly within the app: Go to Settings (bottom tab) > Account > Delete Account > Confirm. All your personal data will be permanently deleted within 30 days. Alternatively, you can email support@datewise.app requesting account deletion, and we\'ll process it within 5 business days.',
+    'support.faq.q7': 'How do I clear my data or reset the app?',
+    'support.faq.a7': 'DateWise stores all your data locally on your device — there is no account or server-side profile. To clear your data, go to Settings (bottom tab) > Clear Data > Confirm. This permanently removes all local data including your onboarding profile and analysis history. You can also simply uninstall the app to remove all data. If you need further help, email us at support@datewise.app.',
     'support.faq.q8': 'The app is not working correctly. What should I do?',
-    'support.faq.a8': 'First, try closing and reopening the app. If issues persist, try: (1) Check your internet connection; (2) Update to the latest version of DateWise from the App Store or Google Play; (3) Restart your device; (4) Uninstall and reinstall the app (your data is saved to your account). If none of these steps help, please contact us at support@datewise.app with a description of the issue and your device model and OS version.',
+    'support.faq.a8': 'First, try closing and reopening the app. If issues persist, try: (1) Check your internet connection; (2) Update to the latest version of DateWise from the App Store or Google Play; (3) Restart your device; (4) Uninstall and reinstall the app (your local data will be cleared on reinstall). If none of these steps help, please contact us at support@datewise.app with a description of the issue and your device model and OS version.',
     'support.contact.badge': 'Get in Touch',
     'support.contact.title': 'Contact Support',
     'support.contact.subtitle': 'Can\'t find what you need? Send us a message and we\'ll respond within 24 hours.',
@@ -625,6 +627,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'nav.about': 'Giới thiệu',
     'nav.privacy': 'Bảo mật',
     'nav.terms': 'Điều khoản',
+    'nav.support': 'Hỗ trợ',
     'nav.download': 'Tải ứng dụng',
 
     // Footer
@@ -637,6 +640,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'footer.howItWorks': 'Cách hoạt động',
     'footer.pricing': 'Bảng giá',
     'footer.about': 'Về chúng tôi',
+    'footer.support': 'Hỗ trợ',
     'footer.privacy': 'Chính sách bảo mật',
     'footer.terms': 'Điều khoản dịch vụ',
 
@@ -1081,10 +1085,10 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
     'support.faq.a5': 'Sparks không được hoàn tiền sau khi mua. Đối với yêu cầu hoàn tiền đăng ký, vui lòng liên hệ trực tiếp Apple (App Store) hoặc Google (Google Play).',
     'support.faq.q6': 'DateWise có hoạt động cho mọi xu hướng tình dục và loại mối quan hệ không?',
     'support.faq.a6': 'Có! DateWise được thiết kế hoàn toàn để giúp tất cả người dùng bất kể xu hướng tình dục, giới tính hoặc phong cách mối quan hệ.',
-    'support.faq.q7': 'Làm thế nào để xóa tài khoản và tất cả dữ liệu của tôi?',
-    'support.faq.a7': 'Bạn có thể xóa tài khoản trực tiếp trong ứng dụng: Vào Cài đặt > Tài khoản > Xóa tài khoản > Xác nhận. Tất cả dữ liệu cá nhân của bạn sẽ bị xóa vĩnh viễn trong vòng 30 ngày.',
+    'support.faq.q7': 'Làm thế nào để xóa dữ liệu hoặc đặt lại ứng dụng?',
+    'support.faq.a7': 'DateWise lưu trữ toàn bộ dữ liệu của bạn ngay trên thiết bị — không có tài khoản hay dữ liệu trên máy chủ. Để xóa dữ liệu, vào Cài đặt > Xóa dữ liệu > Xác nhận. Thao tác này xóa vĩnh viễn tất cả dữ liệu local bao gồm hồ sơ onboarding và lịch sử phân tích. Bạn cũng có thể gỡ cài đặt ứng dụng để xóa toàn bộ dữ liệu. Nếu cần thêm hỗ trợ, hãy email chúng tôi tại support@datewise.app.',
     'support.faq.q8': 'Ứng dụng không hoạt động đúng. Tôi phải làm gì?',
-    'support.faq.a8': 'Trước tiên, hãy thử đóng và mở lại ứng dụng. Nếu vấn đề vẫn còn, hãy thử: (1) Kiểm tra kết nối internet; (2) Cập nhật lên phiên bản mới nhất của DateWise; (3) Khởi động lại thiết bị; (4) Gỡ cài đặt và cài đặt lại ứng dụng. Nếu không có bước nào giúp ích, vui lòng liên hệ chúng tôi tại support@datewise.app.',
+    'support.faq.a8': 'Trước tiên, hãy thử đóng và mở lại ứng dụng. Nếu vấn đề vẫn còn, hãy thử: (1) Kiểm tra kết nối internet; (2) Cập nhật lên phiên bản mới nhất của DateWise; (3) Khởi động lại thiết bị; (4) Gỡ cài đặt và cài đặt lại ứng dụng (dữ liệu local sẽ bị xóa khi cài lại). Nếu không có bước nào giúp ích, vui lòng liên hệ chúng tôi tại support@datewise.app.',
     'support.contact.badge': 'Liên hệ',
     'support.contact.title': 'Liên Hệ Hỗ Trợ',
     'support.contact.subtitle': 'Không tìm thấy những gì bạn cần? Gửi tin nhắn cho chúng tôi và chúng tôi sẽ phản hồi trong vòng 24 giờ.',

@@ -94,6 +94,7 @@ export default function Footer() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
               {[
                 { href: '/about', label: t('footer.about') },
+                { href: '/support', label: t('footer.support') },
               ].map((item) => (
                 <Link
                   key={item.href}
