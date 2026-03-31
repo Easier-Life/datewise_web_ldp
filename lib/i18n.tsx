@@ -52,33 +52,33 @@ const translations = {
     'home.features.title': 'Everything You Need to Win at Dating',
     'home.features.subtitle': 'DateWise combines AI intelligence with dating expertise to give you an unfair advantage in the modern dating landscape.',
     'home.features.profileGlowUp.title': 'Profile Glow Up',
-    'home.features.profileGlowUp.description': 'Upload your profile and get a comprehensive AI analysis. Identify weak signals, optimize your bio, select your best photos, and learn exactly what top-performing profiles do differently.',
+    'home.features.profileGlowUp.description': 'Upload your profile photos and get a 4-section AI diagnosis: what strangers see, your hidden strengths, who you attract, and a prioritized action plan. Disagree with the AI? Challenge it — our debate mode lets you push back and see the score update in real time.',
     'home.features.profileGlowUp.tag1': 'Photo Analysis',
-    'home.features.profileGlowUp.tag2': 'Bio Optimizer',
-    'home.features.profileGlowUp.tag3': 'Signal Score',
+    'home.features.profileGlowUp.tag2': 'AI Debate Mode',
+    'home.features.profileGlowUp.tag3': 'Attraction Score',
     'home.features.vibeCheck.title': 'Vibe Check',
-    'home.features.vibeCheck.description': 'Before investing emotionally, screen potential matches for red flags, compatibility signals, and authentic intent. Get personalized conversation openers tailored to their specific profile.',
-    'home.features.vibeCheck.tag1': 'Red Flag Detection',
+    'home.features.vibeCheck.description': 'Upload up to 8 photos from a match\'s profile and get a full AI dossier: compatibility %, forensic authenticity check, psychological read, green flags & risks, and personalized opening lines tailored to their specific energy.',
+    'home.features.vibeCheck.tag1': 'Forensic Analysis',
     'home.features.vibeCheck.tag2': 'Compatibility Score',
-    'home.features.vibeCheck.tag3': 'Smart Openers',
+    'home.features.vibeCheck.tag3': 'Tailored Openers',
     'home.features.chatCopilot.title': 'Chat Copilot',
-    'home.features.chatCopilot.description': 'Paste your conversation and get instant diagnosis. Is the vibe fading? Are they interested? Get AI-crafted reply suggestions and strategic advice to move from chat to actual dates.',
-    'home.features.chatCopilot.tag1': 'Conversation Diagnosis',
-    'home.features.chatCopilot.tag2': 'Reply Suggestions',
-    'home.features.chatCopilot.tag3': 'Date Strategy',
+    'home.features.chatCopilot.description': 'Screenshot your conversation and get instant AI analysis. Is the vibe shifting? Are they hinting at a meetup? Get reply suggestions with psychological reasoning — not just "what to say," but exactly why it works.',
+    'home.features.chatCopilot.tag1': 'Screenshot Analysis',
+    'home.features.chatCopilot.tag2': 'Reply + Reasoning',
+    'home.features.chatCopilot.tag3': 'Tone Matching',
 
     // Home - How It Works
     'home.howItWorks.badge': 'Simple & Effective',
     'home.howItWorks.title': 'From Setup to Success in Minutes',
     'home.howItWorks.subtitle': 'DateWise works alongside your existing dating apps — no switching required.',
-    'home.howItWorks.step1.title': 'Quick Onboarding',
-    'home.howItWorks.step1.description': 'Tell DateWise about your dating goals, what you\'re looking for, and your current platforms. Takes less than 2 minutes.',
-    'home.howItWorks.step2.title': 'Profile Analysis',
-    'home.howItWorks.step2.description': 'Upload your profile screenshots. Our AI analyzes every element — photos, bio, prompts — and gives you a detailed improvement roadmap.',
-    'home.howItWorks.step3.title': 'Match Screening',
-    'home.howItWorks.step3.description': 'Screenshot a potential match\'s profile and get instant vibe analysis, red flag alerts, compatibility insights, and personalized openers.',
-    'home.howItWorks.step4.title': 'Chat Coaching',
-    'home.howItWorks.step4.description': 'Paste your conversation whenever you feel stuck. Get expert-level reply suggestions and strategies to build momentum toward a real date.',
+    'home.howItWorks.step1.title': 'AI Onboarding Session',
+    'home.howItWorks.step1.description': 'Answer 6 adaptive questions about where you\'re stuck in dating. DateWise\'s AI diagnoses your exact blind spot and delivers a personal letter — not a generic report — written just for you.',
+    'home.howItWorks.step2.title': 'Profile Glow Up',
+    'home.howItWorks.step2.description': 'Upload your dating profile photos. Get a scored breakdown across 4 sections — from first impression to action plan — and an AI debate to pressure-test your weak spots.',
+    'home.howItWorks.step3.title': 'Vibe Check a Match',
+    'home.howItWorks.step3.description': 'Upload up to 8 photos from someone\'s profile. Get their compatibility score, a forensic authenticity check, a psychological read, and custom opening lines in seconds.',
+    'home.howItWorks.step4.title': 'Chat Copilot',
+    'home.howItWorks.step4.description': 'Screenshot a conversation whenever you\'re unsure what to say. AI detects the moment, your tone, their signals — and gives you 3 reply options with the psychological reasoning behind each one.',
 
     // Home - Testimonials
     'home.testimonials.badge': 'Real Stories',
@@ -86,13 +86,13 @@ const translations = {
     'home.testimonials.subtitle': 'Thousands of people have transformed their dating life with DateWise.',
     'home.testimonials.1.name': 'Alex M.',
     'home.testimonials.1.role': 'Software Engineer, San Francisco',
-    'home.testimonials.1.text': 'I was getting almost zero matches before DateWise. After the profile analysis, I revamped my photos and bio based on the AI recommendations. My match rate tripled in two weeks. Genuinely shocked.',
+    'home.testimonials.1.text': 'The Profile Glow Up caught that my corporate headshot was killing my match rate — something I never would have noticed myself. After I fixed the photo order based on the AI\'s action plan, my matches tripled in two weeks.',
     'home.testimonials.2.name': 'Jordan K.',
     'home.testimonials.2.role': 'Marketing Manager, New York',
-    'home.testimonials.2.text': 'The Vibe Check feature alone is worth it. I almost invested months into someone who had multiple red flags I completely missed. DateWise caught them immediately. It\'s like having a brutally honest best friend.',
+    'home.testimonials.2.text': 'The forensic authenticity check in Vibe Check is incredible. I almost wasted months on someone — the AI spotted inconsistencies in their photos I completely missed. It\'s like having a brutally honest best friend with detective skills.',
     'home.testimonials.3.name': 'Taylor R.',
     'home.testimonials.3.role': 'Nurse, Austin',
-    'home.testimonials.3.text': 'Chat Copilot saved so many conversations I thought were dying. The reply suggestions feel natural — not robotic at all. I\'ve gone on 4 dates this month compared to 0 last month. Game changer.',
+    'home.testimonials.3.text': 'Chat Copilot doesn\'t just give you a reply — it tells you exactly WHY it works. "He\'s planted a soft invite, flip the frame back to him." That reasoning is what makes it feel like actual coaching, not just an autocomplete.',
 
     // Home - Download CTA
     'home.download.badge': 'Available Now',
@@ -101,8 +101,40 @@ const translations = {
     'home.download.cta.appstore': 'Download on App Store',
     'home.download.cta.googleplay': 'Get it on Google Play',
     'home.download.free': 'Free to download',
-    'home.download.sparks': 'Starter Sparks included',
+    'home.download.sparks': '3 free AI analyses daily',
     'home.download.nocc': 'No credit card required',
+
+    // Home - Pricing
+    'home.pricing.badge': 'Expert Subscription',
+    'home.pricing.title': 'Unlimited AI Coaching',
+    'home.pricing.subtitle': 'Free users get 3 Sparks per day. Go Expert for unlimited access — no counters, no gating.',
+    'home.pricing.free.title': 'Free',
+    'home.pricing.free.price': '$0',
+    'home.pricing.free.period': 'forever',
+    'home.pricing.free.cta': 'Download Free',
+    'home.pricing.free.feat1': '3 AI analyses per day',
+    'home.pricing.free.feat2': 'All 3 core features',
+    'home.pricing.free.feat3': 'Same AI quality as Expert',
+    'home.pricing.weekly.title': 'Expert Weekly',
+    'home.pricing.weekly.price': '$9.99',
+    'home.pricing.weekly.intro': 'First week $2.99',
+    'home.pricing.weekly.period': '/ week',
+    'home.pricing.weekly.cta': 'Start Trial',
+    'home.pricing.threeMonth.title': 'Expert 3-Month',
+    'home.pricing.threeMonth.price': '$59.99',
+    'home.pricing.threeMonth.period': '/ 3 months',
+    'home.pricing.threeMonth.savings': 'Save ~50% vs weekly',
+    'home.pricing.threeMonth.badge': 'Best Value',
+    'home.pricing.threeMonth.cta': 'Get Best Value',
+    'home.pricing.lifetime.title': 'Expert Lifetime',
+    'home.pricing.lifetime.price': '$149.99',
+    'home.pricing.lifetime.period': 'one-time',
+    'home.pricing.lifetime.badge': 'Pay Once',
+    'home.pricing.lifetime.cta': 'Get Lifetime Access',
+    'home.pricing.expert.feat1': 'Unlimited AI analyses',
+    'home.pricing.expert.feat2': 'No daily Spark limits',
+    'home.pricing.expert.feat3': 'Priority AI processing',
+    'home.pricing.expert.feat4': 'All future features included',
 
     // About
     'about.title': 'About DateWise',
@@ -159,16 +191,16 @@ This policy applies to all users of DateWise worldwide, with specific additional
 **2.3 Information from Third-Party Services**
 - Firebase / Google: Used for analytics and crash reporting only. Firebase may collect certain device and usage data per its own privacy policy. Firebase is NOT used for authentication.
 - RevenueCat: Manages subscription and in-app purchase verification. Shares subscription status and transaction records with us.
-- OpenAI API: We send your uploaded profile text, onboarding answers, and pasted conversation snippets to OpenAI's API to generate AI coaching outputs. OpenAI processes this data as a sub-processor; see Section 10 for our AI Processing Notice.`,
+- Google Gemini API: We send your uploaded images, onboarding answers, and conversation screenshots to Google's Gemini API to generate AI coaching outputs. Google processes this data as a sub-processor; see Section 10 for our AI Processing Notice.`,
 
     'privacy.s3.title': '3. How We Use Your Information',
     'privacy.s3.content': `We use the information we collect for the following purposes:
 
 **3.1 Providing the Service**
-- To analyze your dating profile and generate personalized improvement recommendations.
-- To screen match profiles for compatibility signals and red flags.
-- To provide conversation coaching and reply suggestions.
-- To process and fulfill your Sparks and Pro subscription purchases.
+- To analyze your dating profile photos and generate personalized improvement recommendations.
+- To screen match profiles for compatibility signals, red flags, and authenticity.
+- To provide conversation coaching and reply suggestions from conversation screenshots.
+- To process and fulfill your Expert subscription purchases.
 
 **3.2 Personalization**
 - To tailor AI coaching outputs to your stated dating goals and preferences.
@@ -195,7 +227,7 @@ This policy applies to all users of DateWise worldwide, with specific additional
 **4.1 Service Providers**
 We share information with third-party vendors who help us operate the Service, including:
 - Firebase / Google: Analytics and crash reporting.
-- OpenAI: AI model processing (see Section 10).
+- Google Gemini: AI model processing (see Section 10).
 - RevenueCat: Subscription and purchase management.
 - Customer support tools.
 
@@ -270,31 +302,31 @@ If you are a parent or guardian and believe your child under 13 has provided us 
 We comply with the Children's Online Privacy Protection Act (COPPA) and similar laws in other jurisdictions.`,
 
     'privacy.s9.title': '9. In-App Purchases & Subscriptions',
-    'privacy.s9.content': `DateWise offers both free features and premium features through Sparks (consumable credits) and Pro subscriptions.
+    'privacy.s9.content': `DateWise offers a free tier (3 Sparks/day) and Expert subscriptions (Weekly, 3-Month, Lifetime) for unlimited access.
 
 **Payment Processing**
 All payment transactions are processed by Apple (App Store) or Google (Google Play). We do not directly collect or store your credit card or payment account information. RevenueCat acts as an intermediary to verify and manage subscription status.
 
 **Data Associated with Purchases**
-We receive and store: transaction identifiers, purchase timestamps, product purchased, and subscription status. This information is used to unlock premium features and maintain your subscription/purchase status on your device.
+We receive and store: transaction identifiers, purchase timestamps, product purchased, and subscription status. This information is used to unlock Expert features and maintain your subscription status on your device.
 
 **Subscription Auto-Renewal**
-Pro subscriptions auto-renew unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription through your device's App Store or Google Play settings.
+Weekly and 3-Month Expert subscriptions auto-renew unless cancelled at least 24 hours before the end of the current billing period. Lifetime subscriptions are a one-time purchase with no recurring billing. You can manage or cancel your subscription through your device's App Store or Google Play settings.
 
 **Refunds**
-Requests for refunds on subscriptions are handled by Apple or Google per their respective refund policies. Sparks credits, once consumed, are non-refundable.`,
+Requests for refunds on subscriptions are handled by Apple or Google per their respective refund policies.`,
 
     'privacy.s10.title': '10. AI Processing Notice',
-    'privacy.s10.content': `DateWise uses artificial intelligence, specifically OpenAI's API, to generate personalized coaching insights. This section explains how your content is handled in this process.
+    'privacy.s10.content': `DateWise uses artificial intelligence, specifically Google's Gemini API, to generate personalized coaching insights. This section explains how your content is handled in this process.
 
 **What We Send to AI**
-- Text from your dating profile bio and prompts (when you request profile analysis).
-- Text descriptions of photos you upload (processed locally or via our servers, not the raw image to OpenAI, unless you use photo analysis features).
-- Text excerpts from dating conversations you paste (for Chat Copilot).
-- Your onboarding answers (dating goals, preferences) to provide context.
+- Your dating profile photos (for Profile Glow Up analysis).
+- Photos from a match's profile (for Vibe Check analysis).
+- Screenshots of dating conversations (for Chat Copilot analysis).
+- Your onboarding answers (dating goals, preferences) to provide personalization context.
 
 **How AI Processes Your Content**
-Your content is sent to OpenAI's API via encrypted connections. OpenAI processes the content to generate responses and does not use API data to train its models by default (per OpenAI's API data usage policies as of our last review).
+Your content is sent to Google's Gemini API via encrypted connections. Google processes the content to generate responses per Google's API data usage policies (as of our last review, API data is not used to train models by default).
 
 **No Human Review**
 Our team does not read your private messages, conversations, or personal profile content. AI processing is fully automated. Our support team cannot access your personal data as it is stored locally on your device.
@@ -406,23 +438,28 @@ Violation of this Section may result in immediate termination of your right to u
 
     'terms.s6.title': '6. Subscriptions, Sparks & Payments',
     'terms.s6.content': `**6.1 Free Tier**
-DateWise offers a free tier with limited access to core features. Free users receive a limited number of Sparks upon first launch to try premium features.
+DateWise offers a free tier that receives 3 Sparks per day. Sparks reset daily and cannot be accumulated. Free users have access to all three core features (Profile Glow Up, Vibe Check, Chat Copilot) within the daily Spark allowance.
 
-**6.2 Sparks (Consumable Credits)**
-Sparks are in-app consumable credits used to access AI-powered features. Key terms:
-- Sparks are purchased through the App Store (Apple) or Google Play (Google).
-- Sparks have no cash value and are non-refundable once purchased.
-- Sparks are non-transferable and tied to your device and App Store/Google Play account.
-- Unused Sparks do not expire unless you uninstall the app or the purchase is refunded.
-- Sparks are stored locally; uninstalling the app will remove unused Sparks.
+**6.2 Sparks (Daily Credits)**
+Sparks are the in-app credit system used to access AI-powered features. Key terms:
+- Free users receive 3 Sparks per day, resetting at midnight local time.
+- Sparks have no cash value and cannot be purchased as consumables.
+- Sparks are non-transferable and tied to your device.
+- Unused daily Sparks do not carry over to the next day.
 
-**6.3 Pro Subscription**
-The Pro subscription provides unlimited access to premium features for a recurring monthly or annual fee.
-- Subscriptions are billed in advance for the subscription period.
+**6.3 Expert Subscription**
+The Expert subscription provides unlimited Spark access (no daily limits) for a recurring fee. Available plans:
+- Expert Weekly: $9.99/week (introductory offer may apply at $2.99 for first week).
+- Expert 3-Month: $59.99 per 3-month period.
+- Expert Lifetime: $149.99 one-time purchase (no recurring billing).
+
+Subscription terms:
+- Recurring subscriptions (Weekly, 3-Month) are billed in advance for the subscription period.
 - Payment is charged to your Apple/Google account upon confirmation of purchase.
-- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.
+- Recurring subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.
 - You may manage and cancel your subscription through your device's subscription settings (App Store or Google Play).
 - No refunds are provided for the unused portion of an active subscription period, except where required by applicable law.
+- Lifetime access is a one-time purchase with no recurring billing.
 
 **6.4 Price Changes**
 We reserve the right to change subscription prices with reasonable notice. Price changes will take effect at the start of your next billing cycle.
@@ -567,15 +604,15 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'support.faq.badge': 'FAQ',
     'support.faq.title': 'Frequently Asked Questions',
     'support.faq.q1': 'What is DateWise and how does it work?',
-    'support.faq.a1': 'DateWise is an AI-powered dating companion app that works alongside your existing dating apps like Tinder, Bumble, and Hinge. It has three core features: Profile Glow Up (analyzes and optimizes your dating profile), Vibe Check (screens potential matches for compatibility and red flags), and Chat Copilot (coaches you on conversations and helps you move toward dates). You use it in parallel with your dating apps — screenshot or paste content into DateWise and receive personalized AI coaching.',
-    'support.faq.q2': 'What are Sparks and how do I get more?',
-    'support.faq.a2': 'Sparks are consumable credits used to access AI-powered features. Each analysis or coaching session costs a certain number of Sparks. You receive a free starter pack of Sparks when you download the app. You can purchase additional Sparks bundles from the in-app store, or upgrade to DateWise Pro for unlimited access to all features without worrying about Spark consumption.',
+    'support.faq.a1': 'DateWise is an AI-powered dating companion app that works alongside your existing dating apps like Tinder, Bumble, and Hinge. It has three core features: Profile Glow Up (analyzes your profile photos and gives a scored action plan), Vibe Check (upload up to 8 photos of a match for a full AI dossier with compatibility score and openers), and Chat Copilot (screenshot your conversation to get reply suggestions with psychological reasoning). Free users get 3 AI analyses per day. Upgrade to Expert for unlimited access.',
+    'support.faq.q2': 'What are Sparks and how does the free tier work?',
+    'support.faq.a2': 'Sparks are the in-app currency for AI analyses. Free users receive 3 Sparks per day — enough for 3 full analyses (Profile Glow Up, Vibe Check, or Chat Copilot). Sparks reset daily. To unlock unlimited analyses with no daily limits, upgrade to an Expert subscription (Weekly, 3-Month, or Lifetime).',
     'support.faq.q3': 'Is my dating conversation data private?',
-    'support.faq.a3': 'Yes, absolutely. Your privacy is our top priority. Conversation content you paste into Chat Copilot is processed by our AI to generate coaching and is not permanently stored on our servers after your response is delivered. Our team does not read your private messages. All data processing happens via encrypted connections. See our Privacy Policy for full details.',
-    'support.faq.q4': 'How do I cancel my Pro subscription?',
-    'support.faq.a4': 'You can cancel your Pro subscription at any time through your device\'s subscription settings. On iPhone/iPad: Go to Settings > Apple ID > Subscriptions > DateWise Pro > Cancel Subscription. On Android: Open Google Play > tap your profile icon > Payments & subscriptions > Subscriptions > DateWise > Cancel. Cancellation takes effect at the end of your current billing period.',
-    'support.faq.q5': 'Can I get a refund for Sparks or my subscription?',
-    'support.faq.a5': 'Sparks are consumable credits and are non-refundable once purchased, consistent with standard app store policies. For subscription refund requests, please contact Apple (App Store) or Google (Google Play) directly, as all payments are processed through those platforms. We do not process refunds directly. Refund decisions are at the discretion of Apple or Google per their respective policies.',
+    'support.faq.a3': 'Yes, absolutely. Your privacy is our top priority. Screenshots you submit to Chat Copilot are processed by our AI to generate coaching and are not permanently stored on our servers after your response is delivered. Our team does not view your private conversations. All data processing happens via encrypted connections. See our Privacy Policy for full details.',
+    'support.faq.q4': 'How do I cancel my Expert subscription?',
+    'support.faq.a4': 'You can cancel your Expert subscription at any time through your device\'s subscription settings. On iPhone/iPad: Go to Settings > Apple ID > Subscriptions > DateWise Expert > Cancel Subscription. On Android: Open Google Play > tap your profile icon > Payments & subscriptions > Subscriptions > DateWise > Cancel. Cancellation takes effect at the end of your current billing period.',
+    'support.faq.q5': 'Can I get a refund for my subscription?',
+    'support.faq.a5': 'For subscription refund requests, please contact Apple (App Store) or Google (Google Play) directly, as all payments are processed through those platforms. We do not process refunds directly. Refund decisions are at the discretion of Apple or Google per their respective policies.',
     'support.faq.q6': 'Does DateWise work for all sexual orientations and relationship types?',
     'support.faq.a6': 'Yes! DateWise is fully inclusive and designed to help all users regardless of sexual orientation, gender identity, or relationship style (monogamous, polyamorous, casual, serious, etc.). During onboarding, you specify your preferences, and all AI coaching is tailored accordingly.',
     'support.faq.q7': 'How do I clear my data or reset the app?',
@@ -594,31 +631,31 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'support.contact.emailDirect': 'Or email us directly at',
     'support.contact.response': 'We typically respond within 24 hours on business days.',
 
-    // Delete Account
-    'delete.title': 'Delete Your Account',
-    'delete.description': 'Instructions for deleting your DateWise account and all associated data.',
-    'delete.intro': 'We\'re sorry to see you go. If you\'d like to delete your DateWise account and all associated data, follow the instructions below. Account deletion is permanent and cannot be undone.',
-    'delete.warning': 'Warning: Account deletion is permanent',
-    'delete.warningText': 'Once your account is deleted, all your data — including your profile, analysis history, purchased Sparks (unused credits), and subscription — will be permanently removed. This action cannot be reversed.',
-    'delete.method1.title': 'Method 1: Delete In-App (Recommended)',
+    // Delete Data
+    'delete.title': 'Clear Your Data',
+    'delete.description': 'Instructions for clearing all DateWise data stored on your device.',
+    'delete.intro': 'DateWise has no accounts and no server-side profile — all your data is stored locally on your device only. Clearing it is instant and permanent.',
+    'delete.warning': 'Warning: This action is permanent',
+    'delete.warningText': 'Once cleared, all your local data — including your onboarding profile and analysis history — will be permanently removed from this device. This action cannot be reversed.',
+    'delete.method1.title': 'Method 1: Clear In-App (Recommended)',
     'delete.method1.step1': 'Open the DateWise app on your device.',
-    'delete.method1.step2': 'Navigate to the Settings tab (bottom navigation bar).',
-    'delete.method1.step3': 'Tap on "Account" in the settings menu.',
-    'delete.method1.step4': 'Scroll down and tap "Delete Account".',
-    'delete.method1.step5': 'Read the confirmation dialog carefully and tap "Confirm Delete" to permanently delete your account.',
-    'delete.method2.title': 'Method 2: Email Request',
-    'delete.method2.text': 'If you cannot access the app, you can request account deletion by email:',
-    'delete.method2.step1': 'Send an email to support.datewise@easier.today',
-    'delete.method2.step2': 'Use the subject line: "Account Deletion Request"',
-    'delete.method2.step3': 'Include the email address associated with your DateWise account',
-    'delete.method2.step4': 'We will process your request within 5 business days and send you a confirmation',
-    'delete.dataInfo.title': 'What Happens to Your Data',
-    'delete.dataInfo.text': 'After your deletion request is confirmed:',
-    'delete.dataInfo.1': 'Your account and profile information will be immediately deactivated.',
-    'delete.dataInfo.2': 'All personal data will be permanently deleted within 30 days.',
-    'delete.dataInfo.3': 'Purchase records may be retained for up to 7 years for accounting and legal compliance purposes.',
-    'delete.dataInfo.4': 'Anonymized, aggregated usage data that cannot be linked to you may be retained for service improvement.',
-    'delete.contact': 'Questions? Contact us at support.datewise@easier.today',
+    'delete.method1.step2': 'Navigate to the More tab (bottom navigation bar).',
+    'delete.method1.step3': 'Tap "Settings".',
+    'delete.method1.step4': 'Tap "Clear Data" and confirm.',
+    'delete.method1.step5': 'All local data will be immediately and permanently deleted. The app will return to the onboarding screen.',
+    'delete.method2.title': 'Method 2: Uninstall the App',
+    'delete.method2.text': 'Uninstalling DateWise removes all locally stored data from your device:',
+    'delete.method2.step1': 'On iPhone/iPad: Press and hold the DateWise icon > Remove App > Delete App.',
+    'delete.method2.step2': 'On Android: Press and hold the DateWise icon > Uninstall > OK.',
+    'delete.method2.step3': 'All local data is removed when the app is uninstalled.',
+    'delete.method2.step4': 'Note: Uninstalling does not cancel an active Expert subscription. Manage your subscription separately in App Store or Google Play settings.',
+    'delete.dataInfo.title': 'What Gets Cleared',
+    'delete.dataInfo.text': 'When you clear data or uninstall the app:',
+    'delete.dataInfo.1': 'Onboarding profile and all preferences are immediately deleted.',
+    'delete.dataInfo.2': 'All analysis history (Profile Glow Up, Vibe Check, Chat Copilot) is permanently removed.',
+    'delete.dataInfo.3': 'There is no server-side account to delete — your data never left your device.',
+    'delete.dataInfo.4': 'Expert subscription status is managed by Apple/Google and is not affected by clearing app data.',
+    'delete.contact': 'Need help or have feedback? Contact us at support.datewise@easier.today',
   },
 
   vi: {
@@ -660,33 +697,33 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'home.features.title': 'Mọi thứ bạn cần để thành công trong hẹn hò',
     'home.features.subtitle': 'DateWise kết hợp trí tuệ AI với kiến thức hẹn hò chuyên sâu để mang lại cho bạn lợi thế vượt trội trong bối cảnh hẹn hò hiện đại.',
     'home.features.profileGlowUp.title': 'Nâng cấp hồ sơ',
-    'home.features.profileGlowUp.description': 'Tải lên hồ sơ của bạn và nhận phân tích AI toàn diện. Xác định điểm yếu, tối ưu bio, chọn ảnh tốt nhất và học chính xác những gì hồ sơ hàng đầu làm khác biệt.',
+    'home.features.profileGlowUp.description': 'Tải ảnh hồ sơ lên và nhận chẩn đoán AI theo 4 phần: người lạ nhìn bạn thế nào, điểm mạnh ẩn, bạn đang thu hút ai, và kế hoạch hành động ưu tiên. Không đồng ý với AI? Hãy tranh luận — chế độ debate cho phép bạn phản bác và xem điểm cập nhật ngay.',
     'home.features.profileGlowUp.tag1': 'Phân tích ảnh',
-    'home.features.profileGlowUp.tag2': 'Tối ưu bio',
-    'home.features.profileGlowUp.tag3': 'Điểm tín hiệu',
+    'home.features.profileGlowUp.tag2': 'Chế độ Debate AI',
+    'home.features.profileGlowUp.tag3': 'Điểm thu hút',
     'home.features.vibeCheck.title': 'Kiểm tra Vibe',
-    'home.features.vibeCheck.description': 'Trước khi đầu tư cảm xúc, hãy sàng lọc người phù hợp tiềm năng để phát hiện dấu hiệu cảnh báo, tín hiệu tương thích và ý định thực sự. Nhận câu mở đầu cá nhân hóa phù hợp với hồ sơ của họ.',
-    'home.features.vibeCheck.tag1': 'Phát hiện cờ đỏ',
+    'home.features.vibeCheck.description': 'Tải lên tối đa 8 ảnh từ hồ sơ của người match và nhận hồ sơ AI đầy đủ: % tương thích, kiểm tra tính xác thực pháp y, phân tích tâm lý, tín hiệu tốt & rủi ro, và câu mở đầu cá nhân hóa phù hợp với năng lượng của họ.',
+    'home.features.vibeCheck.tag1': 'Phân tích pháp y',
     'home.features.vibeCheck.tag2': 'Điểm tương thích',
-    'home.features.vibeCheck.tag3': 'Câu mở đầu thông minh',
-    'home.features.chatCopilot.title': 'Hỗ trợ trò chuyện',
-    'home.features.chatCopilot.description': 'Dán cuộc trò chuyện của bạn và nhận chẩn đoán tức thì. Vibe có đang giảm không? Họ có quan tâm không? Nhận gợi ý trả lời do AI soạn thảo và lời khuyên chiến lược để chuyển từ chat sang hẹn hò thực tế.',
-    'home.features.chatCopilot.tag1': 'Chẩn đoán hội thoại',
-    'home.features.chatCopilot.tag2': 'Gợi ý trả lời',
-    'home.features.chatCopilot.tag3': 'Chiến lược hẹn hò',
+    'home.features.vibeCheck.tag3': 'Câu mở đầu riêng',
+    'home.features.chatCopilot.title': 'Chat Copilot',
+    'home.features.chatCopilot.description': 'Chụp màn hình cuộc trò chuyện và nhận phân tích AI tức thì. Vibe có đang thay đổi không? Họ có đang ngầm gợi ý gặp mặt không? Nhận gợi ý trả lời kèm lý giải tâm lý — không chỉ "nói gì" mà còn "tại sao nó hiệu quả".',
+    'home.features.chatCopilot.tag1': 'Phân tích ảnh chụp',
+    'home.features.chatCopilot.tag2': 'Trả lời + Lý giải',
+    'home.features.chatCopilot.tag3': 'Khớp phong cách',
 
     // Home - How It Works
     'home.howItWorks.badge': 'Đơn giản & Hiệu quả',
     'home.howItWorks.title': 'Từ cài đặt đến thành công trong vài phút',
     'home.howItWorks.subtitle': 'DateWise hoạt động song song với các ứng dụng hẹn hò hiện có của bạn — không cần chuyển đổi.',
-    'home.howItWorks.step1.title': 'Cài đặt nhanh',
-    'home.howItWorks.step1.description': 'Cho DateWise biết mục tiêu hẹn hò, điều bạn đang tìm kiếm và các nền tảng hiện tại. Mất chưa đến 2 phút.',
-    'home.howItWorks.step2.title': 'Phân tích hồ sơ',
-    'home.howItWorks.step2.description': 'Tải lên ảnh chụp màn hình hồ sơ. AI của chúng tôi phân tích từng yếu tố — ảnh, bio, prompt — và cung cấp lộ trình cải thiện chi tiết.',
-    'home.howItWorks.step3.title': 'Sàng lọc người phù hợp',
-    'home.howItWorks.step3.description': 'Chụp màn hình hồ sơ của người phù hợp tiềm năng và nhận phân tích vibe tức thì, cảnh báo cờ đỏ, thông tin tương thích và câu mở đầu cá nhân hóa.',
-    'home.howItWorks.step4.title': 'Huấn luyện trò chuyện',
-    'home.howItWorks.step4.description': 'Dán cuộc trò chuyện bất cứ khi nào bạn cảm thấy bế tắc. Nhận gợi ý trả lời chất lượng chuyên gia và chiến lược để xây dựng đà tiến tới một cuộc hẹn thực sự.',
+    'home.howItWorks.step1.title': 'Phiên chẩn đoán AI',
+    'home.howItWorks.step1.description': 'Trả lời 6 câu hỏi thích nghi về điểm bạn đang bị kẹt trong hẹn hò. AI của DateWise chẩn đoán đúng điểm mù và gửi một bức thư cá nhân — không phải báo cáo chung chung — viết riêng cho bạn.',
+    'home.howItWorks.step2.title': 'Nâng cấp hồ sơ',
+    'home.howItWorks.step2.description': 'Tải ảnh hồ sơ hẹn hò lên. Nhận phân tích có điểm số theo 4 phần — từ ấn tượng đầu tiên đến kế hoạch hành động — và chế độ debate AI để kiểm tra điểm yếu của bạn.',
+    'home.howItWorks.step3.title': 'Kiểm tra Vibe người match',
+    'home.howItWorks.step3.description': 'Tải lên tối đa 8 ảnh từ hồ sơ của ai đó. Nhận điểm tương thích, kiểm tra tính xác thực pháp y, phân tích tâm lý, và câu mở đầu tùy chỉnh trong vài giây.',
+    'home.howItWorks.step4.title': 'Chat Copilot',
+    'home.howItWorks.step4.description': 'Chụp màn hình cuộc trò chuyện bất cứ khi nào bạn không chắc nên nói gì. AI phát hiện khoảnh khắc, tone của bạn, tín hiệu của họ — và cho bạn 3 lựa chọn trả lời kèm lý giải tâm lý đằng sau.',
 
     // Home - Testimonials
     'home.testimonials.badge': 'Câu chuyện thật',
@@ -694,13 +731,13 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'home.testimonials.subtitle': 'Hàng ngàn người đã thay đổi cuộc sống hẹn hò của họ với DateWise.',
     'home.testimonials.1.name': 'Alex M.',
     'home.testimonials.1.role': 'Kỹ sư phần mềm, San Francisco',
-    'home.testimonials.1.text': 'Trước DateWise, tôi hầu như không có match nào. Sau khi phân tích hồ sơ, tôi cải thiện ảnh và bio theo gợi ý AI. Tỷ lệ match của tôi tăng gấp 3 trong hai tuần. Thực sự bất ngờ.',
+    'home.testimonials.1.text': 'Profile Glow Up phát hiện ảnh doanh nghiệp của tôi đang giết chết tỷ lệ match — điều tôi không bao giờ tự nhận ra được. Sau khi sắp xếp lại thứ tự ảnh theo kế hoạch của AI, match của tôi tăng gấp 3 trong hai tuần.',
     'home.testimonials.2.name': 'Jordan K.',
     'home.testimonials.2.role': 'Giám đốc marketing, New York',
-    'home.testimonials.2.text': 'Tính năng Kiểm tra Vibe một mình đã xứng đáng rồi. Tôi suýt đầu tư nhiều tháng vào người có nhiều dấu hiệu cảnh báo mà tôi hoàn toàn bỏ sót. DateWise phát hiện ngay. Như có người bạn thật thà.',
+    'home.testimonials.2.text': 'Kiểm tra tính xác thực pháp y trong Vibe Check thật sự ấn tượng. Tôi suýt lãng phí nhiều tháng — AI phát hiện sự không nhất quán trong ảnh mà tôi hoàn toàn bỏ sót. Như có người bạn thật thà với kỹ năng thám tử.',
     'home.testimonials.3.name': 'Taylor R.',
     'home.testimonials.3.role': 'Y tá, Austin',
-    'home.testimonials.3.text': 'Chat Copilot đã cứu rất nhiều cuộc trò chuyện tôi tưởng đã tàn. Gợi ý trả lời tự nhiên — không robot chút nào. Tháng này tôi đã đi 4 buổi hẹn so với 0 tháng trước. Thay đổi hoàn toàn.',
+    'home.testimonials.3.text': 'Chat Copilot không chỉ cho bạn câu trả lời — nó giải thích chính xác tại sao nó hiệu quả. "Anh ấy đã ngầm mời, hãy đảo ngược frame lại cho anh ấy." Lý giải đó mới là thứ khiến nó giống coaching thật, không phải chỉ là autocomplete.',
 
     // Home - Download CTA
     'home.download.badge': 'Có sẵn ngay',
@@ -709,8 +746,40 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'home.download.cta.appstore': 'Tải trên App Store',
     'home.download.cta.googleplay': 'Tải trên Google Play',
     'home.download.free': 'Tải xuống miễn phí',
-    'home.download.sparks': 'Tặng Sparks khởi đầu',
+    'home.download.sparks': '3 phân tích AI miễn phí mỗi ngày',
     'home.download.nocc': 'Không cần thẻ tín dụng',
+
+    // Home - Pricing
+    'home.pricing.badge': 'Gói Expert',
+    'home.pricing.title': 'Coaching AI không giới hạn',
+    'home.pricing.subtitle': 'Người dùng miễn phí nhận 3 Sparks mỗi ngày. Nâng cấp lên Expert để không giới hạn — không còn đồng hồ đếm, không còn rào cản.',
+    'home.pricing.free.title': 'Miễn phí',
+    'home.pricing.free.price': '$0',
+    'home.pricing.free.period': 'mãi mãi',
+    'home.pricing.free.cta': 'Tải miễn phí',
+    'home.pricing.free.feat1': '3 phân tích AI mỗi ngày',
+    'home.pricing.free.feat2': 'Đủ cả 3 tính năng cốt lõi',
+    'home.pricing.free.feat3': 'Chất lượng AI như Expert',
+    'home.pricing.weekly.title': 'Expert Tuần',
+    'home.pricing.weekly.price': '$9.99',
+    'home.pricing.weekly.intro': 'Tuần đầu chỉ $2.99',
+    'home.pricing.weekly.period': '/ tuần',
+    'home.pricing.weekly.cta': 'Bắt đầu dùng thử',
+    'home.pricing.threeMonth.title': 'Expert 3 Tháng',
+    'home.pricing.threeMonth.price': '$59.99',
+    'home.pricing.threeMonth.period': '/ 3 tháng',
+    'home.pricing.threeMonth.savings': 'Tiết kiệm ~50% so với gói tuần',
+    'home.pricing.threeMonth.badge': 'Tốt nhất',
+    'home.pricing.threeMonth.cta': 'Chọn gói tốt nhất',
+    'home.pricing.lifetime.title': 'Expert Trọn đời',
+    'home.pricing.lifetime.price': '$149.99',
+    'home.pricing.lifetime.period': 'một lần duy nhất',
+    'home.pricing.lifetime.badge': 'Mua một lần',
+    'home.pricing.lifetime.cta': 'Mua trọn đời',
+    'home.pricing.expert.feat1': 'Phân tích AI không giới hạn',
+    'home.pricing.expert.feat2': 'Không giới hạn Sparks hàng ngày',
+    'home.pricing.expert.feat3': 'Xử lý AI ưu tiên',
+    'home.pricing.expert.feat4': 'Tất cả tính năng tương lai',
 
     // About
     'about.title': 'Về DateWise',
@@ -767,7 +836,7 @@ Chính sách này áp dụng cho tất cả người dùng DateWise trên toàn 
 **2.3 Thông tin từ bên thứ ba**
 - Firebase / Google: Chỉ dùng cho phân tích và báo cáo sự cố. Firebase không được sử dụng cho xác thực.
 - RevenueCat: Quản lý đăng ký và xác minh mua hàng trong ứng dụng.
-- OpenAI API: Chúng tôi gửi văn bản hồ sơ, câu trả lời onboarding và đoạn trích hội thoại của bạn đến API OpenAI để tạo ra các đầu ra huấn luyện AI. Xem Phần 10 để biết thêm chi tiết.`,
+- Google Gemini API: Chúng tôi gửi ảnh hồ sơ, ảnh chụp màn hình hội thoại và câu trả lời onboarding của bạn đến Gemini API của Google để tạo ra các đầu ra huấn luyện AI. Xem Phần 10 để biết thêm chi tiết.`,
 
     'privacy.s3.title': '3. Cách Chúng Tôi Sử Dụng Thông Tin Của Bạn',
     'privacy.s3.content': `Chúng tôi sử dụng thông tin thu thập được cho các mục đích sau:
@@ -776,7 +845,7 @@ Chính sách này áp dụng cho tất cả người dùng DateWise trên toàn 
 - Phân tích hồ sơ hẹn hò và tạo khuyến nghị cải thiện cá nhân hóa.
 - Sàng lọc hồ sơ để tìm tín hiệu tương thích và dấu hiệu cảnh báo.
 - Cung cấp huấn luyện hội thoại và gợi ý trả lời.
-- Xử lý mua hàng Sparks và đăng ký Pro.
+- Xử lý mua hàng đăng ký Expert.
 
 **3.2 Cá nhân hóa**
 - Điều chỉnh đầu ra huấn luyện AI theo mục tiêu hẹn hò của bạn.
@@ -801,7 +870,7 @@ Chính sách này áp dụng cho tất cả người dùng DateWise trên toàn 
 
 **4.1 Nhà cung cấp dịch vụ**
 - Firebase / Google: Phân tích và báo cáo sự cố.
-- OpenAI: Xử lý mô hình AI.
+- Google Gemini: Xử lý mô hình AI.
 - RevenueCat: Quản lý đăng ký và mua hàng.
 
 **4.2 Chuyển giao kinh doanh**
@@ -852,24 +921,25 @@ Cư dân EU/EEA có các quyền theo Quy định Bảo vệ Dữ liệu Chung.
     'privacy.s8.content': `DateWise không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố tình thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi. Người dùng từ 13 đến 17 tuổi chỉ có thể sử dụng Dịch vụ với sự đồng ý của cha mẹ hoặc người giám hộ.`,
 
     'privacy.s9.title': '9. Mua Hàng Trong Ứng Dụng & Đăng Ký',
-    'privacy.s9.content': `DateWise cung cấp cả tính năng miễn phí và cao cấp thông qua Sparks và đăng ký Pro.
+    'privacy.s9.content': `DateWise cung cấp gói miễn phí (3 Sparks/ngày) và gói đăng ký Expert (Tuần, 3 Tháng, Trọn đời) cho phép truy cập không giới hạn.
 
 **Xử lý thanh toán**
 Tất cả giao dịch thanh toán được xử lý bởi Apple (App Store) hoặc Google (Google Play). Chúng tôi không trực tiếp thu thập hoặc lưu trữ thông tin thẻ tín dụng của bạn. RevenueCat đóng vai trò trung gian để xác minh và quản lý trạng thái đăng ký.
 
 **Dữ liệu liên quan đến mua hàng**
-Chúng tôi nhận và lưu trữ: định danh giao dịch, dấu thời gian mua hàng, sản phẩm đã mua và trạng thái đăng ký. Thông tin này được sử dụng để mở khóa tính năng cao cấp và duy trì trạng thái đăng ký/mua hàng của bạn trên thiết bị.
+Chúng tôi nhận và lưu trữ: định danh giao dịch, dấu thời gian mua hàng, sản phẩm đã mua và trạng thái đăng ký. Thông tin này được sử dụng để mở khóa tính năng Expert và duy trì trạng thái đăng ký của bạn trên thiết bị.
 
 **Tự động gia hạn đăng ký**
-Đăng ký Pro tự động gia hạn trừ khi được hủy ít nhất 24 giờ trước khi kết thúc kỳ thanh toán hiện tại. Bạn có thể quản lý hoặc hủy đăng ký thông qua cài đặt App Store hoặc Google Play của thiết bị.`,
+Đăng ký Expert Tuần và 3 Tháng tự động gia hạn trừ khi được hủy ít nhất 24 giờ trước khi kết thúc kỳ thanh toán hiện tại. Gói Trọn đời là mua một lần, không có hóa đơn định kỳ. Bạn có thể quản lý hoặc hủy đăng ký thông qua cài đặt App Store hoặc Google Play của thiết bị.`,
 
     'privacy.s10.title': '10. Thông Báo Xử Lý AI',
-    'privacy.s10.content': `DateWise sử dụng trí tuệ nhân tạo, cụ thể là API của OpenAI, để tạo ra các thông tin huấn luyện cá nhân hóa.
+    'privacy.s10.content': `DateWise sử dụng trí tuệ nhân tạo, cụ thể là Gemini API của Google, để tạo ra các thông tin huấn luyện cá nhân hóa.
 
 **Những gì chúng tôi gửi đến AI**
-- Văn bản từ bio hồ sơ hẹn hò của bạn.
-- Đoạn trích văn bản từ các cuộc trò chuyện hẹn hò bạn dán vào.
-- Câu trả lời onboarding của bạn.
+- Ảnh hồ sơ hẹn hò của bạn (cho Nâng cấp hồ sơ).
+- Ảnh từ hồ sơ người match (cho Kiểm tra Vibe).
+- Ảnh chụp màn hình cuộc trò chuyện (cho Chat Copilot).
+- Câu trả lời onboarding của bạn để cung cấp ngữ cảnh cá nhân hóa.
 
 **Không có đánh giá của con người**
 Nhóm của chúng tôi không đọc tin nhắn riêng tư hoặc nội dung hồ sơ cá nhân của bạn. Xử lý AI hoàn toàn tự động. Nhóm hỗ trợ của chúng tôi không thể truy cập dữ liệu cá nhân của bạn vì dữ liệu được lưu trữ cục bộ trên thiết bị của bạn.
@@ -969,22 +1039,27 @@ Vi phạm Điều này có thể dẫn đến việc chấm dứt ngay lập t�
 
     'terms.s6.title': '6. Đăng Ký, Sparks & Thanh Toán',
     'terms.s6.content': `**6.1 Gói miễn phí**
-DateWise cung cấp gói miễn phí với quyền truy cập hạn chế vào các tính năng cốt lõi. Người dùng miễn phí nhận được một số Sparks hạn chế khi khởi động lần đầu để thử các tính năng cao cấp.
+DateWise cung cấp gói miễn phí nhận 3 Sparks mỗi ngày. Sparks được nạp lại hàng ngày và không thể tích lũy. Người dùng miễn phí có quyền truy cập tất cả ba tính năng cốt lõi (Nâng cấp hồ sơ, Kiểm tra Vibe, Chat Copilot) trong giới hạn Sparks hàng ngày.
 
-**6.2 Sparks (Tín dụng tiêu dùng)**
-Sparks là tín dụng tiêu dùng trong ứng dụng được sử dụng để truy cập các tính năng AI. Các điều khoản chính:
-- Sparks được mua qua App Store (Apple) hoặc Google Play (Google).
-- Sparks không có giá trị tiền mặt và không được hoàn tiền sau khi mua.
-- Sparks không thể chuyển nhượng và gắn với thiết bị và tài khoản App Store/Google Play của bạn.
-- Sparks chưa sử dụng không hết hạn trừ khi bạn gỡ cài đặt ứng dụng hoặc giao dịch mua bị hoàn tiền.
-- Sparks được lưu trữ cục bộ; gỡ cài đặt ứng dụng sẽ xóa Sparks chưa sử dụng.
+**6.2 Sparks (Tín dụng hàng ngày)**
+Sparks là hệ thống tín dụng trong ứng dụng để truy cập các tính năng AI. Các điều khoản chính:
+- Người dùng miễn phí nhận 3 Sparks mỗi ngày, được nạp lại vào nửa đêm theo giờ địa phương.
+- Sparks không có giá trị tiền mặt và không thể mua dưới dạng tiêu dùng.
+- Sparks không thể chuyển nhượng và gắn với thiết bị của bạn.
+- Sparks hàng ngày chưa sử dụng không được chuyển sang ngày hôm sau.
 
-**6.3 Đăng ký Pro**
-Đăng ký Pro cung cấp quyền truy cập không giới hạn vào các tính năng cao cấp với phí định kỳ hàng tháng hoặc hàng năm.
-- Đăng ký được tính phí trước cho kỳ đăng ký.
+**6.3 Đăng ký Expert**
+Đăng ký Expert cung cấp quyền truy cập Sparks không giới hạn (không có giới hạn hàng ngày). Các gói có sẵn:
+- Expert Tuần: $9.99/tuần (có thể áp dụng ưu đãi giới thiệu $2.99 cho tuần đầu).
+- Expert 3 Tháng: $59.99 mỗi 3 tháng.
+- Expert Trọn đời: $149.99 mua một lần (không có hóa đơn định kỳ).
+
+Điều khoản đăng ký:
+- Đăng ký định kỳ (Tuần, 3 Tháng) được tính phí trước cho kỳ đăng ký.
 - Thanh toán được tính vào tài khoản Apple/Google của bạn khi xác nhận mua.
-- Đăng ký tự động gia hạn trừ khi hủy ít nhất 24 giờ trước khi kết thúc kỳ hiện tại.
+- Đăng ký định kỳ tự động gia hạn trừ khi hủy ít nhất 24 giờ trước khi kết thúc kỳ hiện tại.
 - Bạn có thể quản lý và hủy đăng ký thông qua cài đặt đăng ký của thiết bị (App Store hoặc Google Play).
+- Truy cập Trọn đời là mua một lần, không có hóa đơn định kỳ.
 
 **6.4 Thay đổi giá**
 Chúng tôi bảo lưu quyền thay đổi giá đăng ký với thông báo hợp lý. Thay đổi giá sẽ có hiệu lực vào đầu chu kỳ thanh toán tiếp theo của bạn.
@@ -1074,15 +1149,15 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
     'support.faq.badge': 'Câu hỏi thường gặp',
     'support.faq.title': 'Các Câu Hỏi Thường Gặp',
     'support.faq.q1': 'DateWise là gì và hoạt động như thế nào?',
-    'support.faq.a1': 'DateWise là ứng dụng đồng hành hẹn hò AI hoạt động song song với các ứng dụng hẹn hò hiện có như Tinder, Bumble và Hinge. Nó có ba tính năng cốt lõi: Nâng cấp hồ sơ, Kiểm tra Vibe và Hỗ trợ trò chuyện.',
-    'support.faq.q2': 'Sparks là gì và làm thế nào để có thêm?',
-    'support.faq.a2': 'Sparks là tín dụng tiêu dùng trong ứng dụng được sử dụng để truy cập các tính năng AI. Bạn nhận được gói Sparks khởi đầu miễn phí khi tải xuống ứng dụng. Bạn có thể mua thêm gói Sparks từ cửa hàng trong ứng dụng, hoặc nâng cấp lên DateWise Pro.',
+    'support.faq.a1': 'DateWise là ứng dụng đồng hành hẹn hò AI hoạt động song song với Tinder, Bumble và Hinge. Ba tính năng cốt lõi: Nâng cấp hồ sơ (phân tích ảnh + kế hoạch hành động có điểm số), Kiểm tra Vibe (tải lên tối đa 8 ảnh để nhận hồ sơ AI đầy đủ với điểm tương thích và câu mở đầu), và Chat Copilot (chụp màn hình trò chuyện để nhận gợi ý trả lời kèm lý giải tâm lý). Người dùng miễn phí nhận 3 phân tích AI mỗi ngày. Nâng cấp lên Expert để không giới hạn.',
+    'support.faq.q2': 'Sparks là gì và gói miễn phí hoạt động như thế nào?',
+    'support.faq.a2': 'Sparks là hệ thống tín dụng trong ứng dụng cho các phân tích AI. Người dùng miễn phí nhận 3 Sparks mỗi ngày — đủ cho 3 phân tích đầy đủ (Nâng cấp hồ sơ, Kiểm tra Vibe hoặc Chat Copilot). Sparks được nạp lại hàng ngày. Để mở khóa phân tích không giới hạn, hãy nâng cấp lên gói Expert (Tuần, 3 Tháng hoặc Trọn đời).',
     'support.faq.q3': 'Dữ liệu cuộc trò chuyện hẹn hò của tôi có riêng tư không?',
-    'support.faq.a3': 'Có, hoàn toàn. Nội dung hội thoại bạn dán vào Chat Copilot được xử lý bởi AI và không được lưu trữ vĩnh viễn trên máy chủ của chúng tôi sau khi phản hồi của bạn được gửi. Nhóm của chúng tôi không đọc tin nhắn riêng tư của bạn.',
-    'support.faq.q4': 'Làm thế nào để hủy đăng ký Pro?',
-    'support.faq.a4': 'Bạn có thể hủy đăng ký Pro bất cứ lúc nào thông qua cài đặt đăng ký của thiết bị. Trên iPhone/iPad: Vào Cài đặt > Apple ID > Đăng ký > DateWise Pro > Hủy đăng ký.',
-    'support.faq.q5': 'Tôi có thể hoàn tiền cho Sparks hoặc đăng ký không?',
-    'support.faq.a5': 'Sparks không được hoàn tiền sau khi mua. Đối với yêu cầu hoàn tiền đăng ký, vui lòng liên hệ trực tiếp Apple (App Store) hoặc Google (Google Play).',
+    'support.faq.a3': 'Có, hoàn toàn. Ảnh chụp màn hình bạn gửi vào Chat Copilot được xử lý bởi AI và không được lưu trữ vĩnh viễn trên máy chủ của chúng tôi sau khi phản hồi được gửi. Nhóm của chúng tôi không xem tin nhắn riêng tư của bạn. Tất cả xử lý dữ liệu diễn ra qua kết nối được mã hóa.',
+    'support.faq.q4': 'Làm thế nào để hủy đăng ký Expert?',
+    'support.faq.a4': 'Bạn có thể hủy đăng ký Expert bất cứ lúc nào thông qua cài đặt đăng ký của thiết bị. Trên iPhone/iPad: Vào Cài đặt > Apple ID > Đăng ký > DateWise Expert > Hủy đăng ký. Trên Android: Mở Google Play > nhấn biểu tượng hồ sơ > Thanh toán & đăng ký > Đăng ký > DateWise > Hủy. Việc hủy có hiệu lực vào cuối kỳ thanh toán hiện tại.',
+    'support.faq.q5': 'Tôi có thể hoàn tiền cho đăng ký không?',
+    'support.faq.a5': 'Đối với yêu cầu hoàn tiền đăng ký, vui lòng liên hệ trực tiếp Apple (App Store) hoặc Google (Google Play), vì tất cả các khoản thanh toán được xử lý qua các nền tảng đó. Chúng tôi không xử lý hoàn tiền trực tiếp. Quyết định hoàn tiền thuộc quyền của Apple hoặc Google.',
     'support.faq.q6': 'DateWise có hoạt động cho mọi xu hướng tình dục và loại mối quan hệ không?',
     'support.faq.a6': 'Có! DateWise được thiết kế hoàn toàn để giúp tất cả người dùng bất kể xu hướng tình dục, giới tính hoặc phong cách mối quan hệ.',
     'support.faq.q7': 'Làm thế nào để xóa dữ liệu hoặc đặt lại ứng dụng?',
@@ -1101,31 +1176,31 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
     'support.contact.emailDirect': 'Hoặc gửi email trực tiếp đến',
     'support.contact.response': 'Chúng tôi thường phản hồi trong vòng 24 giờ vào ngày làm việc.',
 
-    // Delete Account - Vietnamese
-    'delete.title': 'Xóa Tài Khoản Của Bạn',
-    'delete.description': 'Hướng dẫn xóa tài khoản DateWise và tất cả dữ liệu liên quan.',
-    'delete.intro': 'Chúng tôi rất tiếc khi thấy bạn rời đi. Nếu bạn muốn xóa tài khoản DateWise và tất cả dữ liệu liên quan, hãy làm theo hướng dẫn dưới đây.',
-    'delete.warning': 'Cảnh báo: Xóa tài khoản là vĩnh viễn',
-    'delete.warningText': 'Sau khi tài khoản của bạn bị xóa, tất cả dữ liệu của bạn — bao gồm hồ sơ, lịch sử phân tích, Sparks đã mua và đăng ký — sẽ bị xóa vĩnh viễn. Hành động này không thể đảo ngược.',
-    'delete.method1.title': 'Phương thức 1: Xóa trong ứng dụng (Khuyến nghị)',
+    // Delete Data - Vietnamese
+    'delete.title': 'Xóa Dữ Liệu Của Bạn',
+    'delete.description': 'Hướng dẫn xóa toàn bộ dữ liệu DateWise được lưu trên thiết bị của bạn.',
+    'delete.intro': 'DateWise không có tài khoản và không có dữ liệu trên máy chủ — toàn bộ dữ liệu của bạn chỉ được lưu cục bộ trên thiết bị. Việc xóa diễn ra tức thì và vĩnh viễn.',
+    'delete.warning': 'Cảnh báo: Hành động này không thể hoàn tác',
+    'delete.warningText': 'Sau khi xóa, toàn bộ dữ liệu cục bộ — bao gồm hồ sơ onboarding và lịch sử phân tích — sẽ bị xóa vĩnh viễn khỏi thiết bị này.',
+    'delete.method1.title': 'Cách 1: Xóa trong ứng dụng (Khuyến nghị)',
     'delete.method1.step1': 'Mở ứng dụng DateWise trên thiết bị của bạn.',
-    'delete.method1.step2': 'Điều hướng đến tab Cài đặt (thanh điều hướng dưới cùng).',
-    'delete.method1.step3': 'Nhấn vào "Tài khoản" trong menu cài đặt.',
-    'delete.method1.step4': 'Cuộn xuống và nhấn "Xóa tài khoản".',
-    'delete.method1.step5': 'Đọc kỹ hộp thoại xác nhận và nhấn "Xác nhận xóa" để xóa tài khoản vĩnh viễn.',
-    'delete.method2.title': 'Phương thức 2: Yêu cầu qua email',
-    'delete.method2.text': 'Nếu bạn không thể truy cập ứng dụng, bạn có thể yêu cầu xóa tài khoản qua email:',
-    'delete.method2.step1': 'Gửi email đến support.datewise@easier.today',
-    'delete.method2.step2': 'Sử dụng tiêu đề: "Yêu cầu Xóa Tài Khoản"',
-    'delete.method2.step3': 'Bao gồm địa chỉ email liên kết với tài khoản DateWise của bạn',
-    'delete.method2.step4': 'Chúng tôi sẽ xử lý yêu cầu của bạn trong vòng 5 ngày làm việc',
-    'delete.dataInfo.title': 'Điều Gì Xảy Ra Với Dữ Liệu Của Bạn',
-    'delete.dataInfo.text': 'Sau khi yêu cầu xóa của bạn được xác nhận:',
-    'delete.dataInfo.1': 'Tài khoản và thông tin hồ sơ của bạn sẽ được ngay lập tức vô hiệu hóa.',
-    'delete.dataInfo.2': 'Tất cả dữ liệu cá nhân sẽ được xóa vĩnh viễn trong vòng 30 ngày.',
-    'delete.dataInfo.3': 'Hồ sơ mua hàng có thể được lưu giữ tối đa 7 năm.',
-    'delete.dataInfo.4': 'Dữ liệu sử dụng tổng hợp ẩn danh không thể liên kết với bạn có thể được giữ lại.',
-    'delete.contact': 'Câu hỏi? Liên hệ chúng tôi tại support.datewise@easier.today',
+    'delete.method1.step2': 'Chuyển đến tab More (thanh điều hướng dưới cùng).',
+    'delete.method1.step3': 'Nhấn vào "Cài đặt".',
+    'delete.method1.step4': 'Nhấn "Xóa dữ liệu" và xác nhận.',
+    'delete.method1.step5': 'Toàn bộ dữ liệu cục bộ sẽ được xóa ngay lập tức và vĩnh viễn. Ứng dụng sẽ quay về màn hình onboarding.',
+    'delete.method2.title': 'Cách 2: Gỡ cài đặt ứng dụng',
+    'delete.method2.text': 'Gỡ cài đặt DateWise sẽ xóa toàn bộ dữ liệu cục bộ khỏi thiết bị:',
+    'delete.method2.step1': 'Trên iPhone/iPad: Nhấn giữ biểu tượng DateWise > Xóa ứng dụng > Xóa.',
+    'delete.method2.step2': 'Trên Android: Nhấn giữ biểu tượng DateWise > Gỡ cài đặt > OK.',
+    'delete.method2.step3': 'Tất cả dữ liệu cục bộ sẽ bị xóa khi gỡ cài đặt.',
+    'delete.method2.step4': 'Lưu ý: Gỡ cài đặt không hủy đăng ký Expert đang hoạt động. Hãy quản lý đăng ký riêng trong cài đặt App Store hoặc Google Play.',
+    'delete.dataInfo.title': 'Những Gì Sẽ Bị Xóa',
+    'delete.dataInfo.text': 'Khi bạn xóa dữ liệu hoặc gỡ cài đặt ứng dụng:',
+    'delete.dataInfo.1': 'Hồ sơ onboarding và toàn bộ tùy chọn bị xóa ngay lập tức.',
+    'delete.dataInfo.2': 'Toàn bộ lịch sử phân tích (Nâng cấp hồ sơ, Kiểm tra Vibe, Chat Copilot) bị xóa vĩnh viễn.',
+    'delete.dataInfo.3': 'Không có tài khoản server-side để xóa — dữ liệu của bạn chưa bao giờ rời khỏi thiết bị.',
+    'delete.dataInfo.4': 'Trạng thái đăng ký Expert do Apple/Google quản lý và không bị ảnh hưởng khi xóa dữ liệu ứng dụng.',
+    'delete.contact': 'Cần hỗ trợ hoặc muốn phản hồi? Liên hệ chúng tôi tại support.datewise@easier.today',
   }
 }
 

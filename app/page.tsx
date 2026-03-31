@@ -532,6 +532,282 @@ function TestimonialsSection() {
   )
 }
 
+function PricingSection() {
+  const { t } = useLang()
+
+  const plans = [
+    {
+      key: 'free',
+      title: t('home.pricing.free.title'),
+      price: t('home.pricing.free.price'),
+      period: t('home.pricing.free.period'),
+      badge: null,
+      intro: null,
+      cta: t('home.pricing.free.cta'),
+      ctaStyle: 'secondary' as const,
+      features: [
+        t('home.pricing.free.feat1'),
+        t('home.pricing.free.feat2'),
+        t('home.pricing.free.feat3'),
+      ],
+      accentColor: '#64748B',
+      highlight: false,
+    },
+    {
+      key: 'weekly',
+      title: t('home.pricing.weekly.title'),
+      price: t('home.pricing.weekly.price'),
+      period: t('home.pricing.weekly.period'),
+      badge: null,
+      intro: t('home.pricing.weekly.intro'),
+      cta: t('home.pricing.weekly.cta'),
+      ctaStyle: 'secondary' as const,
+      features: [
+        t('home.pricing.expert.feat1'),
+        t('home.pricing.expert.feat2'),
+        t('home.pricing.expert.feat3'),
+        t('home.pricing.expert.feat4'),
+      ],
+      accentColor: '#0EA5E9',
+      highlight: false,
+    },
+    {
+      key: 'threeMonth',
+      title: t('home.pricing.threeMonth.title'),
+      price: t('home.pricing.threeMonth.price'),
+      period: t('home.pricing.threeMonth.period'),
+      badge: t('home.pricing.threeMonth.badge'),
+      intro: t('home.pricing.threeMonth.savings'),
+      cta: t('home.pricing.threeMonth.cta'),
+      ctaStyle: 'primary' as const,
+      features: [
+        t('home.pricing.expert.feat1'),
+        t('home.pricing.expert.feat2'),
+        t('home.pricing.expert.feat3'),
+        t('home.pricing.expert.feat4'),
+      ],
+      accentColor: '#2DD4BF',
+      highlight: true,
+    },
+    {
+      key: 'lifetime',
+      title: t('home.pricing.lifetime.title'),
+      price: t('home.pricing.lifetime.price'),
+      period: t('home.pricing.lifetime.period'),
+      badge: t('home.pricing.lifetime.badge'),
+      intro: null,
+      cta: t('home.pricing.lifetime.cta'),
+      ctaStyle: 'secondary' as const,
+      features: [
+        t('home.pricing.expert.feat1'),
+        t('home.pricing.expert.feat2'),
+        t('home.pricing.expert.feat3'),
+        t('home.pricing.expert.feat4'),
+      ],
+      accentColor: '#F59E0B',
+      highlight: false,
+    },
+  ]
+
+  return (
+    <section
+      id="pricing"
+      style={{
+        padding: 'clamp(64px, 10vw, 100px) 24px',
+        background: 'rgba(15, 23, 42, 0.6)',
+        borderTop: '1px solid rgba(255, 255, 255, 0.06)',
+        borderBottom: '1px solid rgba(255, 255, 255, 0.06)',
+        position: 'relative',
+        overflow: 'hidden',
+      }}
+    >
+      {/* Background glow */}
+      <div
+        style={{
+          position: 'absolute',
+          inset: 0,
+          background: 'radial-gradient(ellipse 60% 50% at 50% 0%, rgba(45, 212, 191, 0.06) 0%, transparent 70%)',
+          pointerEvents: 'none',
+        }}
+      />
+
+      <div style={{ maxWidth: '1200px', margin: '0 auto', position: 'relative' }}>
+        {/* Header */}
+        <div style={{ textAlign: 'center', marginBottom: '56px' }}>
+          <div
+            style={{
+              display: 'inline-flex',
+              padding: '4px 14px',
+              borderRadius: '9999px',
+              border: '1px solid rgba(45, 212, 191, 0.3)',
+              background: 'rgba(45, 212, 191, 0.06)',
+              marginBottom: '16px',
+            }}
+          >
+            <span style={{ fontSize: '13px', color: '#2DD4BF', fontWeight: 500 }}>
+              {t('home.pricing.badge')}
+            </span>
+          </div>
+          <h2
+            style={{
+              fontSize: 'clamp(28px, 5vw, 48px)',
+              fontWeight: 800,
+              color: '#F8FAFC',
+              letterSpacing: '-0.03em',
+              marginBottom: '16px',
+            }}
+          >
+            {t('home.pricing.title')}
+          </h2>
+          <p style={{ fontSize: '17px', color: '#94A3B8', maxWidth: '560px', margin: '0 auto', lineHeight: 1.6 }}>
+            {t('home.pricing.subtitle')}
+          </p>
+        </div>
+
+        {/* Cards */}
+        <div
+          style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))',
+            gap: '20px',
+            alignItems: 'stretch',
+          }}
+        >
+          {plans.map((plan) => (
+            <div
+              key={plan.key}
+              style={{
+                background: plan.highlight
+                  ? 'rgba(45, 212, 191, 0.06)'
+                  : 'rgba(255, 255, 255, 0.03)',
+                border: plan.highlight
+                  ? '1px solid rgba(45, 212, 191, 0.35)'
+                  : '1px solid rgba(255, 255, 255, 0.08)',
+                borderRadius: '16px',
+                padding: '32px 24px',
+                display: 'flex',
+                flexDirection: 'column',
+                position: 'relative',
+              }}
+            >
+              {/* Badge */}
+              {plan.badge && (
+                <div
+                  style={{
+                    position: 'absolute',
+                    top: '-12px',
+                    left: '50%',
+                    transform: 'translateX(-50%)',
+                    padding: '4px 14px',
+                    borderRadius: '9999px',
+                    background: plan.accentColor,
+                    color: '#0F172A',
+                    fontSize: '11px',
+                    fontWeight: 700,
+                    letterSpacing: '0.06em',
+                    whiteSpace: 'nowrap',
+                  }}
+                >
+                  {plan.badge}
+                </div>
+              )}
+
+              {/* Title */}
+              <div style={{ marginBottom: '20px' }}>
+                <h3
+                  style={{
+                    fontSize: '16px',
+                    fontWeight: 700,
+                    color: '#F8FAFC',
+                    marginBottom: '12px',
+                    letterSpacing: '-0.01em',
+                  }}
+                >
+                  {plan.title}
+                </h3>
+
+                {/* Price */}
+                <div style={{ display: 'flex', alignItems: 'baseline', gap: '6px' }}>
+                  <span
+                    style={{
+                      fontSize: '36px',
+                      fontWeight: 800,
+                      color: plan.highlight ? '#2DD4BF' : '#F8FAFC',
+                      letterSpacing: '-0.04em',
+                      lineHeight: 1,
+                    }}
+                  >
+                    {plan.price}
+                  </span>
+                  <span style={{ fontSize: '13px', color: '#64748B' }}>{plan.period}</span>
+                </div>
+
+                {plan.intro && (
+                  <div
+                    style={{
+                      marginTop: '8px',
+                      fontSize: '12px',
+                      color: plan.accentColor,
+                      fontWeight: 500,
+                    }}
+                  >
+                    ✦ {plan.intro}
+                  </div>
+                )}
+              </div>
+
+              {/* Features */}
+              <div style={{ flex: 1, marginBottom: '24px' }}>
+                {plan.features.map((feat) => (
+                  <div
+                    key={feat}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'flex-start',
+                      gap: '10px',
+                      marginBottom: '10px',
+                    }}
+                  >
+                    <span style={{ color: plan.accentColor, fontSize: '14px', marginTop: '1px', flexShrink: 0 }}>✓</span>
+                    <span style={{ fontSize: '13px', color: '#CBD5E1', lineHeight: 1.5 }}>{feat}</span>
+                  </div>
+                ))}
+              </div>
+
+              {/* CTA */}
+              <a
+                href="#"
+                style={{
+                  display: 'block',
+                  textAlign: 'center',
+                  padding: '12px 20px',
+                  borderRadius: '9999px',
+                  fontSize: '14px',
+                  fontWeight: 600,
+                  textDecoration: 'none',
+                  transition: 'all 0.15s',
+                  ...(plan.ctaStyle === 'primary'
+                    ? {
+                        background: '#F1F5F9',
+                        color: '#0F172A',
+                      }
+                    : {
+                        background: 'rgba(255,255,255,0.06)',
+                        border: '1px solid rgba(255,255,255,0.12)',
+                        color: '#F8FAFC',
+                      }),
+                }}
+              >
+                {plan.cta}
+              </a>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
 function DownloadSection() {
   const { t } = useLang()
 
@@ -660,6 +936,7 @@ export default function HomePage() {
       <FeaturesSection />
       <HowItWorksSection />
       <TestimonialsSection />
+      <PricingSection />
       <DownloadSection />
     </>
   )
