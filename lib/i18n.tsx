@@ -45,7 +45,7 @@ const translations = {
     'home.hero.cta.learnmore': 'Learn More',
     'home.hero.stats.users': 'Active Users',
     'home.hero.stats.matches': 'Better Match Rate',
-    'home.hero.stats.rating': 'App Store Rating',
+    'home.hero.stats.rating': 'Store Rating',
 
     // Home - Features
     'home.features.badge': 'Three Pillars of Success',
@@ -690,7 +690,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'home.hero.cta.learnmore': 'Tìm hiểu thêm',
     'home.hero.stats.users': 'Người dùng tích cực',
     'home.hero.stats.matches': 'Tỷ lệ match tốt hơn',
-    'home.hero.stats.rating': 'Đánh giá App Store',
+    'home.hero.stats.rating': 'Đánh giá trên Store',
 
     // Home - Features
     'home.features.badge': 'Ba trụ cột thành công',
