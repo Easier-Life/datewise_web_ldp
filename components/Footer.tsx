@@ -31,12 +31,12 @@ export default function Footer() {
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '16px' }}>
               <Image
                 src="/logo-32.png"
-                alt="DateWise"
+                alt="TrueVibe"
                 width={32}
                 height={32}
                 style={{ borderRadius: '8px' }}
               />
-              <span style={{ fontSize: '18px', fontWeight: 700, color: '#F8FAFC' }}>DateWise</span>
+              <span style={{ fontSize: '18px', fontWeight: 700, color: '#F8FAFC' }}>TrueVibe</span>
             </div>
             <p style={{ fontSize: '14px', color: '#94A3B8', lineHeight: '1.6', maxWidth: '240px' }}>
               {t('footer.tagline')}

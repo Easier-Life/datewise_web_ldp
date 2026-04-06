@@ -51,7 +51,7 @@ export default function Navbar() {
           >
             <Image
               src="/logo-32.png"
-              alt="DateWise"
+              alt="TrueVibe"
               width={32}
               height={32}
               style={{ borderRadius: '8px' }}
@@ -65,7 +65,7 @@ export default function Navbar() {
                 letterSpacing: '-0.5px',
               }}
             >
-              DateWise
+              TrueVibe
             </span>
           </Link>
 

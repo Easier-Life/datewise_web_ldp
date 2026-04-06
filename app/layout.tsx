@@ -14,21 +14,21 @@ const plusJakarta = Plus_Jakarta_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: 'DateWise — AI Dating Companion',
-    template: '%s | DateWise',
+    default: 'TrueVibe — AI Dating Companion',
+    template: '%s | TrueVibe',
   },
   description:
-    'DateWise is your AI-powered dating companion that runs alongside Tinder, Bumble, and Hinge — optimizing your profile, screening matches, and coaching your conversations.',
+    'TrueVibe is your AI-powered dating companion that runs alongside Tinder, Bumble, and Hinge — optimizing your profile, screening matches, and coaching your conversations.',
   keywords: ['dating app', 'dating coach', 'AI dating', 'profile optimizer', 'relationship advice'],
-  authors: [{ name: 'DateWise' }],
-  creator: 'DateWise',
-  metadataBase: new URL('https://datewise.easier.today'),
+  authors: [{ name: 'TrueVibe' }],
+  creator: 'TrueVibe',
+  metadataBase: new URL('https://truevibe.easier.today'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://datewise.easier.today',
-    siteName: 'DateWise',
-    title: 'DateWise — AI Dating Companion',
+    url: 'https://truevibe.easier.today',
+    siteName: 'TrueVibe',
+    title: 'TrueVibe — AI Dating Companion',
     description:
       'Your intelligent dating companion for meaningful connections. Profile analysis, match screening, and conversation coaching.',
     images: [
@@ -36,13 +36,13 @@ export const metadata: Metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'DateWise — AI Dating Companion',
+        alt: 'TrueVibe — AI Dating Companion',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'DateWise — AI Dating Companion',
+    title: 'TrueVibe — AI Dating Companion',
     description: 'Date smarter with AI-powered coaching.',
     images: ['/og-image.png'],
   },
