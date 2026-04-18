@@ -38,13 +38,8 @@ const translations = {
 
     // Home - Hero
     'home.hero.badge': 'AI-Powered Dating Coach',
-<<<<<<< Updated upstream
-    'home.hero.title': 'Date Smarter, Connect Deeper',
-    'home.hero.subtitle': 'TrueVibe is your intelligent companion that runs alongside Tinder, Bumble, and Hinge — optimizing your profile, screening matches, and coaching your conversations toward real connections.',
-=======
     'home.hero.title': 'Date Seriously with Your Personal AI Coach',
     'home.hero.subtitle': 'Overcome "The Dip" with a real dating strategy. TrueVibe understands your profile and your matches to create deep connections, not just generic pick-up lines.',
->>>>>>> Stashed changes
     'home.hero.cta.appstore': 'Download on App Store',
     'home.hero.cta.googleplay': 'Get it on Google Play',
     'home.hero.cta.learnmore': 'Learn More',
@@ -711,13 +706,8 @@ We will not be liable for any failure or delay in performance due to circumstanc
 
     // Home - Hero
     'home.hero.badge': 'Huấn luyện viên hẹn hò AI',
-<<<<<<< Updated upstream
-    'home.hero.title': 'Hẹn hò thông minh hơn, kết nối sâu sắc hơn',
-    'home.hero.subtitle': 'TrueVibe là người bạn đồng hành thông minh chạy song song với Tinder, Bumble và Hinge — tối ưu hóa hồ sơ, sàng lọc người phù hợp và huấn luyện cuộc trò chuyện của bạn hướng đến những kết nối thực sự.',
-=======
     'home.hero.title': 'Tự tin hẹn hò nghiêm túc với AI Coach cá nhân',
     'home.hero.subtitle': 'Vượt qua giai đoạn \'The Dip\' với chiến lược hẹn hò từ AI. TrueVibe thấu hiểu profile của bạn và đối phương để tạo ra những cuộc trò chuyện sâu sắc, không phải thả thính dạo.',
->>>>>>> Stashed changes
     'home.hero.cta.appstore': 'Tải trên App Store',
     'home.hero.cta.googleplay': 'Tải trên Google Play',
     'home.hero.cta.learnmore': 'Tìm hiểu thêm',
