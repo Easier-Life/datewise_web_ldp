@@ -38,8 +38,13 @@ const translations = {
 
     // Home - Hero
     'home.hero.badge': 'AI-Powered Dating Coach',
+<<<<<<< Updated upstream
     'home.hero.title': 'Date Smarter, Connect Deeper',
     'home.hero.subtitle': 'TrueVibe is your intelligent companion that runs alongside Tinder, Bumble, and Hinge — optimizing your profile, screening matches, and coaching your conversations toward real connections.',
+=======
+    'home.hero.title': 'Date Seriously with Your Personal AI Coach',
+    'home.hero.subtitle': 'Overcome "The Dip" with a real dating strategy. TrueVibe understands your profile and your matches to create deep connections, not just generic pick-up lines.',
+>>>>>>> Stashed changes
     'home.hero.cta.appstore': 'Download on App Store',
     'home.hero.cta.googleplay': 'Get it on Google Play',
     'home.hero.cta.learnmore': 'Learn More',
@@ -135,6 +140,22 @@ const translations = {
     'home.pricing.expert.feat2': 'No daily Spark limits',
     'home.pricing.expert.feat3': 'Priority AI processing',
     'home.pricing.expert.feat4': 'All future features included',
+
+    // Home - Differentiation
+    'home.differentiation.badge': 'THE DIFFERENCE',
+    'home.differentiation.title': 'Stop Copying AI Pick-up Lines. Serious Dating Requires Real Strategy.',
+    'home.differentiation.subtitle': 'Tried Rizz or Wingman and still got ghosted? That\'s because your matches want to date you, not a machine.',
+    'home.differentiation.card1.title': 'Ordinary Apps',
+    'home.differentiation.card1.step1': 'Generates a generic, cliché pick-up line from the internet.',
+    'home.differentiation.card1.step2': 'You send an awkward message that doesn\'t sound like you.',
+    'home.differentiation.card1.step3': 'They lose interest and ghost you.',
+    'home.differentiation.card1.subtext': 'Dating with copy-pasted lines will never build a deep connection.',
+    'home.differentiation.card2.title': 'TrueVibe Expert Coaching',
+    'home.differentiation.card2.step1': 'Understands YOUR personality and analyzes their "Red Flags".',
+    'home.differentiation.card2.step2': 'Suggests conversation tactics based on your authentic voice.',
+    'home.differentiation.card2.step3': 'You send confident messages, build deep rapport, and secure high-quality dates.',
+    'home.differentiation.card2.subtext': 'TrueVibe doesn\'t speak for you. We coach you to become your most attractive self.',
+    'home.differentiation.cta': 'Master Your Conversations Today',
 
     // About
     'about.title': 'About TrueVibe',
@@ -690,8 +711,13 @@ We will not be liable for any failure or delay in performance due to circumstanc
 
     // Home - Hero
     'home.hero.badge': 'Huấn luyện viên hẹn hò AI',
+<<<<<<< Updated upstream
     'home.hero.title': 'Hẹn hò thông minh hơn, kết nối sâu sắc hơn',
     'home.hero.subtitle': 'TrueVibe là người bạn đồng hành thông minh chạy song song với Tinder, Bumble và Hinge — tối ưu hóa hồ sơ, sàng lọc người phù hợp và huấn luyện cuộc trò chuyện của bạn hướng đến những kết nối thực sự.',
+=======
+    'home.hero.title': 'Tự tin hẹn hò nghiêm túc với AI Coach cá nhân',
+    'home.hero.subtitle': 'Vượt qua giai đoạn \'The Dip\' với chiến lược hẹn hò từ AI. TrueVibe thấu hiểu profile của bạn và đối phương để tạo ra những cuộc trò chuyện sâu sắc, không phải thả thính dạo.',
+>>>>>>> Stashed changes
     'home.hero.cta.appstore': 'Tải trên App Store',
     'home.hero.cta.googleplay': 'Tải trên Google Play',
     'home.hero.cta.learnmore': 'Tìm hiểu thêm',
@@ -787,6 +813,22 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'home.pricing.expert.feat2': 'Không giới hạn Sparks hàng ngày',
     'home.pricing.expert.feat3': 'Xử lý AI ưu tiên',
     'home.pricing.expert.feat4': 'Tất cả tính năng tương lai',
+
+    // Home - Differentiation
+    'home.differentiation.badge': 'SỰ KHÁC BIỆT',
+    'home.differentiation.title': 'Ngừng copy văn mẫu AI. Hẹn hò nghiêm túc cần chiến lược thật.',
+    'home.differentiation.subtitle': 'Bạn đã thử Rizz hay Wingman và vẫn bị "ghost"? Đó là vì đối phương muốn hẹn hò với bạn, không phải với một cái máy.',
+    'home.differentiation.card1.title': 'Các App Thông Thường',
+    'home.differentiation.card1.step1': 'Xào nấu một câu thả thính rập khuôn từ trên mạng.',
+    'home.differentiation.card1.step2': 'Bạn gửi đi lời văn sượng sùng, không giống con người bạn.',
+    'home.differentiation.card1.step3': 'Đối phương tụt mood và im lặng (Ghosted).',
+    'home.differentiation.card1.subtext': 'Hẹn hò chỉ bằng văn mẫu sẽ không bao giờ tạo kết nối sâu sắc.',
+    'home.differentiation.card2.title': 'Đẳng Cấp Chuyên Gia TrueVibe',
+    'home.differentiation.card2.step1': 'Thấu hiểu tính cách BẠN và soi chiếu "Red Flags" của đối phương.',
+    'home.differentiation.card2.step2': 'Gợi ý chiến thuật dẫn dắt dựa trên giọng điệu thật của bạn.',
+    'home.differentiation.card2.step3': 'Tự tin nhắn tin, câu chuyện có chiều sâu, chốt hẹn chất lượng.',
+    'home.differentiation.card2.subtext': 'TrueVibe không nói hộ bạn. Chúng tôi coach để chính bạn thu hút nhất.',
+    'home.differentiation.cta': 'Tự tin làm chủ cuộc trò chuyện ngay hôm nay',
 
     // About
     'about.title': 'Về TrueVibe',

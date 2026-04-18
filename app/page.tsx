@@ -929,6 +929,174 @@ function DownloadSection() {
   )
 }
 
+function DifferentiationSection() {
+  const { t } = useLang()
+
+  return (
+    <section
+      id="differentiation"
+      style={{
+        padding: 'clamp(64px, 10vw, 100px) 24px',
+        background: 'rgba(15, 23, 42, 0.6)',
+        borderTop: '1px solid rgba(255, 255, 255, 0.06)',
+        borderBottom: '1px solid rgba(255, 255, 255, 0.06)',
+        position: 'relative',
+        overflow: 'hidden',
+      }}
+    >
+      <div
+        style={{
+          position: 'absolute',
+          inset: 0,
+          background: 'radial-gradient(ellipse 60% 50% at 50% 0%, rgba(45, 212, 191, 0.06) 0%, transparent 70%)',
+          pointerEvents: 'none',
+        }}
+      />
+
+      <div style={{ maxWidth: '1200px', margin: '0 auto', position: 'relative' }}>
+        <div style={{ textAlign: 'center', marginBottom: '56px' }}>
+          <div
+            style={{
+              display: 'inline-flex',
+              padding: '4px 14px',
+              borderRadius: '9999px',
+              border: '1px solid rgba(45, 212, 191, 0.3)',
+              background: 'rgba(45, 212, 191, 0.06)',
+              marginBottom: '16px',
+            }}
+          >
+            <span style={{ fontSize: '13px', color: '#2DD4BF', fontWeight: 500 }}>
+              {t('home.differentiation.badge')}
+            </span>
+          </div>
+          <h2
+            style={{
+              fontSize: 'clamp(28px, 5vw, 48px)',
+              fontWeight: 800,
+              color: '#F8FAFC',
+              letterSpacing: '-0.03em',
+              marginBottom: '16px',
+            }}
+          >
+            {t('home.differentiation.title')}
+          </h2>
+          <p style={{ fontSize: '17px', color: '#94A3B8', maxWidth: '640px', margin: '0 auto', lineHeight: 1.6 }}>
+            {t('home.differentiation.subtitle')}
+          </p>
+        </div>
+
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '32px', marginBottom: '56px' }}>
+          {/* Card 1: Ordinary Apps */}
+          <div
+            style={{
+              background: 'rgba(255, 255, 255, 0.02)',
+              border: '1px solid rgba(255, 255, 255, 0.05)',
+              borderRadius: '24px',
+              padding: '40px 32px',
+              display: 'flex',
+              flexDirection: 'column',
+              opacity: 0.8,
+              transform: 'scale(0.98)',
+              filter: 'grayscale(30%)',
+            }}
+          >
+            <h3 style={{ fontSize: '24px', fontWeight: 700, color: '#94A3B8', marginBottom: '32px', textAlign: 'center' }}>
+              {t('home.differentiation.card1.title')}
+            </h3>
+            
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', flex: 1 }}>
+              <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
+                <span style={{ fontSize: '20px', marginTop: '-2px' }}>❌</span>
+                <p style={{ color: '#94A3B8', fontSize: '16px', lineHeight: 1.5, margin: 0 }}>{t('home.differentiation.card1.step1')}</p>
+              </div>
+              <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
+                <span style={{ fontSize: '20px', marginTop: '-2px' }}>❌</span>
+                <p style={{ color: '#94A3B8', fontSize: '16px', lineHeight: 1.5, margin: 0 }}>{t('home.differentiation.card1.step2')}</p>
+              </div>
+              <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
+                <span style={{ fontSize: '20px', marginTop: '-2px' }}>❌</span>
+                <p style={{ color: '#94A3B8', fontSize: '16px', lineHeight: 1.5, margin: 0 }}>{t('home.differentiation.card1.step3')}</p>
+              </div>
+            </div>
+
+            <div style={{ marginTop: '32px', paddingTop: '24px', borderTop: '1px dashed rgba(255, 255, 255, 0.1)', textAlign: 'center' }}>
+              <p style={{ color: '#64748B', fontSize: '14px', fontStyle: 'italic', margin: 0 }}>
+                {t('home.differentiation.card1.subtext')}
+              </p>
+            </div>
+          </div>
+
+          {/* Card 2: TrueVibe */}
+          <div
+            style={{
+              background: 'rgba(45, 212, 191, 0.05)',
+              border: '2px solid rgba(45, 212, 191, 0.5)',
+              borderRadius: '24px',
+              padding: '40px 32px',
+              display: 'flex',
+              flexDirection: 'column',
+              boxShadow: '0 20px 40px -10px rgba(45, 212, 191, 0.15)',
+              transform: 'scale(1.02)',
+              position: 'relative',
+              zIndex: 2,
+            }}
+          >
+            <div style={{ position: 'absolute', top: '-15px', left: '50%', transform: 'translateX(-50%)', background: '#2DD4BF', color: '#0F172A', padding: '6px 20px', borderRadius: '999px', fontSize: '13px', fontWeight: 800, letterSpacing: '0.05em', boxShadow: '0 4px 10px rgba(45, 212, 191, 0.3)' }}>
+              TRUEVIBE
+            </div>
+
+            <h3 style={{ fontSize: '26px', fontWeight: 800, color: '#F8FAFC', marginBottom: '32px', textAlign: 'center' }}>
+              {t('home.differentiation.card2.title')}
+            </h3>
+            
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', flex: 1 }}>
+              <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
+                <span style={{ fontSize: '20px', marginTop: '-2px' }}>✅</span>
+                <p style={{ color: '#F8FAFC', fontSize: '16px', lineHeight: 1.5, margin: 0 }}>{t('home.differentiation.card2.step1')}</p>
+              </div>
+              <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
+                <span style={{ fontSize: '20px', marginTop: '-2px' }}>✅</span>
+                <p style={{ color: '#F8FAFC', fontSize: '16px', lineHeight: 1.5, margin: 0 }}>{t('home.differentiation.card2.step2')}</p>
+              </div>
+              <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
+                <span style={{ fontSize: '20px', marginTop: '-2px' }}>✅</span>
+                <p style={{ color: '#2DD4BF', fontSize: '17px', fontWeight: 600, lineHeight: 1.5, margin: 0 }}>{t('home.differentiation.card2.step3')}</p>
+              </div>
+            </div>
+
+            <div style={{ marginTop: '32px', paddingTop: '24px', borderTop: '1px solid rgba(45, 212, 191, 0.2)', textAlign: 'center' }}>
+              <p style={{ color: '#94A3B8', fontSize: '14px', fontStyle: 'italic', margin: 0 }}>
+                {t('home.differentiation.card2.subtext')}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div style={{ textAlign: 'center' }}>
+          <a
+            href="#download"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              padding: '16px 36px',
+              borderRadius: '9999px',
+              background: '#F1F5F9',
+              color: '#0F172A',
+              fontSize: '18px',
+              fontWeight: 700,
+              textDecoration: 'none',
+              transition: 'transform 0.15s, box-shadow 0.15s',
+              boxShadow: '0 4px 20px 0 rgba(241, 245, 249, 0.4)'
+            }}
+          >
+            {t('home.differentiation.cta')}
+          </a>
+        </div>
+      </div>
+    </section>
+  )
+}
+
 export default function HomePage() {
   return (
     <>
@@ -936,7 +1104,8 @@ export default function HomePage() {
       <FeaturesSection />
       <HowItWorksSection />
       <TestimonialsSection />
-      <PricingSection />
+      <DifferentiationSection />
+      {/* <PricingSection /> */}
       <DownloadSection />
     </>
   )
