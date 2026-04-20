@@ -84,7 +84,9 @@ function HeroSection() {
         {/* CTA Buttons */}
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', justifyContent: 'center', marginBottom: '64px' }}>
           <a
-            href="#"
+            href="https://apps.apple.com/app/id6761324280"
+            target="_blank"
+            rel="noopener noreferrer"
             style={{
               display: 'flex',
               alignItems: 'center',
@@ -103,7 +105,9 @@ function HeroSection() {
             {t('home.hero.cta.appstore')}
           </a>
           <a
-            href="#"
+            href="https://play.google.com/store/apps/details?id=com.easierlife.dating_openers&pcampaignid=web_share"
+            target="_blank"
+            rel="noopener noreferrer"
             style={{
               display: 'flex',
               alignItems: 'center',
@@ -867,7 +871,9 @@ function DownloadSection() {
 
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', justifyContent: 'center', marginBottom: '32px' }}>
           <a
-            href="#"
+            href="https://apps.apple.com/app/id6761324280"
+            target="_blank"
+            rel="noopener noreferrer"
             style={{
               display: 'flex',
               alignItems: 'center',
@@ -888,7 +894,9 @@ function DownloadSection() {
             </div>
           </a>
           <a
-            href="#"
+            href="https://play.google.com/store/apps/details?id=com.easierlife.dating_openers&pcampaignid=web_share"
+            target="_blank"
+            rel="noopener noreferrer"
             style={{
               display: 'flex',
               alignItems: 'center',
