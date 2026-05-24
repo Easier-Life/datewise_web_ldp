@@ -1,4 +1,4 @@
-# TrueVibe LDP - Differentiation Implementation Plan
+# Datrly LDP - Differentiation Implementation Plan
 
 > **For agentic workers:** REQUIRED: Use superpowers:subagent-driven-development (if subagents available) or superpowers:executing-plans to implement this plan. Steps use checkbox (`- [ ]`) syntax for tracking.
 
@@ -20,7 +20,7 @@
 - [ ] **Step 1: Write/Update translation keys**
 Tìm đến đoạn khai báo ngôn ngữ trong `lib/i18n.tsx` (thường là tiếng Việt và tiếng Anh) và thay đổi/thêm các key sau:
 - Thay đổi `home.hero.title`: "Tự tin hẹn hò nghiêm túc với AI Coach cá nhân"
-- Thay đổi `home.hero.subtitle`: "Vượt qua giai đoạn 'The Dip' với chiến lược hẹn hò từ AI. TrueVibe thấu hiểu profile của bạn và đối phương để tạo ra những cuộc trò chuyện sâu sắc, không phải thả thính dạo."
+- Thay đổi `home.hero.subtitle`: "Vượt qua giai đoạn 'The Dip' với chiến lược hẹn hò từ AI. Datrly thấu hiểu profile của bạn và đối phương để tạo ra những cuộc trò chuyện sâu sắc, không phải thả thính dạo."
 - Đảm bảo `home.features...` mang âm hưởng chẩn đoán và tâm lý.
 - Thêm nhóm keys mới cho `home.differentiation.*`:
   ```typescript
@@ -34,11 +34,11 @@ Tìm đến đoạn khai báo ngôn ngữ trong `lib/i18n.tsx` (thường là ti
   "home.differentiation.card1.step3": "Đối phương tụt mood và im lặng (Ghosted).",
   "home.differentiation.card1.subtext": "Hẹn hò chỉ bằng văn mẫu sẽ không bao giờ tạo kết nối sâu sắc.",
   
-  "home.differentiation.card2.title": "Đẳng Cấp Chuyên Gia TrueVibe",
+  "home.differentiation.card2.title": "Đẳng Cấp Chuyên Gia Datrly",
   "home.differentiation.card2.step1": "Thấu hiểu tính cách BẠN và soi chiếu \"Red Flag\" của đối phương.",
   "home.differentiation.card2.step2": "Gợi ý chiến thuật dẫn dắt dựa trên giọng điệu thật của bạn.",
   "home.differentiation.card2.step3": "Tự tin nhắn tin, câu chuyện có chiều sâu, chốt hẹn chất lượng.",
-  "home.differentiation.card2.subtext": "TrueVibe không nói hộ bạn. Chúng tôi coach để chính bạn thu hút nhất.",
+  "home.differentiation.card2.subtext": "Datrly không nói hộ bạn. Chúng tôi coach để chính bạn thu hút nhất.",
   
   "home.differentiation.cta": "Tự tin làm chủ cuộc trò chuyện ngay hôm nay",
   ```
@@ -72,7 +72,7 @@ function DifferentiationSection() {
         {/* Header (Badge, Title, Subtitle) */}
         {/* 2-Column Grid for Cards */}
           {/* Card 1: Ordinary Apps (Dark/Grey Theme, ❌ icons) */}
-          {/* Card 2: TrueVibe (Glassmorphism, #2DD4BF Theme, ✅ icons, Scale effect) */}
+          {/* Card 2: Datrly (Glassmorphism, #2DD4BF Theme, ✅ icons, Scale effect) */}
         {/* CTA Button below */}
       </div>
     </section>

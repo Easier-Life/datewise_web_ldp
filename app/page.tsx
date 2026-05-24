@@ -1034,7 +1034,7 @@ function DifferentiationSection() {
             </div>
           </div>
 
-          {/* Card 2: TrueVibe */}
+          {/* Card 2: Datrly */}
           <div
             style={{
               background: 'rgba(45, 212, 191, 0.05)',
@@ -1050,7 +1050,7 @@ function DifferentiationSection() {
             }}
           >
             <div style={{ position: 'absolute', top: '-15px', left: '50%', transform: 'translateX(-50%)', background: '#2DD4BF', color: '#0F172A', padding: '6px 20px', borderRadius: '999px', fontSize: '13px', fontWeight: 800, letterSpacing: '0.05em', boxShadow: '0 4px 10px rgba(45, 212, 191, 0.3)' }}>
-              TRUEVIBE
+              DATRLY
             </div>
 
             <h3 style={{ fontSize: '26px', fontWeight: 800, color: '#F8FAFC', marginBottom: '32px', textAlign: 'center' }}>

@@ -27,7 +27,7 @@ const translations = {
     'footer.product': 'Product',
     'footer.company': 'Company',
     'footer.legal': 'Legal',
-    'footer.copyright': '© 2025 TrueVibe. All rights reserved.',
+    'footer.copyright': '© 2025 Datrly. All rights reserved.',
     'footer.features': 'Features',
     'footer.howItWorks': 'How It Works',
     'footer.pricing': 'Pricing',
@@ -39,7 +39,7 @@ const translations = {
     // Home - Hero
     'home.hero.badge': 'AI-Powered Dating Coach',
     'home.hero.title': 'Date Seriously with Your Personal AI Coach',
-    'home.hero.subtitle': 'Overcome "The Dip" with a real dating strategy. TrueVibe understands your profile and your matches to create deep connections, not just generic pick-up lines.',
+    'home.hero.subtitle': 'Overcome "The Dip" with a real dating strategy. Datrly understands your profile and your matches to create deep connections, not just generic pick-up lines.',
     'home.hero.cta.appstore': 'Download on App Store',
     'home.hero.cta.googleplay': 'Get it on Google Play',
     'home.hero.cta.learnmore': 'Learn More',
@@ -50,7 +50,7 @@ const translations = {
     // Home - Features
     'home.features.badge': 'Three Pillars of Success',
     'home.features.title': 'Everything You Need to Win at Dating',
-    'home.features.subtitle': 'TrueVibe combines AI intelligence with dating expertise to give you an unfair advantage in the modern dating landscape.',
+    'home.features.subtitle': 'Datrly combines AI intelligence with dating expertise to give you an unfair advantage in the modern dating landscape.',
     'home.features.profileGlowUp.title': 'Profile Glow Up',
     'home.features.profileGlowUp.description': 'Upload your profile photos and get a 4-section AI diagnosis: what strangers see, your hidden strengths, who you attract, and a prioritized action plan. Disagree with the AI? Challenge it — our debate mode lets you push back and see the score update in real time.',
     'home.features.profileGlowUp.tag1': 'Photo Analysis',
@@ -70,9 +70,9 @@ const translations = {
     // Home - How It Works
     'home.howItWorks.badge': 'Simple & Effective',
     'home.howItWorks.title': 'From Setup to Success in Minutes',
-    'home.howItWorks.subtitle': 'TrueVibe works alongside your existing dating apps — no switching required.',
+    'home.howItWorks.subtitle': 'Datrly works alongside your existing dating apps — no switching required.',
     'home.howItWorks.step1.title': 'AI Onboarding Session',
-    'home.howItWorks.step1.description': 'Answer 6 adaptive questions about where you\'re stuck in dating. TrueVibe\'s AI diagnoses your exact blind spot and delivers a personal letter — not a generic report — written just for you.',
+    'home.howItWorks.step1.description': 'Answer 6 adaptive questions about where you\'re stuck in dating. Datrly\'s AI diagnoses your exact blind spot and delivers a personal letter — not a generic report — written just for you.',
     'home.howItWorks.step2.title': 'Profile Glow Up',
     'home.howItWorks.step2.description': 'Upload your dating profile photos. Get a scored breakdown across 4 sections — from first impression to action plan — and an AI debate to pressure-test your weak spots.',
     'home.howItWorks.step3.title': 'Vibe Check a Match',
@@ -83,7 +83,7 @@ const translations = {
     // Home - Testimonials
     'home.testimonials.badge': 'Real Stories',
     'home.testimonials.title': 'What Our Users Say',
-    'home.testimonials.subtitle': 'Thousands of people have transformed their dating life with TrueVibe.',
+    'home.testimonials.subtitle': 'Thousands of people have transformed their dating life with Datrly.',
     'home.testimonials.1.name': 'Alex M.',
     'home.testimonials.1.role': 'Software Engineer, San Francisco',
     'home.testimonials.1.text': 'The Profile Glow Up caught that my corporate headshot was killing my match rate — something I never would have noticed myself. After I fixed the photo order based on the AI\'s action plan, my matches tripled in two weeks.',
@@ -97,7 +97,7 @@ const translations = {
     // Home - Download CTA
     'home.download.badge': 'Available Now',
     'home.download.title': 'Start Dating Smarter Today',
-    'home.download.subtitle': 'Join thousands of singles who are using AI to build genuine connections. Download TrueVibe free and transform how you date.',
+    'home.download.subtitle': 'Join thousands of singles who are using AI to build genuine connections. Download Datrly free and transform how you date.',
     'home.download.cta.appstore': 'Download on App Store',
     'home.download.cta.googleplay': 'Get it on Google Play',
     'home.download.free': 'Free to download',
@@ -145,20 +145,20 @@ const translations = {
     'home.differentiation.card1.step2': 'You send an awkward message that doesn\'t sound like you.',
     'home.differentiation.card1.step3': 'They lose interest and ghost you.',
     'home.differentiation.card1.subtext': 'Dating with copy-pasted lines will never build a deep connection.',
-    'home.differentiation.card2.title': 'TrueVibe Expert Coaching',
+    'home.differentiation.card2.title': 'Datrly Expert Coaching',
     'home.differentiation.card2.step1': 'Understands YOUR personality and analyzes their "Red Flags".',
     'home.differentiation.card2.step2': 'Suggests conversation tactics based on your authentic voice.',
     'home.differentiation.card2.step3': 'You send confident messages, build deep rapport, and secure high-quality dates.',
-    'home.differentiation.card2.subtext': 'TrueVibe doesn\'t speak for you. We coach you to become your most attractive self.',
+    'home.differentiation.card2.subtext': 'Datrly doesn\'t speak for you. We coach you to become your most attractive self.',
     'home.differentiation.cta': 'Master Your Conversations Today',
 
     // About
-    'about.title': 'About TrueVibe',
+    'about.title': 'About Datrly',
     'about.description': 'We\'re on a mission to help serious relationship seekers navigate modern dating with confidence and clarity.',
     'about.mission.badge': 'Our Mission',
     'about.mission.title': 'Making Meaningful Connections the Norm',
-    'about.mission.text1': 'Modern dating apps are overwhelming. Endless swiping, unanswered messages, confusing signals — the process is exhausting and often demoralizing. We built TrueVibe because we believe everyone deserves a fair shot at finding real love.',
-    'about.mission.text2': 'TrueVibe isn\'t a dating app. We\'re a coaching companion that runs alongside the apps you already use. Our AI analyzes what actually works — not just generic advice — and gives you personalized, actionable guidance based on your unique situation and goals.',
+    'about.mission.text1': 'Modern dating apps are overwhelming. Endless swiping, unanswered messages, confusing signals — the process is exhausting and often demoralizing. We built Datrly because we believe everyone deserves a fair shot at finding real love.',
+    'about.mission.text2': 'Datrly isn\'t a dating app. We\'re a coaching companion that runs alongside the apps you already use. Our AI analyzes what actually works — not just generic advice — and gives you personalized, actionable guidance based on your unique situation and goals.',
     'about.mission.text3': 'We\'re built for serious relationship seekers: people who are done wasting time on bad matches and bad conversations, and who are ready to date with intention and intelligence.',
     'about.values.badge': 'Our Values',
     'about.values.title': 'What We Stand For',
@@ -169,25 +169,25 @@ const translations = {
     'about.values.3.title': 'Science-Backed Advice',
     'about.values.3.text': 'Our recommendations are grounded in behavioral psychology, relationship science, and analysis of what actually drives successful matches and connections.',
     'about.values.4.title': 'Inclusive & Diverse',
-    'about.values.4.text': 'TrueVibe serves people of all orientations, backgrounds, and relationship styles. Great connection advice is universal.',
+    'about.values.4.text': 'Datrly serves people of all orientations, backgrounds, and relationship styles. Great connection advice is universal.',
     'about.team.badge': 'The Team',
     'about.team.title': 'Built by People Who Get It',
     'about.team.text': 'We\'re a small team of engineers, relationship coaches, and AI researchers who got tired of seeing smart, genuine people struggle in the modern dating landscape. We\'ve combined our expertise to build the tool we wish had existed when we were single.',
     'about.cta.title': 'Ready to Date Smarter?',
-    'about.cta.text': 'Download TrueVibe and start your journey toward meaningful connections.',
+    'about.cta.text': 'Download Datrly and start your journey toward meaningful connections.',
     'about.cta.button': 'Download Now',
 
     // Privacy
     'privacy.title': 'Privacy Policy',
-    'privacy.description': 'How TrueVibe collects, uses, and protects your personal information.',
+    'privacy.description': 'How Datrly collects, uses, and protects your personal information.',
     'privacy.lastUpdated': 'Last Updated: April 6, 2026',
     'privacy.toc.title': 'Table of Contents',
     'privacy.s1.title': '1. Introduction',
-    'privacy.s1.content': `TrueVibe ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the TrueVibe mobile application and related services (collectively, the "Service").
+    'privacy.s1.content': `Datrly ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the Datrly mobile application and related services (collectively, the "Service").
 
 Please read this Privacy Policy carefully. By using the Service, you agree to the collection and use of your information in accordance with this policy. If you do not agree with any terms of this Privacy Policy, please discontinue use of the Service immediately.
 
-This policy applies to all users of TrueVibe worldwide, with specific additional rights for residents of California (under CCPA) and the European Union/EEA (under GDPR), as detailed in Section 7.`,
+This policy applies to all users of Datrly worldwide, with specific additional rights for residents of California (under CCPA) and the European Union/EEA (under GDPR), as detailed in Section 7.`,
 
     'privacy.s2.title': '2. Information We Collect',
     'privacy.s2.content': `We collect several types of information to provide and improve our Service:
@@ -235,7 +235,7 @@ This policy applies to all users of TrueVibe worldwide, with specific additional
 **3.5 Legal & Safety**
 - To enforce our Terms of Service and other policies.
 - To comply with applicable laws, regulations, and legal processes.
-- To protect the rights, safety, and security of TrueVibe, our users, and the public.`,
+- To protect the rights, safety, and security of Datrly, our users, and the public.`,
 
     'privacy.s4.title': '4. Sharing Your Information',
     'privacy.s4.content': `We do not sell, rent, or trade your personal information. We share your information only in the following limited circumstances:
@@ -250,16 +250,16 @@ We share information with third-party vendors who help us operate the Service, i
 All service providers are contractually bound to process your data only as directed by us and in accordance with applicable privacy laws.
 
 **4.2 Business Transfers**
-If TrueVibe is involved in a merger, acquisition, or asset sale, your information may be transferred as a business asset. We will provide notice before your information becomes subject to a different privacy policy.
+If Datrly is involved in a merger, acquisition, or asset sale, your information may be transferred as a business asset. We will provide notice before your information becomes subject to a different privacy policy.
 
 **4.3 Legal Requirements**
-We may disclose your information if required by law, court order, or government authority, or if we believe disclosure is necessary to protect the rights, safety, or security of TrueVibe, its users, or the public.
+We may disclose your information if required by law, court order, or government authority, or if we believe disclosure is necessary to protect the rights, safety, or security of Datrly, its users, or the public.
 
 **4.4 With Your Consent**
 We may share your information for any other purpose with your explicit consent.`,
 
     'privacy.s5.title': '5. Data Retention',
-    'privacy.s5.content': `TrueVibe uses a local-first data model. Most of your data is stored on your device and is not transmitted to our servers.
+    'privacy.s5.content': `Datrly uses a local-first data model. Most of your data is stored on your device and is not transmitted to our servers.
 
 - App data stored locally on your device: Your onboarding answers, preferences, and analysis history are stored locally on your device. You can clear all local data at any time from Settings > Clear Data. Uninstalling the app also removes all local data.
 - Uploaded images: Processed transiently to deliver your analysis results; not retained on our servers after the coaching response is delivered.
@@ -299,7 +299,7 @@ California residents have additional rights under the California Consumer Privac
 - Right to Correct: Request correction of inaccurate personal information.
 - Right to Limit Use of Sensitive Personal Information: Where applicable.
 
-To exercise California rights, contact us at support.truevibe@easier.today with the subject line "CCPA Request."
+To exercise California rights, contact us at support.datrly@easier.today with the subject line "CCPA Request."
 
 **7.3 EU/EEA Residents (GDPR)**
 EU/EEA residents have rights under the General Data Protection Regulation:
@@ -308,17 +308,17 @@ EU/EEA residents have rights under the General Data Protection Regulation:
 - Supervisory Authority: You have the right to lodge a complaint with your local data protection authority.
 - International Transfers: Data may be transferred to the United States. We rely on Standard Contractual Clauses (SCCs) or other approved mechanisms for such transfers.
 
-To exercise any privacy right, email us at support.truevibe@easier.today. We will respond within 30 days (or 45 days for complex requests).`,
+To exercise any privacy right, email us at support.datrly@easier.today. We will respond within 30 days (or 45 days for complex requests).`,
 
     'privacy.s8.title': '8. Children\'s Privacy',
-    'privacy.s8.content': `TrueVibe is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. Users between ages 13 and 17 may use the Service only with verifiable parental or guardian consent.
+    'privacy.s8.content': `Datrly is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. Users between ages 13 and 17 may use the Service only with verifiable parental or guardian consent.
 
-If you are a parent or guardian and believe your child under 13 has provided us with personal information, please contact us immediately at support.truevibe@easier.today. We will promptly delete such information from our systems.
+If you are a parent or guardian and believe your child under 13 has provided us with personal information, please contact us immediately at support.datrly@easier.today. We will promptly delete such information from our systems.
 
 We comply with the Children's Online Privacy Protection Act (COPPA) and similar laws in other jurisdictions.`,
 
     'privacy.s9.title': '9. In-App Purchases & Subscriptions',
-    'privacy.s9.content': `TrueVibe offers a free tier (3 Sparks/day) and Expert subscriptions (Weekly, 3-Month, Lifetime) for unlimited access.
+    'privacy.s9.content': `Datrly offers a free tier (3 Sparks/day) and Expert subscriptions (Weekly, 3-Month, Lifetime) for unlimited access.
 
 **Payment Processing**
 All payment transactions are processed by Apple (App Store) or Google (Google Play). We do not directly collect or store your credit card or payment account information. RevenueCat acts as an intermediary to verify and manage subscription status.
@@ -333,10 +333,10 @@ Weekly and 3-Month Expert subscriptions auto-renew unless cancelled at least 24 
 Requests for refunds on subscriptions are handled by Apple or Google per their respective refund policies.`,
 
     'privacy.s10.title': '10. AI Processing Notice',
-    'privacy.s10.content': `TrueVibe uses artificial intelligence to generate personalized coaching insights. This section explains in full detail how your content is handled, in compliance with Apple App Store guidelines 5.1.1(i) and 5.1.2(i).
+    'privacy.s10.content': `Datrly uses artificial intelligence to generate personalized coaching insights. This section explains in full detail how your content is handled, in compliance with Apple App Store guidelines 5.1.1(i) and 5.1.2(i).
 
 **Third-Party AI Processor**
-The AI features in TrueVibe are powered by **Google Gemini (Vertex AI — Google Cloud)**. Google is the named third party that receives and processes the data described below.
+The AI features in Datrly are powered by **Google Gemini (Vertex AI — Google Cloud)**. Google is the named third party that receives and processes the data described below.
 
 **What We Send to AI**
 When you use an AI feature, the following data is transmitted to Google Gemini (Vertex AI — Google Cloud) to generate your coaching output:
@@ -346,7 +346,7 @@ When you use an AI feature, the following data is transmitted to Google Gemini (
 - Screenshots of dating conversations (for Chat Copilot analysis).
 
 **User Consent Before Data Is Sent**
-TrueVibe obtains your explicit consent before any personal data is transmitted to Google Gemini. An in-app consent dialog is presented the first time you use an AI feature, clearly explaining what data will be sent and to whom. No data is transmitted to any AI system until you have confirmed your consent.
+Datrly obtains your explicit consent before any personal data is transmitted to Google Gemini. An in-app consent dialog is presented the first time you use an AI feature, clearly explaining what data will be sent and to whom. No data is transmitted to any AI system until you have confirmed your consent.
 
 **How Google Handles Your Data**
 Per Google Cloud's AI/ML Privacy Commitment, Google does not use data submitted through the Vertex AI / Gemini API to train, improve, or refine its AI models. Your data is processed solely to generate the response for your session and is not retained by Google long-term after processing is complete.
@@ -358,7 +358,7 @@ Our team does not read your private messages, conversations, or personal profile
 We send only what is necessary to generate your coaching output. We do not include unnecessary personal identifiers when sending data to Google Gemini.
 
 **Your Control**
-You control what you share with TrueVibe. You are never required to upload private conversation content or photos. All AI analysis features are opt-in by design. You may withdraw consent at any time by discontinuing use of the AI features.`,
+You control what you share with Datrly. You are never required to upload private conversation content or photos. All AI analysis features are opt-in by design. You may withdraw consent at any time by discontinuing use of the AI features.`,
 
     'privacy.s11.title': '11. Changes to This Policy',
     'privacy.s11.content': `We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or for other operational reasons. When we make material changes, we will:
@@ -372,36 +372,36 @@ Your continued use of the Service after changes become effective constitutes you
     'privacy.s12.title': '12. Contact Us',
     'privacy.s12.content': `If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**TrueVibe Support**
-Email: support.truevibe@easier.today
+**Datrly Support**
+Email: support.datrly@easier.today
 Subject: Privacy Inquiry
 
 We are committed to resolving privacy concerns promptly and will respond to all inquiries within 30 business days.
 
-For urgent data security concerns or potential breaches, please email support.truevibe@easier.today with the subject line "URGENT: Security Concern."`,
+For urgent data security concerns or potential breaches, please email support.datrly@easier.today with the subject line "URGENT: Security Concern."`,
 
     // Terms
     'terms.title': 'Terms of Service',
-    'terms.description': 'Please read these terms carefully before using TrueVibe.',
+    'terms.description': 'Please read these terms carefully before using Datrly.',
     'terms.lastUpdated': 'Last Updated: January 1, 2025',
     'terms.toc.title': 'Table of Contents',
     'terms.s1.title': '1. Acceptance of Terms',
-    'terms.s1.content': `These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and TrueVibe ("Company," "we," "our," or "us") governing your access to and use of the TrueVibe mobile application, website, and all related services (collectively, the "Service").
+    'terms.s1.content': `These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Datrly ("Company," "we," "our," or "us") governing your access to and use of the Datrly mobile application, website, and all related services (collectively, the "Service").
 
 BY DOWNLOADING, INSTALLING, ACCESSING, OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.
 
 We reserve the right to modify these Terms at any time. Material changes will be communicated via in-app notification or email. Your continued use of the Service after changes take effect constitutes acceptance of the revised Terms.`,
 
     'terms.s2.title': '2. Description of Service',
-    'terms.s2.content': `TrueVibe is an AI-powered dating companion application designed to help users improve their dating profile presentation, screen potential matches, and improve dating conversations.
+    'terms.s2.content': `Datrly is an AI-powered dating companion application designed to help users improve their dating profile presentation, screen potential matches, and improve dating conversations.
 
-**What TrueVibe Is:**
+**What Datrly Is:**
 - A personal coaching tool that works alongside existing dating platforms (Tinder, Bumble, Hinge, and others).
 - An AI-driven analytics service that provides personalized recommendations.
 - A productivity and self-improvement tool for the context of dating.
 
-**What TrueVibe Is NOT:**
-- A dating platform or matchmaking service. TrueVibe does not connect users with potential romantic partners.
+**What Datrly Is NOT:**
+- A dating platform or matchmaking service. Datrly does not connect users with potential romantic partners.
 - A guarantee of romantic success. Our AI provides coaching suggestions, not guaranteed outcomes.
 - A substitute for professional psychological, therapeutic, or relationship counseling.
 - Affiliated with, endorsed by, or partnered with any third-party dating application mentioned.
@@ -409,7 +409,7 @@ We reserve the right to modify these Terms at any time. Material changes will be
 The Service includes three core features: Profile Glow Up (profile analysis and optimization), Vibe Check (match screening and opener generation), and Chat Copilot (conversation coaching).`,
 
     'terms.s3.title': '3. Eligibility',
-    'terms.s3.content': `To use TrueVibe, you must meet the following eligibility requirements:
+    'terms.s3.content': `To use Datrly, you must meet the following eligibility requirements:
 
 **Age Requirements**
 - You must be at least 18 years of age to use the Service independently.
@@ -435,7 +435,7 @@ You are responsible for any profile photos, conversation excerpts, or match prof
 You may delete all locally stored app data at any time through Settings > Clear Data. Uninstalling the app also removes all local data.`,
 
     'terms.s5.title': '5. Acceptable Use & Prohibited Conduct',
-    'terms.s5.content': `You agree to use TrueVibe only for lawful purposes and in accordance with these Terms. The following conduct is strictly prohibited:
+    'terms.s5.content': `You agree to use Datrly only for lawful purposes and in accordance with these Terms. The following conduct is strictly prohibited:
 
 **5.1 Prohibited Content**
 - Uploading images or content depicting minors in any romantic, sexual, or inappropriate context.
@@ -461,7 +461,7 @@ Violation of this Section may result in immediate termination of your right to u
 
     'terms.s6.title': '6. Subscriptions, Sparks & Payments',
     'terms.s6.content': `**6.1 Free Tier**
-TrueVibe offers a free tier that receives 3 Sparks per day. Sparks reset daily and cannot be accumulated. Free users have access to all three core features (Profile Glow Up, Vibe Check, Chat Copilot) within the daily Spark allowance.
+Datrly offers a free tier that receives 3 Sparks per day. Sparks reset daily and cannot be accumulated. Free users have access to all three core features (Profile Glow Up, Vibe Check, Chat Copilot) within the daily Spark allowance.
 
 **6.2 Sparks (Daily Credits)**
 Sparks are the in-app credit system used to access AI-powered features. Key terms:
@@ -494,7 +494,7 @@ All purchases are final, subject to applicable App Store or Google Play refund p
 Prices may be inclusive or exclusive of applicable taxes depending on your jurisdiction. You are responsible for any applicable taxes.`,
 
     'terms.s7.title': '7. AI-Generated Content Disclaimer',
-    'terms.s7.content': `TrueVibe uses artificial intelligence to generate personalized coaching insights, suggestions, and recommendations. By using our AI features, you acknowledge and agree to the following:
+    'terms.s7.content': `Datrly uses artificial intelligence to generate personalized coaching insights, suggestions, and recommendations. By using our AI features, you acknowledge and agree to the following:
 
 **7.1 Nature of AI Output**
 - AI-generated content is produced by automated systems and reflects patterns learned from data, not human judgment.
@@ -502,7 +502,7 @@ Prices may be inclusive or exclusive of applicable taxes depending on your juris
 - Results may not be accurate, appropriate, or suitable for every situation.
 
 **7.2 Not a Guarantee of Results**
-- TrueVibe does not guarantee that following our suggestions will result in more matches, dates, relationships, or any specific romantic outcome.
+- Datrly does not guarantee that following our suggestions will result in more matches, dates, relationships, or any specific romantic outcome.
 - Individual results vary significantly based on personal factors outside our control.
 
 **7.3 Not Professional Advice**
@@ -520,24 +520,24 @@ Prices may be inclusive or exclusive of applicable taxes depending on your juris
 
     'terms.s8.title': '8. Intellectual Property',
     'terms.s8.content': `**8.1 Our Property**
-The Service, including its original content, features, functionality, design, software, algorithms, logos, and trademarks, is owned by TrueVibe and its licensors and is protected by intellectual property laws. You may not copy, modify, distribute, sell, or lease any part of the Service without our explicit written permission.
+The Service, including its original content, features, functionality, design, software, algorithms, logos, and trademarks, is owned by Datrly and its licensors and is protected by intellectual property laws. You may not copy, modify, distribute, sell, or lease any part of the Service without our explicit written permission.
 
 **8.2 Your Content**
-You retain ownership of content you upload to the Service (photos, text, conversation excerpts). By uploading content, you grant TrueVibe a limited, non-exclusive, royalty-free license to process and analyze that content solely for the purpose of delivering the Service to you. This license terminates when you delete the content from the app.
+You retain ownership of content you upload to the Service (photos, text, conversation excerpts). By uploading content, you grant Datrly a limited, non-exclusive, royalty-free license to process and analyze that content solely for the purpose of delivering the Service to you. This license terminates when you delete the content from the app.
 
 **8.3 Feedback**
 If you submit feedback, suggestions, or ideas about the Service, you grant us an unrestricted, royalty-free right to use such feedback for any purpose, without compensation or attribution to you.
 
 **8.4 AI Output**
-AI-generated coaching content produced for you through the Service is provided for your personal use. You may not resell, redistribute, or commercialize AI-generated outputs from TrueVibe.`,
+AI-generated coaching content produced for you through the Service is provided for your personal use. You may not resell, redistribute, or commercialize AI-generated outputs from Datrly.`,
 
     'terms.s9.title': '9. Privacy',
     'terms.s9.content': `Your privacy is important to us. Our Privacy Policy explains how we collect, use, and share information about you when you use the Service. By using the Service, you agree to our collection and use of data as described in the Privacy Policy.
 
-The Privacy Policy is incorporated into these Terms by reference and forms part of this agreement. Please review our Privacy Policy at truevibe.easier.today/privacy.`,
+The Privacy Policy is incorporated into these Terms by reference and forms part of this agreement. Please review our Privacy Policy at datrly.easier.today/privacy.`,
 
     'terms.s10.title': '10. Disclaimer of Warranties',
-    'terms.s10.content': `THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, TRUEVIBE DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
+    'terms.s10.content': `THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, DATRLY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
 
 - IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 - WARRANTIES THAT THE SERVICE WILL BE UNINTERRUPTED, ERROR-FREE, OR COMPLETELY SECURE.
@@ -547,7 +547,7 @@ The Privacy Policy is incorporated into these Terms by reference and forms part 
 Some jurisdictions do not allow the exclusion of implied warranties, so some of the above exclusions may not apply to you.`,
 
     'terms.s11.title': '11. Limitation of Liability',
-    'terms.s11.content': `TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, TRUEVIBE AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND LICENSORS SHALL NOT BE LIABLE FOR:
+    'terms.s11.content': `TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, DATRLY AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND LICENSORS SHALL NOT BE LIABLE FOR:
 
 - ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
 - LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES.
@@ -556,12 +556,12 @@ Some jurisdictions do not allow the exclusion of implied warranties, so some of 
 - DAMAGES ARISING FROM ANY THIRD-PARTY CONDUCT OR CONTENT.
 - DAMAGES ARISING FROM YOUR RELIANCE ON AI-GENERATED COACHING CONTENT.
 
-IN NO EVENT SHALL TRUEVIBE'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING FROM OR RELATING TO THE SERVICE EXCEED THE GREATER OF: (A) THE AMOUNT YOU PAID TO TRUEVIBE IN THE 12 MONTHS PRECEDING THE CLAIM, OR (B) ONE HUNDRED US DOLLARS ($100).
+IN NO EVENT SHALL DATRLY'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING FROM OR RELATING TO THE SERVICE EXCEED THE GREATER OF: (A) THE AMOUNT YOU PAID TO DATRLY IN THE 12 MONTHS PRECEDING THE CLAIM, OR (B) ONE HUNDRED US DOLLARS ($100).
 
 Some jurisdictions do not allow limitations on implied warranties or liability for incidental damages, so the above limitations may not fully apply to you.`,
 
     'terms.s12.title': '12. Indemnification',
-    'terms.s12.content': `You agree to indemnify, defend, and hold harmless TrueVibe and its officers, directors, employees, agents, licensors, and service providers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
+    'terms.s12.content': `You agree to indemnify, defend, and hold harmless Datrly and its officers, directors, employees, agents, licensors, and service providers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
 
 - Your violation of these Terms.
 - Your use of the Service, including AI-generated coaching outputs.
@@ -576,7 +576,7 @@ We reserve the right to assume the exclusive defense and control of any matter o
 These Terms shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions. The United Nations Convention on Contracts for the International Sale of Goods does not apply.
 
 **13.2 Arbitration Agreement**
-Any dispute, claim, or controversy arising from or relating to these Terms or the Service shall be resolved by binding individual arbitration administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules, rather than in court. You and TrueVibe each waive the right to a jury trial and to participate in class action lawsuits.
+Any dispute, claim, or controversy arising from or relating to these Terms or the Service shall be resolved by binding individual arbitration administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules, rather than in court. You and Datrly each waive the right to a jury trial and to participate in class action lawsuits.
 
 **13.3 Small Claims Exception**
 Either party may bring an individual action in small claims court in the county of your residence or in Santa Clara County, California, provided the claim qualifies for small claims court.
@@ -602,12 +602,12 @@ We recommend reviewing these Terms periodically. Material changes will not apply
     'terms.s15.content': `**15.1 Contact**
 For questions about these Terms of Service, please contact:
 
-TrueVibe Support
-Email: support.truevibe@easier.today
+Datrly Support
+Email: support.datrly@easier.today
 Subject: Terms of Service Inquiry
 
 **15.2 Entire Agreement**
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and TrueVibe regarding the Service and supersede all prior agreements.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and Datrly regarding the Service and supersede all prior agreements.
 
 **15.3 Severability**
 If any provision of these Terms is found unenforceable, the remaining provisions will remain in full effect.
@@ -626,22 +626,22 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'support.description': 'We\'re here to help. Find answers to common questions or reach out directly.',
     'support.faq.badge': 'FAQ',
     'support.faq.title': 'Frequently Asked Questions',
-    'support.faq.q1': 'What is TrueVibe and how does it work?',
-    'support.faq.a1': 'TrueVibe is an AI-powered dating companion app that works alongside your existing dating apps like Tinder, Bumble, and Hinge. It has three core features: Profile Glow Up (analyzes your profile photos and gives a scored action plan), Vibe Check (upload up to 8 photos of a match for a full AI dossier with compatibility score and openers), and Chat Copilot (screenshot your conversation to get reply suggestions with psychological reasoning). Free users get 3 AI analyses per day. Upgrade to Expert for unlimited access.',
+    'support.faq.q1': 'What is Datrly and how does it work?',
+    'support.faq.a1': 'Datrly is an AI-powered dating companion app that works alongside your existing dating apps like Tinder, Bumble, and Hinge. It has three core features: Profile Glow Up (analyzes your profile photos and gives a scored action plan), Vibe Check (upload up to 8 photos of a match for a full AI dossier with compatibility score and openers), and Chat Copilot (screenshot your conversation to get reply suggestions with psychological reasoning). Free users get 3 AI analyses per day. Upgrade to Expert for unlimited access.',
     'support.faq.q2': 'What are Sparks and how does the free tier work?',
     'support.faq.a2': 'Sparks are the in-app currency for AI analyses. Free users receive 3 Sparks per day — enough for 3 full analyses (Profile Glow Up, Vibe Check, or Chat Copilot). Sparks reset daily. To unlock unlimited analyses with no daily limits, upgrade to an Expert subscription (Weekly, 3-Month, or Lifetime).',
     'support.faq.q3': 'Is my dating conversation data private?',
     'support.faq.a3': 'Yes, absolutely. Your privacy is our top priority. Screenshots you submit to Chat Copilot are processed by our AI to generate coaching and are not permanently stored on our servers after your response is delivered. Our team does not view your private conversations. All data processing happens via encrypted connections. See our Privacy Policy for full details.',
     'support.faq.q4': 'How do I cancel my Expert subscription?',
-    'support.faq.a4': 'You can cancel your Expert subscription at any time through your device\'s subscription settings. On iPhone/iPad: Go to Settings > Apple ID > Subscriptions > TrueVibe Expert > Cancel Subscription. On Android: Open Google Play > tap your profile icon > Payments & subscriptions > Subscriptions > TrueVibe > Cancel. Cancellation takes effect at the end of your current billing period.',
+    'support.faq.a4': 'You can cancel your Expert subscription at any time through your device\'s subscription settings. On iPhone/iPad: Go to Settings > Apple ID > Subscriptions > Datrly Expert > Cancel Subscription. On Android: Open Google Play > tap your profile icon > Payments & subscriptions > Subscriptions > Datrly > Cancel. Cancellation takes effect at the end of your current billing period.',
     'support.faq.q5': 'Can I get a refund for my subscription?',
     'support.faq.a5': 'For subscription refund requests, please contact Apple (App Store) or Google (Google Play) directly, as all payments are processed through those platforms. We do not process refunds directly. Refund decisions are at the discretion of Apple or Google per their respective policies.',
-    'support.faq.q6': 'Does TrueVibe work for all sexual orientations and relationship types?',
-    'support.faq.a6': 'Yes! TrueVibe is fully inclusive and designed to help all users regardless of sexual orientation, gender identity, or relationship style (monogamous, polyamorous, casual, serious, etc.). During onboarding, you specify your preferences, and all AI coaching is tailored accordingly.',
+    'support.faq.q6': 'Does Datrly work for all sexual orientations and relationship types?',
+    'support.faq.a6': 'Yes! Datrly is fully inclusive and designed to help all users regardless of sexual orientation, gender identity, or relationship style (monogamous, polyamorous, casual, serious, etc.). During onboarding, you specify your preferences, and all AI coaching is tailored accordingly.',
     'support.faq.q7': 'How do I clear my data or reset the app?',
-    'support.faq.a7': 'TrueVibe stores all your data locally on your device — there is no account or server-side profile. To clear your data, go to Settings (bottom tab) > Clear Data > Confirm. This permanently removes all local data including your onboarding profile and analysis history. You can also simply uninstall the app to remove all data. If you need further help, email us at support.truevibe@easier.today.',
+    'support.faq.a7': 'Datrly stores all your data locally on your device — there is no account or server-side profile. To clear your data, go to Settings (bottom tab) > Clear Data > Confirm. This permanently removes all local data including your onboarding profile and analysis history. You can also simply uninstall the app to remove all data. If you need further help, email us at support.datrly@easier.today.',
     'support.faq.q8': 'The app is not working correctly. What should I do?',
-    'support.faq.a8': 'First, try closing and reopening the app. If issues persist, try: (1) Check your internet connection; (2) Update to the latest version of TrueVibe from the App Store or Google Play; (3) Restart your device; (4) Uninstall and reinstall the app (your local data will be cleared on reinstall). If none of these steps help, please contact us at support.truevibe@easier.today with a description of the issue and your device model and OS version.',
+    'support.faq.a8': 'First, try closing and reopening the app. If issues persist, try: (1) Check your internet connection; (2) Update to the latest version of Datrly from the App Store or Google Play; (3) Restart your device; (4) Uninstall and reinstall the app (your local data will be cleared on reinstall). If none of these steps help, please contact us at support.datrly@easier.today with a description of the issue and your device model and OS version.',
     'support.contact.badge': 'Get in Touch',
     'support.contact.title': 'Contact Support',
     'support.contact.subtitle': 'Can\'t find what you need? Send us a message and we\'ll respond within 24 hours.',
@@ -656,20 +656,20 @@ We will not be liable for any failure or delay in performance due to circumstanc
 
     // Delete Data
     'delete.title': 'Clear Your Data',
-    'delete.description': 'Instructions for clearing all TrueVibe data stored on your device.',
-    'delete.intro': 'TrueVibe has no accounts and no server-side profile — all your data is stored locally on your device only. Clearing it is instant and permanent.',
+    'delete.description': 'Instructions for clearing all Datrly data stored on your device.',
+    'delete.intro': 'Datrly has no accounts and no server-side profile — all your data is stored locally on your device only. Clearing it is instant and permanent.',
     'delete.warning': 'Warning: This action is permanent',
     'delete.warningText': 'Once cleared, all your local data — including your onboarding profile and analysis history — will be permanently removed from this device. This action cannot be reversed.',
     'delete.method1.title': 'Method 1: Clear In-App (Recommended)',
-    'delete.method1.step1': 'Open the TrueVibe app on your device.',
+    'delete.method1.step1': 'Open the Datrly app on your device.',
     'delete.method1.step2': 'Navigate to the More tab (bottom navigation bar).',
     'delete.method1.step3': 'Tap "Settings".',
     'delete.method1.step4': 'Tap "Clear Data" and confirm.',
     'delete.method1.step5': 'All local data will be immediately and permanently deleted. The app will return to the onboarding screen.',
     'delete.method2.title': 'Method 2: Uninstall the App',
-    'delete.method2.text': 'Uninstalling TrueVibe removes all locally stored data from your device:',
-    'delete.method2.step1': 'On iPhone/iPad: Press and hold the TrueVibe icon > Remove App > Delete App.',
-    'delete.method2.step2': 'On Android: Press and hold the TrueVibe icon > Uninstall > OK.',
+    'delete.method2.text': 'Uninstalling Datrly removes all locally stored data from your device:',
+    'delete.method2.step1': 'On iPhone/iPad: Press and hold the Datrly icon > Remove App > Delete App.',
+    'delete.method2.step2': 'On Android: Press and hold the Datrly icon > Uninstall > OK.',
     'delete.method2.step3': 'All local data is removed when the app is uninstalled.',
     'delete.method2.step4': 'Note: Uninstalling does not cancel an active Expert subscription. Manage your subscription separately in App Store or Google Play settings.',
     'delete.dataInfo.title': 'What Gets Cleared',
@@ -678,7 +678,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'delete.dataInfo.2': 'All analysis history (Profile Glow Up, Vibe Check, Chat Copilot) is permanently removed.',
     'delete.dataInfo.3': 'There is no server-side account to delete — your data never left your device.',
     'delete.dataInfo.4': 'Expert subscription status is managed by Apple/Google and is not affected by clearing app data.',
-    'delete.contact': 'Need help or have feedback? Contact us at support.truevibe@easier.today',
+    'delete.contact': 'Need help or have feedback? Contact us at support.datrly@easier.today',
   },
 
   vi: {
@@ -695,7 +695,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'footer.product': 'Sản phẩm',
     'footer.company': 'Công ty',
     'footer.legal': 'Pháp lý',
-    'footer.copyright': '© 2025 TrueVibe. Tất cả quyền được bảo lưu.',
+    'footer.copyright': '© 2025 Datrly. Tất cả quyền được bảo lưu.',
     'footer.features': 'Tính năng',
     'footer.howItWorks': 'Cách hoạt động',
     'footer.pricing': 'Bảng giá',
@@ -707,7 +707,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     // Home - Hero
     'home.hero.badge': 'Huấn luyện viên hẹn hò AI',
     'home.hero.title': 'Tự tin hẹn hò nghiêm túc với AI Coach cá nhân',
-    'home.hero.subtitle': 'Vượt qua giai đoạn \'The Dip\' với chiến lược hẹn hò từ AI. TrueVibe thấu hiểu profile của bạn và đối phương để tạo ra những cuộc trò chuyện sâu sắc, không phải thả thính dạo.',
+    'home.hero.subtitle': 'Vượt qua giai đoạn \'The Dip\' với chiến lược hẹn hò từ AI. Datrly thấu hiểu profile của bạn và đối phương để tạo ra những cuộc trò chuyện sâu sắc, không phải thả thính dạo.',
     'home.hero.cta.appstore': 'Tải trên App Store',
     'home.hero.cta.googleplay': 'Tải trên Google Play',
     'home.hero.cta.learnmore': 'Tìm hiểu thêm',
@@ -718,7 +718,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     // Home - Features
     'home.features.badge': 'Ba trụ cột thành công',
     'home.features.title': 'Mọi thứ bạn cần để thành công trong hẹn hò',
-    'home.features.subtitle': 'TrueVibe kết hợp trí tuệ AI với kiến thức hẹn hò chuyên sâu để mang lại cho bạn lợi thế vượt trội trong bối cảnh hẹn hò hiện đại.',
+    'home.features.subtitle': 'Datrly kết hợp trí tuệ AI với kiến thức hẹn hò chuyên sâu để mang lại cho bạn lợi thế vượt trội trong bối cảnh hẹn hò hiện đại.',
     'home.features.profileGlowUp.title': 'Nâng cấp hồ sơ',
     'home.features.profileGlowUp.description': 'Tải ảnh hồ sơ lên và nhận chẩn đoán AI theo 4 phần: người lạ nhìn bạn thế nào, điểm mạnh ẩn, bạn đang thu hút ai, và kế hoạch hành động ưu tiên. Không đồng ý với AI? Hãy tranh luận — chế độ debate cho phép bạn phản bác và xem điểm cập nhật ngay.',
     'home.features.profileGlowUp.tag1': 'Phân tích ảnh',
@@ -738,9 +738,9 @@ We will not be liable for any failure or delay in performance due to circumstanc
     // Home - How It Works
     'home.howItWorks.badge': 'Đơn giản & Hiệu quả',
     'home.howItWorks.title': 'Từ cài đặt đến thành công trong vài phút',
-    'home.howItWorks.subtitle': 'TrueVibe hoạt động song song với các ứng dụng hẹn hò hiện có của bạn — không cần chuyển đổi.',
+    'home.howItWorks.subtitle': 'Datrly hoạt động song song với các ứng dụng hẹn hò hiện có của bạn — không cần chuyển đổi.',
     'home.howItWorks.step1.title': 'Phiên chẩn đoán AI',
-    'home.howItWorks.step1.description': 'Trả lời 6 câu hỏi thích nghi về điểm bạn đang bị kẹt trong hẹn hò. AI của TrueVibe chẩn đoán đúng điểm mù và gửi một bức thư cá nhân — không phải báo cáo chung chung — viết riêng cho bạn.',
+    'home.howItWorks.step1.description': 'Trả lời 6 câu hỏi thích nghi về điểm bạn đang bị kẹt trong hẹn hò. AI của Datrly chẩn đoán đúng điểm mù và gửi một bức thư cá nhân — không phải báo cáo chung chung — viết riêng cho bạn.',
     'home.howItWorks.step2.title': 'Nâng cấp hồ sơ',
     'home.howItWorks.step2.description': 'Tải ảnh hồ sơ hẹn hò lên. Nhận phân tích có điểm số theo 4 phần — từ ấn tượng đầu tiên đến kế hoạch hành động — và chế độ debate AI để kiểm tra điểm yếu của bạn.',
     'home.howItWorks.step3.title': 'Kiểm tra Vibe người match',
@@ -751,7 +751,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     // Home - Testimonials
     'home.testimonials.badge': 'Câu chuyện thật',
     'home.testimonials.title': 'Người dùng nói gì về chúng tôi',
-    'home.testimonials.subtitle': 'Hàng ngàn người đã thay đổi cuộc sống hẹn hò của họ với TrueVibe.',
+    'home.testimonials.subtitle': 'Hàng ngàn người đã thay đổi cuộc sống hẹn hò của họ với Datrly.',
     'home.testimonials.1.name': 'Alex M.',
     'home.testimonials.1.role': 'Kỹ sư phần mềm, San Francisco',
     'home.testimonials.1.text': 'Profile Glow Up phát hiện ảnh doanh nghiệp của tôi đang giết chết tỷ lệ match — điều tôi không bao giờ tự nhận ra được. Sau khi sắp xếp lại thứ tự ảnh theo kế hoạch của AI, match của tôi tăng gấp 3 trong hai tuần.',
@@ -765,7 +765,7 @@ We will not be liable for any failure or delay in performance due to circumstanc
     // Home - Download CTA
     'home.download.badge': 'Có sẵn ngay',
     'home.download.title': 'Bắt đầu hẹn hò thông minh hơn ngay hôm nay',
-    'home.download.subtitle': 'Tham gia hàng ngàn người độc thân đang sử dụng AI để xây dựng kết nối thực sự. Tải TrueVibe miễn phí và thay đổi cách bạn hẹn hò.',
+    'home.download.subtitle': 'Tham gia hàng ngàn người độc thân đang sử dụng AI để xây dựng kết nối thực sự. Tải Datrly miễn phí và thay đổi cách bạn hẹn hò.',
     'home.download.cta.appstore': 'Tải trên App Store',
     'home.download.cta.googleplay': 'Tải trên Google Play',
     'home.download.free': 'Tải xuống miễn phí',
@@ -813,20 +813,20 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'home.differentiation.card1.step2': 'Bạn gửi đi lời văn sượng sùng, không giống con người bạn.',
     'home.differentiation.card1.step3': 'Đối phương tụt mood và im lặng (Ghosted).',
     'home.differentiation.card1.subtext': 'Hẹn hò chỉ bằng văn mẫu sẽ không bao giờ tạo kết nối sâu sắc.',
-    'home.differentiation.card2.title': 'Đẳng Cấp Chuyên Gia TrueVibe',
+    'home.differentiation.card2.title': 'Đẳng Cấp Chuyên Gia Datrly',
     'home.differentiation.card2.step1': 'Thấu hiểu tính cách BẠN và soi chiếu "Red Flags" của đối phương.',
     'home.differentiation.card2.step2': 'Gợi ý chiến thuật dẫn dắt dựa trên giọng điệu thật của bạn.',
     'home.differentiation.card2.step3': 'Tự tin nhắn tin, câu chuyện có chiều sâu, chốt hẹn chất lượng.',
-    'home.differentiation.card2.subtext': 'TrueVibe không nói hộ bạn. Chúng tôi coach để chính bạn thu hút nhất.',
+    'home.differentiation.card2.subtext': 'Datrly không nói hộ bạn. Chúng tôi coach để chính bạn thu hút nhất.',
     'home.differentiation.cta': 'Tự tin làm chủ cuộc trò chuyện ngay hôm nay',
 
     // About
-    'about.title': 'Về TrueVibe',
+    'about.title': 'Về Datrly',
     'about.description': 'Chúng tôi có sứ mệnh giúp những người tìm kiếm mối quan hệ nghiêm túc điều hướng việc hẹn hò hiện đại với sự tự tin và rõ ràng.',
     'about.mission.badge': 'Sứ mệnh của chúng tôi',
     'about.mission.title': 'Biến những kết nối ý nghĩa thành điều bình thường',
-    'about.mission.text1': 'Các ứng dụng hẹn hò hiện đại thật áp đảo. Vuốt vô tận, tin nhắn không có hồi đáp, tín hiệu khó hiểu — quá trình này kiệt sức và thường chán nản. Chúng tôi xây dựng TrueVibe vì tin rằng mọi người đều xứng đáng có cơ hội công bằng để tìm thấy tình yêu thực sự.',
-    'about.mission.text2': 'TrueVibe không phải là ứng dụng hẹn hò. Chúng tôi là người bạn huấn luyện đồng hành với các ứng dụng bạn đã sử dụng. AI của chúng tôi phân tích những gì thực sự hiệu quả — không chỉ là lời khuyên chung chung — và cung cấp hướng dẫn cá nhân hóa, có thể thực hiện được dựa trên tình huống và mục tiêu riêng của bạn.',
+    'about.mission.text1': 'Các ứng dụng hẹn hò hiện đại thật áp đảo. Vuốt vô tận, tin nhắn không có hồi đáp, tín hiệu khó hiểu — quá trình này kiệt sức và thường chán nản. Chúng tôi xây dựng Datrly vì tin rằng mọi người đều xứng đáng có cơ hội công bằng để tìm thấy tình yêu thực sự.',
+    'about.mission.text2': 'Datrly không phải là ứng dụng hẹn hò. Chúng tôi là người bạn huấn luyện đồng hành với các ứng dụng bạn đã sử dụng. AI của chúng tôi phân tích những gì thực sự hiệu quả — không chỉ là lời khuyên chung chung — và cung cấp hướng dẫn cá nhân hóa, có thể thực hiện được dựa trên tình huống và mục tiêu riêng của bạn.',
     'about.mission.text3': 'Chúng tôi được xây dựng cho những người tìm kiếm mối quan hệ nghiêm túc: những người đã chán lãng phí thời gian cho những cuộc match và cuộc trò chuyện tệ, và sẵn sàng hẹn hò có chủ ý và thông minh.',
     'about.values.badge': 'Giá trị của chúng tôi',
     'about.values.title': 'Những gì chúng tôi đại diện',
@@ -837,25 +837,25 @@ We will not be liable for any failure or delay in performance due to circumstanc
     'about.values.3.title': 'Lời khuyên dựa trên khoa học',
     'about.values.3.text': 'Các khuyến nghị của chúng tôi được đặt nền tảng trên tâm lý hành vi, khoa học quan hệ, và phân tích những gì thực sự thúc đẩy các match và kết nối thành công.',
     'about.values.4.title': 'Hòa nhập & Đa dạng',
-    'about.values.4.text': 'TrueVibe phục vụ mọi người ở mọi khuynh hướng, hoàn cảnh và phong cách mối quan hệ. Lời khuyên kết nối tốt là phổ quát.',
+    'about.values.4.text': 'Datrly phục vụ mọi người ở mọi khuynh hướng, hoàn cảnh và phong cách mối quan hệ. Lời khuyên kết nối tốt là phổ quát.',
     'about.team.badge': 'Đội ngũ',
     'about.team.title': 'Được xây dựng bởi những người hiểu bạn',
     'about.team.text': 'Chúng tôi là một nhóm nhỏ các kỹ sư, huấn luyện viên quan hệ và nhà nghiên cứu AI đã chán nhìn thấy những người thông minh, chân thành vật lộn trong bối cảnh hẹn hò hiện đại. Chúng tôi đã kết hợp chuyên môn của mình để xây dựng công cụ mà chúng tôi ước đã tồn tại khi còn độc thân.',
     'about.cta.title': 'Sẵn sàng hẹn hò thông minh hơn?',
-    'about.cta.text': 'Tải TrueVibe và bắt đầu hành trình hướng đến những kết nối ý nghĩa.',
+    'about.cta.text': 'Tải Datrly và bắt đầu hành trình hướng đến những kết nối ý nghĩa.',
     'about.cta.button': 'Tải ngay',
 
     // Privacy - Vietnamese
     'privacy.title': 'Chính Sách Bảo Mật',
-    'privacy.description': 'TrueVibe thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn như thế nào.',
+    'privacy.description': 'Datrly thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn như thế nào.',
     'privacy.lastUpdated': 'Cập nhật lần cuối: 6 tháng 4, 2026',
     'privacy.toc.title': 'Mục lục',
     'privacy.s1.title': '1. Giới thiệu',
-    'privacy.s1.content': `TrueVibe ("chúng tôi" hoặc "của chúng tôi") cam kết bảo vệ quyền riêng tư của bạn. Chính Sách Bảo Mật này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng di động TrueVibe và các dịch vụ liên quan (gọi chung là "Dịch vụ").
+    'privacy.s1.content': `Datrly ("chúng tôi" hoặc "của chúng tôi") cam kết bảo vệ quyền riêng tư của bạn. Chính Sách Bảo Mật này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng di động Datrly và các dịch vụ liên quan (gọi chung là "Dịch vụ").
 
 Vui lòng đọc kỹ Chính Sách Bảo Mật này. Bằng cách sử dụng Dịch vụ, bạn đồng ý với việc thu thập và sử dụng thông tin của bạn theo chính sách này.
 
-Chính sách này áp dụng cho tất cả người dùng TrueVibe trên toàn thế giới.`,
+Chính sách này áp dụng cho tất cả người dùng Datrly trên toàn thế giới.`,
 
     'privacy.s2.title': '2. Thông Tin Chúng Tôi Thu Thập',
     'privacy.s2.content': `Chúng tôi thu thập một số loại thông tin để cung cấp và cải thiện Dịch vụ:
@@ -902,7 +902,7 @@ Chính sách này áp dụng cho tất cả người dùng TrueVibe trên toàn 
 **3.5 Pháp lý & An toàn**
 - Thực thi Điều Khoản Dịch Vụ và các chính sách khác của chúng tôi.
 - Tuân thủ các luật, quy định và quy trình pháp lý áp dụng.
-- Bảo vệ quyền, sự an toàn và bảo mật của TrueVibe, người dùng và cộng đồng.`,
+- Bảo vệ quyền, sự an toàn và bảo mật của Datrly, người dùng và cộng đồng.`,
 
     'privacy.s4.title': '4. Chia Sẻ Thông Tin Của Bạn',
     'privacy.s4.content': `Chúng tôi không bán, cho thuê hoặc giao dịch thông tin cá nhân của bạn. Chúng tôi chỉ chia sẻ thông tin trong các trường hợp hạn chế sau:
@@ -913,13 +913,13 @@ Chính sách này áp dụng cho tất cả người dùng TrueVibe trên toàn 
 - RevenueCat: Quản lý đăng ký và mua hàng.
 
 **4.2 Chuyển giao kinh doanh**
-Nếu TrueVibe tham gia vào việc sáp nhập hoặc mua lại, thông tin của bạn có thể được chuyển giao.
+Nếu Datrly tham gia vào việc sáp nhập hoặc mua lại, thông tin của bạn có thể được chuyển giao.
 
 **4.3 Yêu cầu pháp lý**
 Chúng tôi có thể tiết lộ thông tin nếu pháp luật yêu cầu.`,
 
     'privacy.s5.title': '5. Lưu Trữ Dữ Liệu',
-    'privacy.s5.content': `TrueVibe sử dụng mô hình dữ liệu ưu tiên cục bộ. Hầu hết dữ liệu của bạn được lưu trữ trên thiết bị và không được truyền đến máy chủ của chúng tôi.
+    'privacy.s5.content': `Datrly sử dụng mô hình dữ liệu ưu tiên cục bộ. Hầu hết dữ liệu của bạn được lưu trữ trên thiết bị và không được truyền đến máy chủ của chúng tôi.
 
 - Dữ liệu ứng dụng lưu trữ cục bộ trên thiết bị của bạn: Câu trả lời onboarding, tùy chọn và lịch sử phân tích được lưu trữ cục bộ trên thiết bị của bạn. Bạn có thể xóa tất cả dữ liệu cục bộ bất cứ lúc nào từ Cài đặt > Xóa Dữ Liệu. Gỡ cài đặt ứng dụng cũng xóa tất cả dữ liệu cục bộ.
 - Hình ảnh tải lên: Được xử lý thoáng qua để cung cấp kết quả phân tích; không được lưu trữ trên máy chủ của chúng tôi sau khi phản hồi được cung cấp.
@@ -954,13 +954,13 @@ Cư dân California có các quyền bổ sung theo Đạo luật Quyền riêng
 **7.3 Cư dân EU/EEA (GDPR)**
 Cư dân EU/EEA có các quyền theo Quy định Bảo vệ Dữ liệu Chung.
 
-Để thực hiện bất kỳ quyền bảo mật nào, hãy gửi email cho chúng tôi tại support.truevibe@easier.today.`,
+Để thực hiện bất kỳ quyền bảo mật nào, hãy gửi email cho chúng tôi tại support.datrly@easier.today.`,
 
     'privacy.s8.title': '8. Quyền Riêng Tư Của Trẻ Em',
-    'privacy.s8.content': `TrueVibe không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố tình thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi. Người dùng từ 13 đến 17 tuổi chỉ có thể sử dụng Dịch vụ với sự đồng ý của cha mẹ hoặc người giám hộ.`,
+    'privacy.s8.content': `Datrly không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố tình thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi. Người dùng từ 13 đến 17 tuổi chỉ có thể sử dụng Dịch vụ với sự đồng ý của cha mẹ hoặc người giám hộ.`,
 
     'privacy.s9.title': '9. Mua Hàng Trong Ứng Dụng & Đăng Ký',
-    'privacy.s9.content': `TrueVibe cung cấp gói miễn phí (3 Sparks/ngày) và gói đăng ký Expert (Tuần, 3 Tháng, Trọn đời) cho phép truy cập không giới hạn.
+    'privacy.s9.content': `Datrly cung cấp gói miễn phí (3 Sparks/ngày) và gói đăng ký Expert (Tuần, 3 Tháng, Trọn đời) cho phép truy cập không giới hạn.
 
 **Xử lý thanh toán**
 Tất cả giao dịch thanh toán được xử lý bởi Apple (App Store) hoặc Google (Google Play). Chúng tôi không trực tiếp thu thập hoặc lưu trữ thông tin thẻ tín dụng của bạn. RevenueCat đóng vai trò trung gian để xác minh và quản lý trạng thái đăng ký.
@@ -972,10 +972,10 @@ Chúng tôi nhận và lưu trữ: định danh giao dịch, dấu thời gian m
 Đăng ký Expert Tuần và 3 Tháng tự động gia hạn trừ khi được hủy ít nhất 24 giờ trước khi kết thúc kỳ thanh toán hiện tại. Gói Trọn đời là mua một lần, không có hóa đơn định kỳ. Bạn có thể quản lý hoặc hủy đăng ký thông qua cài đặt App Store hoặc Google Play của thiết bị.`,
 
     'privacy.s10.title': '10. Thông Báo Xử Lý AI',
-    'privacy.s10.content': `TrueVibe sử dụng trí tuệ nhân tạo để tạo ra các thông tin huấn luyện cá nhân hóa. Phần này giải thích đầy đủ cách nội dung của bạn được xử lý, tuân thủ hướng dẫn của Apple App Store 5.1.1(i) và 5.1.2(i).
+    'privacy.s10.content': `Datrly sử dụng trí tuệ nhân tạo để tạo ra các thông tin huấn luyện cá nhân hóa. Phần này giải thích đầy đủ cách nội dung của bạn được xử lý, tuân thủ hướng dẫn của Apple App Store 5.1.1(i) và 5.1.2(i).
 
 **Bên xử lý AI bên thứ ba**
-Các tính năng AI trong TrueVibe được cung cấp bởi **Google Gemini (Vertex AI — Google Cloud)**. Google là bên thứ ba được nêu tên nhận và xử lý dữ liệu được mô tả bên dưới.
+Các tính năng AI trong Datrly được cung cấp bởi **Google Gemini (Vertex AI — Google Cloud)**. Google là bên thứ ba được nêu tên nhận và xử lý dữ liệu được mô tả bên dưới.
 
 **Những gì chúng tôi gửi đến AI**
 Khi bạn sử dụng một tính năng AI, dữ liệu sau đây được truyền đến Google Gemini (Vertex AI — Google Cloud) để tạo ra kết quả huấn luyện của bạn:
@@ -985,7 +985,7 @@ Khi bạn sử dụng một tính năng AI, dữ liệu sau đây được truy�
 - Ảnh chụp màn hình cuộc trò chuyện hẹn hò (cho Chat Copilot).
 
 **Đồng ý của người dùng trước khi gửi dữ liệu**
-TrueVibe lấy sự đồng ý rõ ràng của bạn trước khi bất kỳ dữ liệu cá nhân nào được truyền đến Google Gemini. Một hộp thoại đồng ý trong ứng dụng được hiển thị lần đầu tiên bạn sử dụng tính năng AI, giải thích rõ ràng dữ liệu nào sẽ được gửi và đến ai. Không có dữ liệu nào được truyền đến bất kỳ hệ thống AI nào cho đến khi bạn đã xác nhận sự đồng ý của mình.
+Datrly lấy sự đồng ý rõ ràng của bạn trước khi bất kỳ dữ liệu cá nhân nào được truyền đến Google Gemini. Một hộp thoại đồng ý trong ứng dụng được hiển thị lần đầu tiên bạn sử dụng tính năng AI, giải thích rõ ràng dữ liệu nào sẽ được gửi và đến ai. Không có dữ liệu nào được truyền đến bất kỳ hệ thống AI nào cho đến khi bạn đã xác nhận sự đồng ý của mình.
 
 **Cách Google xử lý dữ liệu của bạn**
 Theo Cam kết Bảo mật AI/ML của Google Cloud, Google không sử dụng dữ liệu được gửi qua API Vertex AI / Gemini để đào tạo, cải thiện hoặc tinh chỉnh các mô hình AI của mình. Dữ liệu của bạn chỉ được xử lý để tạo ra phản hồi cho phiên của bạn và không được Google lưu giữ lâu dài sau khi quá trình xử lý hoàn tất.
@@ -997,7 +997,7 @@ Nhóm của chúng tôi không đọc tin nhắn riêng tư hoặc nội dung h�
 Chúng tôi chỉ gửi những gì cần thiết để tạo ra đầu ra huấn luyện của bạn. Chúng tôi không bao gồm các định danh cá nhân không cần thiết khi gửi dữ liệu đến Google Gemini.
 
 **Quyền kiểm soát của bạn**
-Bạn kiểm soát những gì bạn chia sẻ với TrueVibe. Bạn không bao giờ bắt buộc phải tải lên nội dung hội thoại riêng tư hoặc ảnh. Tất cả các tính năng phân tích AI đều là tùy chọn theo thiết kế. Bạn có thể rút lại sự đồng ý bất cứ lúc nào bằng cách ngừng sử dụng các tính năng AI.`,
+Bạn kiểm soát những gì bạn chia sẻ với Datrly. Bạn không bao giờ bắt buộc phải tải lên nội dung hội thoại riêng tư hoặc ảnh. Tất cả các tính năng phân tích AI đều là tùy chọn theo thiết kế. Bạn có thể rút lại sự đồng ý bất cứ lúc nào bằng cách ngừng sử dụng các tính năng AI.`,
 
     'privacy.s11.title': '11. Thay Đổi Chính Sách Này',
     'privacy.s11.content': `Chúng tôi có thể cập nhật Chính Sách Bảo Mật này theo thời gian. Khi chúng tôi thực hiện các thay đổi quan trọng, chúng tôi sẽ:
@@ -1011,33 +1011,33 @@ Việc tiếp tục sử dụng Dịch vụ sau khi các thay đổi có hiệu 
     'privacy.s12.title': '12. Liên Hệ Chúng Tôi',
     'privacy.s12.content': `Nếu bạn có câu hỏi về Chính Sách Bảo Mật này, vui lòng liên hệ:
 
-Email: support.truevibe@easier.today
+Email: support.datrly@easier.today
 Chủ đề: Yêu cầu Quyền riêng tư`,
 
     // Terms - Vietnamese
     'terms.title': 'Điều Khoản Dịch Vụ',
-    'terms.description': 'Vui lòng đọc kỹ các điều khoản này trước khi sử dụng TrueVibe.',
+    'terms.description': 'Vui lòng đọc kỹ các điều khoản này trước khi sử dụng Datrly.',
     'terms.lastUpdated': 'Cập nhật lần cuối: 6 tháng 4, 2026',
     'terms.toc.title': 'Mục lục',
     'terms.s1.title': '1. Chấp Nhận Điều Khoản',
-    'terms.s1.content': `Các Điều Khoản Dịch Vụ này ("Điều Khoản") tạo thành thỏa thuận ràng buộc pháp lý giữa bạn ("Người dùng") và TrueVibe ("Công ty") điều chỉnh quyền truy cập và sử dụng ứng dụng di động TrueVibe và tất cả các dịch vụ liên quan.
+    'terms.s1.content': `Các Điều Khoản Dịch Vụ này ("Điều Khoản") tạo thành thỏa thuận ràng buộc pháp lý giữa bạn ("Người dùng") và Datrly ("Công ty") điều chỉnh quyền truy cập và sử dụng ứng dụng di động Datrly và tất cả các dịch vụ liên quan.
 
 BẰNG CÁCH TẢI XUỐNG, CÀI ĐẶT, TRUY CẬP HOẶC SỬ DỤNG DỊCH VỤ, BẠN THỪA NHẬN RẰNG BẠN ĐÃ ĐỌC, HIỂU VÀ ĐỒNG Ý BỊ RÀNG BUỘC BỞI CÁC ĐIỀU KHOẢN NÀY.`,
 
     'terms.s2.title': '2. Mô Tả Dịch Vụ',
-    'terms.s2.content': `TrueVibe là ứng dụng đồng hành hẹn hò được hỗ trợ bởi AI được thiết kế để giúp người dùng cải thiện hồ sơ hẹn hò, sàng lọc người phù hợp tiềm năng và cải thiện các cuộc trò chuyện hẹn hò.
+    'terms.s2.content': `Datrly là ứng dụng đồng hành hẹn hò được hỗ trợ bởi AI được thiết kế để giúp người dùng cải thiện hồ sơ hẹn hò, sàng lọc người phù hợp tiềm năng và cải thiện các cuộc trò chuyện hẹn hò.
 
-**TrueVibe LÀ:**
+**Datrly LÀ:**
 - Công cụ huấn luyện cá nhân hoạt động song song với các nền tảng hẹn hò hiện có.
 - Dịch vụ phân tích dựa trên AI cung cấp các khuyến nghị cá nhân hóa.
 
-**TrueVibe KHÔNG PHẢI LÀ:**
+**Datrly KHÔNG PHẢI LÀ:**
 - Nền tảng hẹn hò hay dịch vụ mai mối.
 - Sự đảm bảo về thành công trong tình yêu.
 - Thay thế cho tư vấn tâm lý hoặc quan hệ chuyên nghiệp.`,
 
     'terms.s3.title': '3. Điều Kiện',
-    'terms.s3.content': `Để sử dụng TrueVibe, bạn phải đáp ứng các yêu cầu sau:
+    'terms.s3.content': `Để sử dụng Datrly, bạn phải đáp ứng các yêu cầu sau:
 
 **Yêu cầu độ tuổi**
 - Bạn phải ít nhất 18 tuổi để sử dụng Dịch vụ độc lập.
@@ -1063,7 +1063,7 @@ Bạn chịu trách nhiệm về bất kỳ ảnh hồ sơ, đoạn trích hội
 Bạn có thể xóa tất cả dữ liệu ứng dụng lưu trữ cục bộ bất cứ lúc nào thông qua Cài đặt > Xóa Dữ Liệu. Gỡ cài đặt ứng dụng cũng xóa tất cả dữ liệu cục bộ.`,
 
     'terms.s5.title': '5. Sử Dụng Được Phép & Hành Vi Bị Cấm',
-    'terms.s5.content': `Bạn đồng ý chỉ sử dụng TrueVibe cho các mục đích hợp pháp. Các hành vi sau đây bị nghiêm cấm:
+    'terms.s5.content': `Bạn đồng ý chỉ sử dụng Datrly cho các mục đích hợp pháp. Các hành vi sau đây bị nghiêm cấm:
 
 **5.1 Nội dung bị cấm**
 - Tải lên hình ảnh hoặc nội dung mô tả trẻ vị thành niên trong bất kỳ bối cảnh lãng mạn nào.
@@ -1088,7 +1088,7 @@ Vi phạm Điều này có thể dẫn đến việc chấm dứt ngay lập t�
 
     'terms.s6.title': '6. Đăng Ký, Sparks & Thanh Toán',
     'terms.s6.content': `**6.1 Gói miễn phí**
-TrueVibe cung cấp gói miễn phí nhận 3 Sparks mỗi ngày. Sparks được nạp lại hàng ngày và không thể tích lũy. Người dùng miễn phí có quyền truy cập tất cả ba tính năng cốt lõi (Nâng cấp hồ sơ, Kiểm tra Vibe, Chat Copilot) trong giới hạn Sparks hàng ngày.
+Datrly cung cấp gói miễn phí nhận 3 Sparks mỗi ngày. Sparks được nạp lại hàng ngày và không thể tích lũy. Người dùng miễn phí có quyền truy cập tất cả ba tính năng cốt lõi (Nâng cấp hồ sơ, Kiểm tra Vibe, Chat Copilot) trong giới hạn Sparks hàng ngày.
 
 **6.2 Sparks (Tín dụng hàng ngày)**
 Sparks là hệ thống tín dụng trong ứng dụng để truy cập các tính năng AI. Các điều khoản chính:
@@ -1117,46 +1117,46 @@ Chúng tôi bảo lưu quyền thay đổi giá đăng ký với thông báo h�
 Tất cả các giao dịch mua là chính thức. Yêu cầu hoàn tiền phải được gửi qua nền tảng tương ứng (Apple hoặc Google). Chúng tôi không xử lý hoàn tiền trực tiếp.`,
 
     'terms.s7.title': '7. Tuyên Bố Từ Chối Về Nội Dung AI',
-    'terms.s7.content': `TrueVibe sử dụng trí tuệ nhân tạo để tạo ra các thông tin, gợi ý và khuyến nghị huấn luyện cá nhân hóa.
+    'terms.s7.content': `Datrly sử dụng trí tuệ nhân tạo để tạo ra các thông tin, gợi ý và khuyến nghị huấn luyện cá nhân hóa.
 
 **7.1 Tính chất đầu ra AI**
 - Nội dung do AI tạo ra được tạo ra bởi các hệ thống tự động.
 - Các gợi ý mang tính xác suất và không đảm bảo kết quả cụ thể.
 
 **7.2 Không phải đảm bảo kết quả**
-TrueVibe không đảm bảo rằng việc làm theo gợi ý của chúng tôi sẽ dẫn đến nhiều match hơn, cuộc hẹn hơn hay bất kỳ kết quả lãng mạn cụ thể nào.
+Datrly không đảm bảo rằng việc làm theo gợi ý của chúng tôi sẽ dẫn đến nhiều match hơn, cuộc hẹn hơn hay bất kỳ kết quả lãng mạn cụ thể nào.
 
 **7.3 Không phải lời khuyên chuyên nghiệp**
 Đầu ra huấn luyện AI không thay thế cho lời khuyên tâm lý, trị liệu hoặc quan hệ chuyên nghiệp.`,
 
     'terms.s8.title': '8. Sở Hữu Trí Tuệ',
     'terms.s8.content': `**8.1 Tài sản của chúng tôi**
-Dịch vụ, bao gồm nội dung gốc, tính năng, chức năng, thiết kế, phần mềm, thuật toán, logo và thương hiệu, thuộc sở hữu của TrueVibe và các bên cấp phép của nó và được bảo vệ bởi luật sở hữu trí tuệ. Bạn không được sao chép, sửa đổi, phân phối, bán hoặc cho thuê bất kỳ phần nào của Dịch vụ mà không có sự cho phép bằng văn bản rõ ràng của chúng tôi.
+Dịch vụ, bao gồm nội dung gốc, tính năng, chức năng, thiết kế, phần mềm, thuật toán, logo và thương hiệu, thuộc sở hữu của Datrly và các bên cấp phép của nó và được bảo vệ bởi luật sở hữu trí tuệ. Bạn không được sao chép, sửa đổi, phân phối, bán hoặc cho thuê bất kỳ phần nào của Dịch vụ mà không có sự cho phép bằng văn bản rõ ràng của chúng tôi.
 
 **8.2 Nội dung của bạn**
-Bạn giữ quyền sở hữu nội dung bạn tải lên Dịch vụ (ảnh, văn bản, đoạn trích hội thoại). Bằng cách tải lên nội dung, bạn cấp cho TrueVibe giấy phép hạn chế, không độc quyền, miễn phí bản quyền để xử lý và phân tích nội dung đó chỉ nhằm mục đích cung cấp Dịch vụ cho bạn. Giấy phép này chấm dứt khi bạn xóa nội dung khỏi ứng dụng.
+Bạn giữ quyền sở hữu nội dung bạn tải lên Dịch vụ (ảnh, văn bản, đoạn trích hội thoại). Bằng cách tải lên nội dung, bạn cấp cho Datrly giấy phép hạn chế, không độc quyền, miễn phí bản quyền để xử lý và phân tích nội dung đó chỉ nhằm mục đích cung cấp Dịch vụ cho bạn. Giấy phép này chấm dứt khi bạn xóa nội dung khỏi ứng dụng.
 
 **8.3 Phản hồi**
 Nếu bạn gửi phản hồi, gợi ý hoặc ý tưởng về Dịch vụ, bạn cấp cho chúng tôi quyền không hạn chế, miễn phí bản quyền để sử dụng phản hồi đó cho bất kỳ mục đích nào.
 
 **8.4 Đầu ra AI**
-Nội dung huấn luyện do AI tạo ra cho bạn thông qua Dịch vụ được cung cấp cho mục đích sử dụng cá nhân của bạn. Bạn không được bán lại, phân phối lại hoặc thương mại hóa đầu ra do AI tạo ra từ TrueVibe.`,
+Nội dung huấn luyện do AI tạo ra cho bạn thông qua Dịch vụ được cung cấp cho mục đích sử dụng cá nhân của bạn. Bạn không được bán lại, phân phối lại hoặc thương mại hóa đầu ra do AI tạo ra từ Datrly.`,
 
     'terms.s9.title': '9. Quyền Riêng Tư',
     'terms.s9.content': `Quyền riêng tư của bạn rất quan trọng với chúng tôi. Chính Sách Bảo Mật của chúng tôi giải thích cách chúng tôi thu thập, sử dụng và chia sẻ thông tin về bạn khi bạn sử dụng Dịch vụ.
 
-Chính Sách Bảo Mật được tích hợp vào các Điều Khoản này bằng cách tham chiếu. Vui lòng xem lại Chính Sách Bảo Mật tại truevibe.easier.today/privacy.`,
+Chính Sách Bảo Mật được tích hợp vào các Điều Khoản này bằng cách tham chiếu. Vui lòng xem lại Chính Sách Bảo Mật tại datrly.easier.today/privacy.`,
 
     'terms.s10.title': '10. Từ Chối Bảo Hành',
-    'terms.s10.content': `DỊCH VỤ ĐƯỢC CUNG CẤP TRÊN CƠ SỞ "NGUYÊN TRẠNG" VÀ "KHI CÓ SẴN" MÀ KHÔNG CÓ BẢO ĐẢM DƯỚI BẤT KỲ HÌNH THỨC NÀO. TRUEVIBE TỪ CHỐI TẤT CẢ BẢO ĐẢM BAO GỒM BẢO ĐẢM NGỤ Ý VỀ KHẢ NĂNG BÁN ĐƯỢC, PHÙ HỢP CHO MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM.`,
+    'terms.s10.content': `DỊCH VỤ ĐƯỢC CUNG CẤP TRÊN CƠ SỞ "NGUYÊN TRẠNG" VÀ "KHI CÓ SẴN" MÀ KHÔNG CÓ BẢO ĐẢM DƯỚI BẤT KỲ HÌNH THỨC NÀO. DATRLY TỪ CHỐI TẤT CẢ BẢO ĐẢM BAO GỒM BẢO ĐẢM NGỤ Ý VỀ KHẢ NĂNG BÁN ĐƯỢC, PHÙ HỢP CHO MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM.`,
 
     'terms.s11.title': '11. Giới Hạn Trách Nhiệm',
-    'terms.s11.content': `TRONG PHẠM VI TỐI ĐA ĐƯỢC LUẬT ÁP DỤNG CHO PHÉP, TRUEVIBE SẼ KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ THIỆT HẠI GIÁN TIẾP, NGẪU NHIÊN, ĐẶC BIỆT, DO HẬU QUẢ HOẶC TRỪNG PHẠT NÀO.
+    'terms.s11.content': `TRONG PHẠM VI TỐI ĐA ĐƯỢC LUẬT ÁP DỤNG CHO PHÉP, DATRLY SẼ KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ THIỆT HẠI GIÁN TIẾP, NGẪU NHIÊN, ĐẶC BIỆT, DO HẬU QUẢ HOẶC TRỪNG PHẠT NÀO.
 
-TỔNG TRÁCH NHIỆM CỦA TRUEVIBE ĐỐI VỚI BẠN SẼ KHÔNG VƯỢT QUÁ SỐ TIỀN CAO HƠN TRONG: (A) SỐ TIỀN BẠN ĐÃ THANH TOÁN CHO TRUEVIBE TRONG 12 THÁNG TRƯỚC, HOẶC (B) MỘT TRĂM ĐÔ LA MỸ ($100).`,
+TỔNG TRÁCH NHIỆM CỦA DATRLY ĐỐI VỚI BẠN SẼ KHÔNG VƯỢT QUÁ SỐ TIỀN CAO HƠN TRONG: (A) SỐ TIỀN BẠN ĐÃ THANH TOÁN CHO DATRLY TRONG 12 THÁNG TRƯỚC, HOẶC (B) MỘT TRĂM ĐÔ LA MỸ ($100).`,
 
     'terms.s12.title': '12. Bồi Thường',
-    'terms.s12.content': `Bạn đồng ý bồi thường, bảo vệ và giữ TrueVibe và các cán bộ, giám đốc, nhân viên, đại lý của nó vô hại khỏi bất kỳ khiếu nại, trách nhiệm pháp lý, thiệt hại phát sinh từ: vi phạm Điều Khoản của bạn, việc sử dụng Dịch vụ của bạn, hoặc vi phạm quyền của bên thứ ba.`,
+    'terms.s12.content': `Bạn đồng ý bồi thường, bảo vệ và giữ Datrly và các cán bộ, giám đốc, nhân viên, đại lý của nó vô hại khỏi bất kỳ khiếu nại, trách nhiệm pháp lý, thiệt hại phát sinh từ: vi phạm Điều Khoản của bạn, việc sử dụng Dịch vụ của bạn, hoặc vi phạm quyền của bên thứ ba.`,
 
     'terms.s13.title': '13. Luật Điều Chỉnh & Giải Quyết Tranh Chấp',
     'terms.s13.content': `**13.1 Luật điều chỉnh**
@@ -1183,11 +1183,11 @@ Chúng tôi khuyên bạn nên xem lại các Điều Khoản này định kỳ.
     'terms.s15.content': `**15.1 Liên hệ**
 Đối với câu hỏi về Điều Khoản Dịch Vụ này, vui lòng liên hệ:
 
-Email: support.truevibe@easier.today
+Email: support.datrly@easier.today
 Chủ đề: Yêu cầu Điều Khoản Dịch Vụ
 
 **15.2 Toàn bộ thỏa thuận**
-Các Điều Khoản này, cùng với Chính Sách Bảo Mật của chúng tôi, cấu thành toàn bộ thỏa thuận giữa bạn và TrueVibe.
+Các Điều Khoản này, cùng với Chính Sách Bảo Mật của chúng tôi, cấu thành toàn bộ thỏa thuận giữa bạn và Datrly.
 
 **15.3 Khả năng tách biệt**
 Nếu bất kỳ điều khoản nào được tìm thấy không thể thực thi, các điều khoản còn lại sẽ vẫn có hiệu lực đầy đủ.`,
@@ -1197,22 +1197,22 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
     'support.description': 'Chúng tôi ở đây để giúp đỡ. Tìm câu trả lời cho các câu hỏi thường gặp hoặc liên hệ trực tiếp.',
     'support.faq.badge': 'Câu hỏi thường gặp',
     'support.faq.title': 'Các Câu Hỏi Thường Gặp',
-    'support.faq.q1': 'TrueVibe là gì và hoạt động như thế nào?',
-    'support.faq.a1': 'TrueVibe là ứng dụng đồng hành hẹn hò AI hoạt động song song với Tinder, Bumble và Hinge. Ba tính năng cốt lõi: Nâng cấp hồ sơ (phân tích ảnh + kế hoạch hành động có điểm số), Kiểm tra Vibe (tải lên tối đa 8 ảnh để nhận hồ sơ AI đầy đủ với điểm tương thích và câu mở đầu), và Chat Copilot (chụp màn hình trò chuyện để nhận gợi ý trả lời kèm lý giải tâm lý). Người dùng miễn phí nhận 3 phân tích AI mỗi ngày. Nâng cấp lên Expert để không giới hạn.',
+    'support.faq.q1': 'Datrly là gì và hoạt động như thế nào?',
+    'support.faq.a1': 'Datrly là ứng dụng đồng hành hẹn hò AI hoạt động song song với Tinder, Bumble và Hinge. Ba tính năng cốt lõi: Nâng cấp hồ sơ (phân tích ảnh + kế hoạch hành động có điểm số), Kiểm tra Vibe (tải lên tối đa 8 ảnh để nhận hồ sơ AI đầy đủ với điểm tương thích và câu mở đầu), và Chat Copilot (chụp màn hình trò chuyện để nhận gợi ý trả lời kèm lý giải tâm lý). Người dùng miễn phí nhận 3 phân tích AI mỗi ngày. Nâng cấp lên Expert để không giới hạn.',
     'support.faq.q2': 'Sparks là gì và gói miễn phí hoạt động như thế nào?',
     'support.faq.a2': 'Sparks là hệ thống tín dụng trong ứng dụng cho các phân tích AI. Người dùng miễn phí nhận 3 Sparks mỗi ngày — đủ cho 3 phân tích đầy đủ (Nâng cấp hồ sơ, Kiểm tra Vibe hoặc Chat Copilot). Sparks được nạp lại hàng ngày. Để mở khóa phân tích không giới hạn, hãy nâng cấp lên gói Expert (Tuần, 3 Tháng hoặc Trọn đời).',
     'support.faq.q3': 'Dữ liệu cuộc trò chuyện hẹn hò của tôi có riêng tư không?',
     'support.faq.a3': 'Có, hoàn toàn. Ảnh chụp màn hình bạn gửi vào Chat Copilot được xử lý bởi AI và không được lưu trữ vĩnh viễn trên máy chủ của chúng tôi sau khi phản hồi được gửi. Nhóm của chúng tôi không xem tin nhắn riêng tư của bạn. Tất cả xử lý dữ liệu diễn ra qua kết nối được mã hóa.',
     'support.faq.q4': 'Làm thế nào để hủy đăng ký Expert?',
-    'support.faq.a4': 'Bạn có thể hủy đăng ký Expert bất cứ lúc nào thông qua cài đặt đăng ký của thiết bị. Trên iPhone/iPad: Vào Cài đặt > Apple ID > Đăng ký > TrueVibe Expert > Hủy đăng ký. Trên Android: Mở Google Play > nhấn biểu tượng hồ sơ > Thanh toán & đăng ký > Đăng ký > TrueVibe > Hủy. Việc hủy có hiệu lực vào cuối kỳ thanh toán hiện tại.',
+    'support.faq.a4': 'Bạn có thể hủy đăng ký Expert bất cứ lúc nào thông qua cài đặt đăng ký của thiết bị. Trên iPhone/iPad: Vào Cài đặt > Apple ID > Đăng ký > Datrly Expert > Hủy đăng ký. Trên Android: Mở Google Play > nhấn biểu tượng hồ sơ > Thanh toán & đăng ký > Đăng ký > Datrly > Hủy. Việc hủy có hiệu lực vào cuối kỳ thanh toán hiện tại.',
     'support.faq.q5': 'Tôi có thể hoàn tiền cho đăng ký không?',
     'support.faq.a5': 'Đối với yêu cầu hoàn tiền đăng ký, vui lòng liên hệ trực tiếp Apple (App Store) hoặc Google (Google Play), vì tất cả các khoản thanh toán được xử lý qua các nền tảng đó. Chúng tôi không xử lý hoàn tiền trực tiếp. Quyết định hoàn tiền thuộc quyền của Apple hoặc Google.',
-    'support.faq.q6': 'TrueVibe có hoạt động cho mọi xu hướng tình dục và loại mối quan hệ không?',
-    'support.faq.a6': 'Có! TrueVibe được thiết kế hoàn toàn để giúp tất cả người dùng bất kể xu hướng tình dục, giới tính hoặc phong cách mối quan hệ.',
+    'support.faq.q6': 'Datrly có hoạt động cho mọi xu hướng tình dục và loại mối quan hệ không?',
+    'support.faq.a6': 'Có! Datrly được thiết kế hoàn toàn để giúp tất cả người dùng bất kể xu hướng tình dục, giới tính hoặc phong cách mối quan hệ.',
     'support.faq.q7': 'Làm thế nào để xóa dữ liệu hoặc đặt lại ứng dụng?',
-    'support.faq.a7': 'TrueVibe lưu trữ toàn bộ dữ liệu của bạn ngay trên thiết bị — không có tài khoản hay dữ liệu trên máy chủ. Để xóa dữ liệu, vào Cài đặt > Xóa dữ liệu > Xác nhận. Thao tác này xóa vĩnh viễn tất cả dữ liệu local bao gồm hồ sơ onboarding và lịch sử phân tích. Bạn cũng có thể gỡ cài đặt ứng dụng để xóa toàn bộ dữ liệu. Nếu cần thêm hỗ trợ, hãy email chúng tôi tại support.truevibe@easier.today.',
+    'support.faq.a7': 'Datrly lưu trữ toàn bộ dữ liệu của bạn ngay trên thiết bị — không có tài khoản hay dữ liệu trên máy chủ. Để xóa dữ liệu, vào Cài đặt > Xóa dữ liệu > Xác nhận. Thao tác này xóa vĩnh viễn tất cả dữ liệu local bao gồm hồ sơ onboarding và lịch sử phân tích. Bạn cũng có thể gỡ cài đặt ứng dụng để xóa toàn bộ dữ liệu. Nếu cần thêm hỗ trợ, hãy email chúng tôi tại support.datrly@easier.today.',
     'support.faq.q8': 'Ứng dụng không hoạt động đúng. Tôi phải làm gì?',
-    'support.faq.a8': 'Trước tiên, hãy thử đóng và mở lại ứng dụng. Nếu vấn đề vẫn còn, hãy thử: (1) Kiểm tra kết nối internet; (2) Cập nhật lên phiên bản mới nhất của TrueVibe; (3) Khởi động lại thiết bị; (4) Gỡ cài đặt và cài đặt lại ứng dụng (dữ liệu local sẽ bị xóa khi cài lại). Nếu không có bước nào giúp ích, vui lòng liên hệ chúng tôi tại support.truevibe@easier.today.',
+    'support.faq.a8': 'Trước tiên, hãy thử đóng và mở lại ứng dụng. Nếu vấn đề vẫn còn, hãy thử: (1) Kiểm tra kết nối internet; (2) Cập nhật lên phiên bản mới nhất của Datrly; (3) Khởi động lại thiết bị; (4) Gỡ cài đặt và cài đặt lại ứng dụng (dữ liệu local sẽ bị xóa khi cài lại). Nếu không có bước nào giúp ích, vui lòng liên hệ chúng tôi tại support.datrly@easier.today.',
     'support.contact.badge': 'Liên hệ',
     'support.contact.title': 'Liên Hệ Hỗ Trợ',
     'support.contact.subtitle': 'Không tìm thấy những gì bạn cần? Gửi tin nhắn cho chúng tôi và chúng tôi sẽ phản hồi trong vòng 24 giờ.',
@@ -1227,20 +1227,20 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
 
     // Delete Data - Vietnamese
     'delete.title': 'Xóa Dữ Liệu Của Bạn',
-    'delete.description': 'Hướng dẫn xóa toàn bộ dữ liệu TrueVibe được lưu trên thiết bị của bạn.',
-    'delete.intro': 'TrueVibe không có tài khoản và không có dữ liệu trên máy chủ — toàn bộ dữ liệu của bạn chỉ được lưu cục bộ trên thiết bị. Việc xóa diễn ra tức thì và vĩnh viễn.',
+    'delete.description': 'Hướng dẫn xóa toàn bộ dữ liệu Datrly được lưu trên thiết bị của bạn.',
+    'delete.intro': 'Datrly không có tài khoản và không có dữ liệu trên máy chủ — toàn bộ dữ liệu của bạn chỉ được lưu cục bộ trên thiết bị. Việc xóa diễn ra tức thì và vĩnh viễn.',
     'delete.warning': 'Cảnh báo: Hành động này không thể hoàn tác',
     'delete.warningText': 'Sau khi xóa, toàn bộ dữ liệu cục bộ — bao gồm hồ sơ onboarding và lịch sử phân tích — sẽ bị xóa vĩnh viễn khỏi thiết bị này.',
     'delete.method1.title': 'Cách 1: Xóa trong ứng dụng (Khuyến nghị)',
-    'delete.method1.step1': 'Mở ứng dụng TrueVibe trên thiết bị của bạn.',
+    'delete.method1.step1': 'Mở ứng dụng Datrly trên thiết bị của bạn.',
     'delete.method1.step2': 'Chuyển đến tab More (thanh điều hướng dưới cùng).',
     'delete.method1.step3': 'Nhấn vào "Cài đặt".',
     'delete.method1.step4': 'Nhấn "Xóa dữ liệu" và xác nhận.',
     'delete.method1.step5': 'Toàn bộ dữ liệu cục bộ sẽ được xóa ngay lập tức và vĩnh viễn. Ứng dụng sẽ quay về màn hình onboarding.',
     'delete.method2.title': 'Cách 2: Gỡ cài đặt ứng dụng',
-    'delete.method2.text': 'Gỡ cài đặt TrueVibe sẽ xóa toàn bộ dữ liệu cục bộ khỏi thiết bị:',
-    'delete.method2.step1': 'Trên iPhone/iPad: Nhấn giữ biểu tượng TrueVibe > Xóa ứng dụng > Xóa.',
-    'delete.method2.step2': 'Trên Android: Nhấn giữ biểu tượng TrueVibe > Gỡ cài đặt > OK.',
+    'delete.method2.text': 'Gỡ cài đặt Datrly sẽ xóa toàn bộ dữ liệu cục bộ khỏi thiết bị:',
+    'delete.method2.step1': 'Trên iPhone/iPad: Nhấn giữ biểu tượng Datrly > Xóa ứng dụng > Xóa.',
+    'delete.method2.step2': 'Trên Android: Nhấn giữ biểu tượng Datrly > Gỡ cài đặt > OK.',
     'delete.method2.step3': 'Tất cả dữ liệu cục bộ sẽ bị xóa khi gỡ cài đặt.',
     'delete.method2.step4': 'Lưu ý: Gỡ cài đặt không hủy đăng ký Expert đang hoạt động. Hãy quản lý đăng ký riêng trong cài đặt App Store hoặc Google Play.',
     'delete.dataInfo.title': 'Những Gì Sẽ Bị Xóa',
@@ -1249,7 +1249,7 @@ Nếu bất kỳ điều khoản nào được tìm thấy không thể thực t
     'delete.dataInfo.2': 'Toàn bộ lịch sử phân tích (Nâng cấp hồ sơ, Kiểm tra Vibe, Chat Copilot) bị xóa vĩnh viễn.',
     'delete.dataInfo.3': 'Không có tài khoản server-side để xóa — dữ liệu của bạn chưa bao giờ rời khỏi thiết bị.',
     'delete.dataInfo.4': 'Trạng thái đăng ký Expert do Apple/Google quản lý và không bị ảnh hưởng khi xóa dữ liệu ứng dụng.',
-    'delete.contact': 'Cần hỗ trợ hoặc muốn phản hồi? Liên hệ chúng tôi tại support.truevibe@easier.today',
+    'delete.contact': 'Cần hỗ trợ hoặc muốn phản hồi? Liên hệ chúng tôi tại support.datrly@easier.today',
   }
 }
 

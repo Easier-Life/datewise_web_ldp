@@ -44,7 +44,7 @@ export default function AboutPage() {
               marginBottom: '20px',
             }}
           >
-            <span style={{ fontSize: '13px', color: '#2DD4BF', fontWeight: 500 }}>TrueVibe</span>
+            <span style={{ fontSize: '13px', color: '#2DD4BF', fontWeight: 500 }}>Datrly</span>
           </div>
           <h1
             style={{

@@ -1,8 +1,8 @@
-# TrueVibe LDP - Differentiation Section Design Spec
+# Datrly LDP - Differentiation Section Design Spec
 
 ## 1. Overview
-Khối nội dung này sẽ thay thế cho phần "Expert Subscription" trên trang Landing Page (LDP) của TrueVibe (`datewise_web_ldp` project). 
-Mục tiêu là làm nổi bật sự khác biệt và chất lượng vượt trội của TrueVibe so với các ứng dụng dating assistant/AI "thả thính dạo" trên thị trường hiện nay (như Rizz, Wingman, Your Move AI). Khối này nhắm đến đối tượng khách hàng nghiêm túc (Relationship-minded), những người đang ở giai đoạn "The Dip" (thất vọng với kết quả hẹn hò hiện tại).
+Khối nội dung này sẽ thay thế cho phần "Expert Subscription" trên trang Landing Page (LDP) của Datrly (`datewise_web_ldp` project). 
+Mục tiêu là làm nổi bật sự khác biệt và chất lượng vượt trội của Datrly so với các ứng dụng dating assistant/AI "thả thính dạo" trên thị trường hiện nay (như Rizz, Wingman, Your Move AI). Khối này nhắm đến đối tượng khách hàng nghiêm túc (Relationship-minded), những người đang ở giai đoạn "The Dip" (thất vọng với kết quả hẹn hò hiện tại).
 
 ## 2. SEO & Copywriting Strategy
 - **Góc độ (Angle):** So sánh trực tiếp và chạm vào "Pain point" của người dùng khi sử dụng AI không có chiều sâu.
@@ -21,13 +21,13 @@ Thiết kế sử dụng cấu trúc **Z-pattern hoặc 2 Khối Xếp Cạnh Nh
   - *Kết quả:* Bạn gửi đi ➔ Lời văn sượng sùng, không giống con người bạn ➔ Đối phương tụt mood và im lặng (Ghosted).
   - *Sub-text:* Hẹn hò chỉ bằng văn mẫu sẽ không bao giờ tạo ra kết nối sâu sắc.
 
-### Khối Phải: Đẳng Cấp Chuyên Gia TrueVibe (The Real Strategy)
-- **Visuals:** Hiệu ứng Glassmorphism, bóng đổ nổi bật, stroke gradient sử dụng màu chủ đạo của TrueVibe, mang cảm giác Premium/VIP. Icon thả tim hoặc checkmark xanh (✅).
+### Khối Phải: Đẳng Cấp Chuyên Gia Datrly (The Real Strategy)
+- **Visuals:** Hiệu ứng Glassmorphism, bóng đổ nổi bật, stroke gradient sử dụng màu chủ đạo của Datrly, mang cảm giác Premium/VIP. Icon thả tim hoặc checkmark xanh (✅).
 - **Nội dung:**
   - *Chẩn đoán (LearnedProfile):* Thấu hiểu tính cách của BẠN trước, soi chiếu "Red Flag / Green Flag" của đối phương từ profile/chat.
   - *Chiến thuật (Playbook):* AI đưa ra cách dẫn dắt câu chuyện dựa trên chính giọng điệu thật của bạn, phân tích dynamics hội thoại.
   - *Kết quả:* Tự tin gửi tin nhắn ➔ Câu chuyện có rễ sâu ➔ Chốt buổi hẹn hò chất lượng.
-  - *Sub-text:* TrueVibe không nói hộ bạn. Chúng tôi coach để chính bạn trở thành phiên bản cuốn hút nhất.
+  - *Sub-text:* Datrly không nói hộ bạn. Chúng tôi coach để chính bạn trở thành phiên bản cuốn hút nhất.
 
 ### 4. Call-to-Action (CTA)
 - Đặt ngay dưới khối so sánh này trang bị CTA mạnh mẽ.
@@ -37,4 +37,4 @@ Thiết kế sử dụng cấu trúc **Z-pattern hoặc 2 Khối Xếp Cạnh Nh
 ## 5. Implementation Considerations
 - Sử dụng framework CSS hiện tại (TailwindCSS - nếu có trong Next.js) để dựng UI Component.
 - Đảm bảo thẻ `<section>`, `<h2>` và `<p>` đúng ngữ nghĩa Semantic HTML cho SEO.
-- Sử dụng hiệu ứng hover hoặc micro-animations ở khối TrueVibe (Khối phải) để nó nổi trội hẳn lên (Scale up nhẹ, glow border) so với khối trái (Scale down, fade out).
+- Sử dụng hiệu ứng hover hoặc micro-animations ở khối Datrly (Khối phải) để nó nổi trội hẳn lên (Scale up nhẹ, glow border) so với khối trái (Scale down, fade out).

@@ -14,21 +14,21 @@ const plusJakarta = Plus_Jakarta_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: 'TrueVibe — AI Dating Companion',
-    template: '%s | TrueVibe',
+    default: 'Datrly — AI Dating Companion',
+    template: '%s | Datrly',
   },
   description:
-    'TrueVibe is your AI-powered dating companion that runs alongside Tinder, Bumble, and Hinge — optimizing your profile, screening matches, and coaching your conversations.',
+    'Datrly is your AI-powered dating companion that runs alongside Tinder, Bumble, and Hinge — optimizing your profile, screening matches, and coaching your conversations.',
   keywords: ['dating app', 'dating coach', 'AI dating', 'profile optimizer', 'relationship advice'],
-  authors: [{ name: 'TrueVibe' }],
-  creator: 'TrueVibe',
-  metadataBase: new URL('https://truevibe.easier.today'),
+  authors: [{ name: 'Datrly' }],
+  creator: 'Datrly',
+  metadataBase: new URL('https://datrly.easier.today'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://truevibe.easier.today',
-    siteName: 'TrueVibe',
-    title: 'TrueVibe — AI Dating Companion',
+    url: 'https://datrly.easier.today',
+    siteName: 'Datrly',
+    title: 'Datrly — AI Dating Companion',
     description:
       'Your intelligent dating companion for meaningful connections. Profile analysis, match screening, and conversation coaching.',
     images: [
@@ -36,13 +36,13 @@ export const metadata: Metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'TrueVibe — AI Dating Companion',
+        alt: 'Datrly — AI Dating Companion',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'TrueVibe — AI Dating Companion',
+    title: 'Datrly — AI Dating Companion',
     description: 'Date smarter with AI-powered coaching.',
     images: ['/og-image.png'],
   },
